@@ -14,7 +14,8 @@ import ConfigParser
 import hashlib
 
 logging.config.fileConfig('logging.conf')
-			
+
+""" continuously dumps a google reader shared items feed into couchdb """		
 class Fetcher:
 	def __init__(self, feed_url, feed_name, db):
 		self.feed_url = feed_url
