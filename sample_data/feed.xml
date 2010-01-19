@@ -1,0 +1,1572 @@
+<?xml version="1.0"?>
+<feed xmlns:idx="urn:atom-extension:indexing" xmlns:gr="http://www.google.com/schemas/reader/atom/" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" idx:index="no">
+	<!--
+Content-type: Preventing XSRF in IE.
+
+-->
+	<generator uri="http://www.google.com/reader">Google Reader</generator>
+	<id>tag:google.com,2005:reader/user/04542763409539038815/state/com.google/broadcast</id>
+	<link rel="hub" href="http://pubsubhubbub.appspot.com/"/>
+	<title>caprazzo's shared items in Google Reader</title>
+	<gr:continuation>CNGL3PzXop8C</gr:continuation>
+	<link rel="self" href="http://www.google.com/reader/public/atom/user%2F04542763409539038815%2Fstate%2Fcom.google%2Fbroadcast"/>
+	<author>
+		<name>caprazzo</name>
+	</author>
+	<updated>2010-01-17T00:03:44Z</updated>
+	<entry gr:crawl-timestamp-msec="1263686624671">
+		<id gr:original-id="">tag:google.com,2005:reader/item/44cae93bfea1b7a6</id>
+		<title type="html">stateless url shortening service using compression</title>
+		<published>2010-01-17T00:03:44Z</published>
+		<updated>2010-01-17T00:03:44Z</updated>
+		<link rel="alternate" href="http://news.ycombinator.com/item?id=546530" type="text/html"/>
+		<link rel="related" href="http://news.ycombinator.com/" title="news.ycombinator.com"/>
+		<summary type="html">&lt;blockquote&gt;Shared by  caprazzo 
+&lt;br&gt;
+good idea, but can it work?&lt;/blockquote&gt;
+
+</summary>
+		<author gr:unknown-author="true">
+			<name>(author unknown)</name>
+		</author>
+		<gr:annotation>
+			<content type="html">good idea, but can it work?</content>
+			<author gr:user-id="04542763409539038815" gr:profile-id="112222663972638770219">
+				<name>caprazzo</name>
+			</author>
+		</gr:annotation>
+		<source gr:stream-id="user/04542763409539038815/source/com.google/link">
+			<id>tag:google.com,2005:reader/user/04542763409539038815/source/com.google/link</id>
+			<title type="html">news.ycombinator.com</title>
+			<link rel="alternate" href="http://news.ycombinator.com/" type="text/html"/>
+		</source>
+	</entry>
+	<entry gr:crawl-timestamp-msec="1263686349957">
+		<id gr:original-id="">tag:google.com,2005:reader/item/e19ebc9b0e595429</id>
+		<title type="html">URL shortening services had experienced a big push in the age</title>
+		<published>2010-01-16T23:59:09Z</published>
+		<updated>2010-01-16T23:59:09Z</updated>
+		<link rel="alternate" href="http://raduboncea.ro/2009/04/07/url-shortening-how-do-they-do-it/" type="text/html"/>
+		<link rel="related" href="http://raduboncea.ro/" title="raduboncea.ro"/>
+		<content xml:base="http://raduboncea.ro/2009/04/07/url-shortening-how-do-they-do-it/" type="html">&lt;blockquote&gt;Shared by  caprazzo 
+&lt;br&gt;
+shorten you may, but beware of the loops&lt;/blockquote&gt;
+URL shortening services had experienced a big push in the age of social networks rising, such as Twitter, where big urls collide with the 140 characters user
+</content>
+		<author gr:unknown-author="true">
+			<name>(author unknown)</name>
+		</author>
+		<gr:annotation>
+			<content type="html">shorten you may, but beware of the loops</content>
+			<author gr:user-id="04542763409539038815" gr:profile-id="112222663972638770219">
+				<name>caprazzo</name>
+			</author>
+		</gr:annotation>
+		<source gr:stream-id="user/04542763409539038815/source/com.google/link">
+			<id>tag:google.com,2005:reader/user/04542763409539038815/source/com.google/link</id>
+			<title type="html">raduboncea.ro</title>
+			<link rel="alternate" href="http://raduboncea.ro/" type="text/html"/>
+		</source>
+	</entry>
+	<entry gr:crawl-timestamp-msec="1263686229753">
+		<id gr:original-id="">tag:google.com,2005:reader/item/28dd429df75f0720</id>
+		<title type="html">Hashes In Practice</title>
+		<published>2010-01-16T23:57:09Z</published>
+		<updated>2010-01-16T23:57:09Z</updated>
+		<link rel="alternate" href="http://www.codinghorror.com/blog/archives/000935.html" type="text/html"/>
+		<link rel="related" href="http://www.codinghorror.com/" title="www.codinghorror.com"/>
+		<summary type="html">&lt;blockquote&gt;Shared by  caprazzo 
+&lt;br&gt;
+url shortening: no classical hashes :(&lt;/blockquote&gt;
+
+</summary>
+		<author gr:unknown-author="true">
+			<name>(author unknown)</name>
+		</author>
+		<gr:annotation>
+			<content type="html">url shortening: no classical hashes :(</content>
+			<author gr:user-id="04542763409539038815" gr:profile-id="112222663972638770219">
+				<name>caprazzo</name>
+			</author>
+		</gr:annotation>
+		<source gr:stream-id="user/04542763409539038815/source/com.google/link">
+			<id>tag:google.com,2005:reader/user/04542763409539038815/source/com.google/link</id>
+			<title type="html">www.codinghorror.com</title>
+			<link rel="alternate" href="http://www.codinghorror.com/" type="text/html"/>
+		</source>
+	</entry>
+	<entry gr:crawl-timestamp-msec="1263672812725">
+		<id gr:original-id="">tag:google.com,2005:reader/item/f5eee696c9e075b0</id>
+		<title type="html">Speaking the Java language without an accent</title>
+		<published>2010-01-12T05:00:00Z</published>
+		<updated>2010-01-12T05:00:00Z</updated>
+		<link rel="alternate" href="http://www.ibm.com/developerworks/java/library/j-noaccent.html?ca=drs-" type="text/html"/>
+		<summary xml:base="http://www.ibm.com/developerworks/" xml:lang="en-US" type="html">Elliotte Rusty Harold explores the native idioms, dialects, and accents
+    of the Java language and community. By following this article&amp;amp;apos;s guidance,
+    C/C++ and other nonnative programmers can blend right in with native Java speakers.</summary>
+		<author gr:unknown-author="true">
+			<name>(author unknown)</name>
+		</author>
+		<gr:likingUser>11790898103852694040</gr:likingUser>
+		<gr:likingUser>07459188313302360505</gr:likingUser>
+		<gr:likingUser>15353718708938386385</gr:likingUser>
+		<gr:likingUser>10365744210337260297</gr:likingUser>
+		<gr:likingUser>14454327466461228563</gr:likingUser>
+		<gr:likingUser>12883247801568252000</gr:likingUser>
+		<gr:likingUser>17356165223358079141</gr:likingUser>
+		<gr:likingUser>18161658806790074856</gr:likingUser>
+		<gr:likingUser>10126512172688744404</gr:likingUser>
+		<gr:likingUser>00467376333936428022</gr:likingUser>
+		<gr:likingUser>15119325037812069525</gr:likingUser>
+		<gr:likingUser>00752375249788061461</gr:likingUser>
+		<source gr:stream-id="feed/http://www.ibm.com/developerworks/views/java/rss/libraryview.jsp">
+			<id>tag:google.com,2005:reader/feed/http://www.ibm.com/developerworks/views/java/rss/libraryview.jsp</id>
+			<title type="html">IBM developerWorks : Java technology</title>
+			<link rel="alternate" href="http://www.ibm.com/developerworks/" type="text/html"/>
+		</source>
+	</entry>
+	<entry gr:crawl-timestamp-msec="1263672706023">
+		<id gr:original-id="http://www.downloadsquad.com/2010/01/16/manpacks-offers-automatic-delivery-of-clean-undies-to-helpless-men/">tag:google.com,2005:reader/item/26a5179199ad321c</id>
+		<category term="ecommerce"/>
+		<category term="manpacks"/>
+		<category term="shopping"/>
+		<category term="socks"/>
+		<category term="underwear"/>
+		<category term="web"/>
+		<title type="html">Manpacks offers automatic delivery of clean undies to helpless men</title>
+		<published>2010-01-16T16:02:00Z</published>
+		<updated>2010-01-16T16:02:00Z</updated>
+		<link rel="alternate" href="http://www.pheedcontent.com/click.phdo?i=3590cf96adf2617c021394c40faa6ba1" type="text/html"/>
+		<summary xml:base="http://www.downloadsquad.com/" type="html">&lt;p&gt;Filed under: &lt;a href="http://www.downloadsquad.com/category/web-services/" rel="tag"&gt;Web services&lt;/a&gt;&lt;/p&gt;&lt;div style="text-align:center"&gt;&lt;a href="http://www.downloadsquad.com/www.manpacks.com/"&gt;&lt;img hspace="4" height="302" width="580" vspace="4" border="0" alt="" src="http://www.blogcdn.com/www.downloadsquad.com/media/2010/01/manpacks-sdafa-1263650607.jpg"&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div style="text-align:left"&gt;OK, bear with me on this one. No, underwear isn't something you can download. Well, maybe from vending machines in Japan, but you know what I mean... But as a man who knows how to do little things like, say, wash my own clothes and go shopping, I'm a little offended by the idea behind &lt;a href="http://www.manpacks.com/"&gt;Manpacks&lt;/a&gt;.&lt;br&gt;
+&lt;br&gt;
+Sign up, fork over your credit card info, and you'll never have to worry about remembering to buy replacements for your ratty, formerly-white skivvies ever again. Packs start with the minimalist socks-only plan -- three pairs every three months for $7 - and go up to the Macho Pack, which includes 3 each of underpants, undershirts, and socks.&lt;br&gt;
+&lt;br&gt;
+I've used the web to subscribe to things before -- streaming audio services, Suici-- er, &lt;em&gt;alternative &lt;/em&gt;community sites... But I'm just not sure I'm so helpless that I need to have a a server somewhere plotting to send me Hanes jockey shorts once a quarter. I don't know about the rest of you, but my &lt;em&gt;grocery store&lt;/em&gt; has Hanes underwear -- and I'm there once a week anyway. The odd juxtaposition of food and briefs is enough to remind me I might need a new pair.&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;Note to "Pauline M.":&lt;/strong&gt; if this is the kind of thing that "kinda sorta" makes you wish you were a man, you probably ought to phone a psychiatrist immediately.&lt;/div&gt;
+&lt;div style="width:100%;height:15px;display:block;margin-top:3px"&gt;&lt;span style="float:right"&gt;&lt;a href="http://www.facebook.com/sharer.php" name="fb_share"&gt;Share&lt;/a&gt;&lt;/span&gt; &lt;span style="float:right"&gt; &lt;/span&gt;&lt;/div&gt;&lt;p style="padding:5px;background:#ddd;border:1px solid #ccc;clear:both"&gt;&lt;a href="http://www.downloadsquad.com/2010/01/16/manpacks-offers-automatic-delivery-of-clean-undies-to-helpless-men/"&gt;Manpacks offers automatic delivery of clean undies to helpless men&lt;/a&gt; originally appeared on &lt;a href="http://www.downloadsquad.com"&gt;Download Squad&lt;/a&gt; on Sat, 16 Jan 2010 11:02:00 EST.  Please see our &lt;a href="http://www.weblogsinc.com/feed-terms/"&gt;terms for use of feeds&lt;/a&gt;.&lt;/p&gt;&lt;h6 style="clear:both;padding:8px 0 0 0;height:2px;font-size:1px;border:0;margin:0;padding:0"&gt;&lt;/h6&gt;&lt;a href="http://www.manpacks.com/"&gt;Read&lt;/a&gt;&#xA0;|&#xA0;&lt;a href="http://www.downloadsquad.com/2010/01/16/manpacks-offers-automatic-delivery-of-clean-undies-to-helpless-men/" rel="bookmark" title="Permanent link to this entry"&gt;Permalink&lt;/a&gt;&#xA0;|&#xA0;&lt;a href="http://www.downloadsquad.com/forward/19319449/" title="Send this entry to a friend via email"&gt;Email this&lt;/a&gt;&#xA0;|&#xA0;&lt;a href="http://www.downloadsquad.com/2010/01/16/manpacks-offers-automatic-delivery-of-clean-undies-to-helpless-men/#comments" title="View reader comments on this entry"&gt;Comments&lt;/a&gt;&lt;br style="clear:both"&gt;
+&lt;br style="clear:both"&gt;
+  &lt;a style="font-size:10px;color:maroon" href="http://www.pheedcontent.com/hostedMorselClick.php?hfmm=v3:0c47f676897e1962d609deb0b2aece47:RO8pgsH%2F%2BX5Bzcn2Z2oiiXeLe5T%2F1nHj%2Ffep%2FZeuzy77c5PSNfTCnkXusXp2WVGrTEJnycT1znSs"&gt;&lt;img border="0" title="Add to digg" alt="Add to digg" src="http://images.pheedo.com/images/mm/digg.gif"&gt;&lt;/a&gt;
+  &lt;a style="font-size:10px;color:maroon" href="http://www.pheedcontent.com/hostedMorselClick.php?hfmm=v3:5cb110d9467b75c9112f860faed738cf:0%2BSmxC05rVfjuUzOhLsIDmbeXq622Bi0R1Opu8w7erKVabrPMlc29BeFN6b5y%2BI6QOG04Oi9gJfC"&gt;&lt;img border="0" title="Add to del.icio.us" alt="Add to del.icio.us" src="http://images.pheedo.com/images/mm/delicious.gif"&gt;&lt;/a&gt;
+  &lt;a style="font-size:10px;color:maroon" href="http://www.pheedcontent.com/hostedMorselClick.php?hfmm=v3:f9b22242acf579d0bef0db0b84d255c4:yjCECBCE%2BJjLy37YOyJget0wq5pRur6c8CSAy3m0U1tsC41OxL0t%2B%2FlZv6MqnqXN%2FMoi%2BqGgR1Y1"&gt;&lt;img border="0" title="Add to Google" alt="Add to Google" src="http://images.pheedo.com/images/mm/google.png"&gt;&lt;/a&gt;
+  &lt;a style="font-size:10px;color:maroon" href="http://www.pheedcontent.com/hostedMorselClick.php?hfmm=v3:67a3459bb913797311fd0b7428eceb63:8ihCtmWTtrq8dpAdkHrxK31CytwpLw3%2FnO9bAI0Rlqug%2F7maBPdmbcI2mK0YSHRL5%2BiCCIyHEJlSFg%3D%3D"&gt;&lt;img border="0" title="Add to StumbleUpon" alt="Add to StumbleUpon" src="http://images.pheedo.com/images/mm/stumbleit.gif"&gt;&lt;/a&gt;
+  &lt;a style="font-size:10px;color:maroon" href="http://www.pheedcontent.com/hostedMorselClick.php?hfmm=v3:14edf00ff194ef2161fdc4f81e8c1529:ghoSH06nNB5CuUYokWRlYD8z5tCPYGWRAj9uCQphNrPWgdDhUGn2Anhm5HMyKYf46CrfLtd0PQCAlg%3D%3D"&gt;&lt;img border="0" title="Add to Facebook" alt="Add to Facebook" src="http://images.pheedo.com/images/mm/facebook.gif"&gt;&lt;/a&gt;
+  &lt;a style="font-size:10px;color:maroon" href="http://www.pheedcontent.com/hostedMorselClick.php?hfmm=v3:289be2d30c30e55066ef5ac7f879323a:he%2B0d2S%2BFuB3wWSiNnblMAI3nN2QhCpIxWbNFVrvHzHfuD8A49SqO3IA9ttbISx8kO3TzqIeUUed"&gt;&lt;img border="0" title="Add to Reddit" alt="Add to Reddit" src="http://images.pheedo.com/images/mm/reddit.png"&gt;&lt;/a&gt;
+  &lt;a style="font-size:10px;color:maroon" href="http://www.pheedcontent.com/hostedMorselClick.php?hfmm=v3:edef74be958bbb16c472efb6ac4300ec:h237SHJzxGI9lEs082aN5nIDsUCzXdjmaukeUOOZZFNQHTDHWApVTqQFAL8KBlVvK%2F9%2FvvQ%2BYRC1rw%3D%3D"&gt;&lt;img border="0" title="Add to Technorati" alt="Add to Technorati" src="http://images.pheedo.com/images/mm/technorati.png"&gt;&lt;/a&gt;
+&lt;br style="clear:both"&gt;
+&lt;a href="http://ads.pheedo.com/click.phdo?s=3590cf96adf2617c021394c40faa6ba1&amp;amp;p=1"&gt;&lt;img alt="" style="border:0" border="0" src="http://ads.pheedo.com/img.phdo?s=3590cf96adf2617c021394c40faa6ba1&amp;amp;p=1"&gt;&lt;/a&gt;
+&lt;img alt="" height="0" width="0" border="0" src="http://a.rfihub.com/eus.gif?eui=2225"&gt;&lt;br&gt;
+&lt;img src="http://ads.pheedo.com/img.phdo?kw="&gt; 
+&lt;a href="http://ads.pheedo.com/click.phdo?s=3590cf96adf2617c021394c40faa6ba1&amp;amp;p=64&amp;amp;kw=Undergarment"&gt;Undergarment&lt;/a&gt; - &lt;a href="http://ads.pheedo.com/click.phdo?s=3590cf96adf2617c021394c40faa6ba1&amp;amp;p=64&amp;amp;kw=Vending+machine"&gt;Vending machine&lt;/a&gt; - &lt;a href="http://ads.pheedo.com/click.phdo?s=3590cf96adf2617c021394c40faa6ba1&amp;amp;p=64&amp;amp;kw=Hanes"&gt;Hanes&lt;/a&gt; - &lt;a href="http://ads.pheedo.com/click.phdo?s=3590cf96adf2617c021394c40faa6ba1&amp;amp;p=64&amp;amp;kw=Japan"&gt;Japan&lt;/a&gt; - &lt;a href="http://ads.pheedo.com/click.phdo?s=3590cf96adf2617c021394c40faa6ba1&amp;amp;p=64&amp;amp;kw=Credit+card"&gt;Credit card&lt;/a&gt;</summary>
+		<author>
+			<name>Lee Mathews</name>
+		</author>
+		<gr:likingUser>01058726096188651751</gr:likingUser>
+		<gr:likingUser>17268183178673568997</gr:likingUser>
+		<gr:likingUser>00597812614721248417</gr:likingUser>
+		<gr:likingUser>17535575783619720614</gr:likingUser>
+		<gr:likingUser>05426887783355820332</gr:likingUser>
+		<gr:likingUser>10704438643790646242</gr:likingUser>
+		<gr:likingUser>16807818791974701108</gr:likingUser>
+		<gr:likingUser>11592565101312878706</gr:likingUser>
+		<gr:likingUser>07563238596615972861</gr:likingUser>
+		<gr:likingUser>06133702831107670993</gr:likingUser>
+		<gr:likingUser>17829665286889299635</gr:likingUser>
+		<gr:likingUser>01375722470269404504</gr:likingUser>
+		<gr:likingUser>10219456665617116596</gr:likingUser>
+		<gr:likingUser>08790366332563222935</gr:likingUser>
+		<source gr:stream-id="feed/http://www.downloadsquad.com/rss.xml">
+			<id>tag:google.com,2005:reader/feed/http://www.downloadsquad.com/rss.xml</id>
+			<title type="html">Download Squad</title>
+			<link rel="alternate" href="http://www.downloadsquad.com" type="text/html"/>
+		</source>
+	</entry>
+	<entry gr:crawl-timestamp-msec="1263672616160">
+		<id gr:original-id="http://images.ucomics.com/comics/ch/2010/ch100114.gif">tag:google.com,2005:reader/item/b9d1d00d9182af09</id>
+		<title type="html">Calvin and Hobbes for January 14, 2010</title>
+		<published>2010-01-16T20:10:16Z</published>
+		<updated>2010-01-16T20:10:16Z</updated>
+		<link rel="alternate" href="http://www.ucomics.com/calvinandhobbes/2010/01/14/" type="text/html"/>
+		<summary xml:base="http://www.ucomics.com/calvinandhobbes/" type="html">&lt;img src="http://images.ucomics.com/comics/ch/2010/ch100114.gif" border="0"&gt;</summary>
+		<author gr:unknown-author="true">
+			<name>(author unknown)</name>
+		</author>
+		<gr:likingUser>10772784706322428987</gr:likingUser>
+		<gr:likingUser>05913131788414133972</gr:likingUser>
+		<gr:likingUser>07618966717927440885</gr:likingUser>
+		<gr:likingUser>07482513673110378168</gr:likingUser>
+		<gr:likingUser>05402399214056075652</gr:likingUser>
+		<gr:likingUser>03188643447512250971</gr:likingUser>
+		<gr:likingUser>05510930994732353360</gr:likingUser>
+		<gr:likingUser>18115864549649701153</gr:likingUser>
+		<gr:likingUser>13566744432666060384</gr:likingUser>
+		<gr:likingUser>11371920384570050806</gr:likingUser>
+		<gr:likingUser>09264615518450785015</gr:likingUser>
+		<gr:likingUser>11647708000147951878</gr:likingUser>
+		<gr:likingUser>09645285000218511263</gr:likingUser>
+		<gr:likingUser>12833142084095559233</gr:likingUser>
+		<gr:likingUser>04677147694927755839</gr:likingUser>
+		<gr:likingUser>15593752850030032929</gr:likingUser>
+		<gr:likingUser>04832344377710836923</gr:likingUser>
+		<gr:likingUser>03604101632526527412</gr:likingUser>
+		<gr:likingUser>13101660192915583601</gr:likingUser>
+		<gr:likingUser>18296506939987857554</gr:likingUser>
+		<gr:likingUser>08374161898629033343</gr:likingUser>
+		<gr:likingUser>08056641559538829189</gr:likingUser>
+		<gr:likingUser>01008612131441541216</gr:likingUser>
+		<gr:likingUser>01558541830810516421</gr:likingUser>
+		<gr:likingUser>06834048323101051509</gr:likingUser>
+		<gr:likingUser>05104071066905911354</gr:likingUser>
+		<gr:likingUser>13949945115150848372</gr:likingUser>
+		<gr:likingUser>04471047336270089903</gr:likingUser>
+		<gr:likingUser>01178980287601590785</gr:likingUser>
+		<gr:likingUser>13060252870536649006</gr:likingUser>
+		<gr:likingUser>08074764807524425164</gr:likingUser>
+		<gr:likingUser>00201260361503409075</gr:likingUser>
+		<gr:likingUser>08625815719524137557</gr:likingUser>
+		<gr:likingUser>06089555672262602987</gr:likingUser>
+		<gr:likingUser>11487309019407128374</gr:likingUser>
+		<gr:likingUser>02986134021389560856</gr:likingUser>
+		<gr:likingUser>09520751227237226852</gr:likingUser>
+		<gr:likingUser>06338687178103611426</gr:likingUser>
+		<gr:likingUser>06309951167560047099</gr:likingUser>
+		<gr:likingUser>03339796628914299221</gr:likingUser>
+		<gr:likingUser>01098384960705432933</gr:likingUser>
+		<gr:likingUser>00077141538305459997</gr:likingUser>
+		<gr:likingUser>06155721418829511528</gr:likingUser>
+		<gr:likingUser>01988296405450502260</gr:likingUser>
+		<gr:likingUser>14520959815838816927</gr:likingUser>
+		<gr:likingUser>07446162160009943460</gr:likingUser>
+		<gr:likingUser>15442696306210781538</gr:likingUser>
+		<gr:likingUser>11756051652522484846</gr:likingUser>
+		<gr:likingUser>02865652589674438332</gr:likingUser>
+		<gr:likingUser>03506569610488999917</gr:likingUser>
+		<gr:likingUser>05825556341378075027</gr:likingUser>
+		<gr:likingUser>12355069015673155976</gr:likingUser>
+		<gr:likingUser>00985135713135628542</gr:likingUser>
+		<gr:likingUser>15289084796558231440</gr:likingUser>
+		<gr:likingUser>11868407819920842295</gr:likingUser>
+		<gr:likingUser>18077829462007729041</gr:likingUser>
+		<gr:likingUser>05608945783551822428</gr:likingUser>
+		<gr:likingUser>06823127672408008602</gr:likingUser>
+		<gr:likingUser>00204732632111925900</gr:likingUser>
+		<gr:likingUser>18161785941357781313</gr:likingUser>
+		<gr:likingUser>09579095786856788046</gr:likingUser>
+		<gr:likingUser>15455589199072328619</gr:likingUser>
+		<gr:likingUser>09499153944163849324</gr:likingUser>
+		<gr:likingUser>10268986088033298092</gr:likingUser>
+		<gr:likingUser>18335772504375980977</gr:likingUser>
+		<gr:likingUser>02954071875024709854</gr:likingUser>
+		<gr:likingUser>15461389732735093272</gr:likingUser>
+		<gr:likingUser>16643720037726928955</gr:likingUser>
+		<gr:likingUser>01484182324522559851</gr:likingUser>
+		<gr:likingUser>02626963038861739313</gr:likingUser>
+		<gr:likingUser>02301785649402245002</gr:likingUser>
+		<gr:likingUser>03898006240846419294</gr:likingUser>
+		<gr:likingUser>09867355646376154635</gr:likingUser>
+		<gr:likingUser>06380772400650686776</gr:likingUser>
+		<gr:likingUser>10716206239499051418</gr:likingUser>
+		<gr:likingUser>08801567336599167261</gr:likingUser>
+		<gr:likingUser>04345855000653171494</gr:likingUser>
+		<gr:likingUser>17895000186103413178</gr:likingUser>
+		<gr:likingUser>01894712631129790833</gr:likingUser>
+		<gr:likingUser>15959800489233733007</gr:likingUser>
+		<gr:likingUser>05316788622873559800</gr:likingUser>
+		<gr:likingUser>07056223880865489354</gr:likingUser>
+		<gr:likingUser>03830941778903505748</gr:likingUser>
+		<gr:likingUser>09559953256839315456</gr:likingUser>
+		<gr:likingUser>06371361846844115951</gr:likingUser>
+		<source gr:stream-id="feed/http://wdr1.com/blog/calvin_and_hobbes.rdf">
+			<id>tag:google.com,2005:reader/feed/http://wdr1.com/blog/calvin_and_hobbes.rdf</id>
+			<title type="html">Calvin and Hobbes (Unofficial)</title>
+			<link rel="alternate" href="http://www.ucomics.com/calvinandhobbes/" type="text/html"/>
+		</source>
+	</entry>
+	<entry gr:crawl-timestamp-msec="1263672404553">
+		<id gr:original-id="http://dilbert.com/strips/comic/2010-01-15/">tag:google.com,2005:reader/item/3d2bf0e179bd8bda</id>
+		<title type="html">Comic for January 15, 2010</title>
+		<published>2010-01-15T08:00:00Z</published>
+		<updated>2010-01-15T08:00:00Z</updated>
+		<link rel="alternate" href="http://feedproxy.google.com/~r/DilbertDailyStrip/~3/-ik6o4a9tic/" type="text/html"/>
+		<summary xml:base="http://dilbert.com/" type="html">&lt;img src="http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/70000/9000/000/79034/79034.strip.print.gif" border="0"&gt;&lt;p&gt;&lt;iframe src="http://feedads.g.doubleclick.net/~ah/f/bda66t01h6cudmiae15knqhj18/468/60#http%3A%2F%2Fdilbert.com%2Fstrips%2Fcomic%2F2010-01-15%2F" width="100%" height="60" frameborder="0" scrolling="no" marginwidth="0" marginheight="0"&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/DilbertDailyStrip/~4/-ik6o4a9tic" height="1" width="1"&gt;</summary>
+		<author gr:unknown-author="true">
+			<name>(author unknown)</name>
+		</author>
+		<gr:likingUser>01257198879025517818</gr:likingUser>
+		<gr:likingUser>13066538422221855508</gr:likingUser>
+		<gr:likingUser>05015179974843328607</gr:likingUser>
+		<gr:likingUser>02438731866835478013</gr:likingUser>
+		<gr:likingUser>13826266291363793593</gr:likingUser>
+		<gr:likingUser>07626910139455340064</gr:likingUser>
+		<gr:likingUser>06619280203313515759</gr:likingUser>
+		<gr:likingUser>14885494554096291064</gr:likingUser>
+		<gr:likingUser>01747040325019255473</gr:likingUser>
+		<gr:likingUser>08553373738437141340</gr:likingUser>
+		<gr:likingUser>02029464480365309395</gr:likingUser>
+		<gr:likingUser>06668684035014133768</gr:likingUser>
+		<gr:likingUser>13833541379917089398</gr:likingUser>
+		<gr:likingUser>10102433257097813967</gr:likingUser>
+		<gr:likingUser>17722001012160051895</gr:likingUser>
+		<gr:likingUser>17691965863360783590</gr:likingUser>
+		<gr:likingUser>10777762610824274422</gr:likingUser>
+		<gr:likingUser>11485092723313017187</gr:likingUser>
+		<gr:likingUser>01537582197427610372</gr:likingUser>
+		<gr:likingUser>01180442262176743012</gr:likingUser>
+		<gr:likingUser>07398240886869069550</gr:likingUser>
+		<gr:likingUser>11064339242330545706</gr:likingUser>
+		<gr:likingUser>18405163292342379742</gr:likingUser>
+		<gr:likingUser>01058726096188651751</gr:likingUser>
+		<gr:likingUser>06715572903698865996</gr:likingUser>
+		<gr:likingUser>06327721753868687490</gr:likingUser>
+		<gr:likingUser>11954181338799318398</gr:likingUser>
+		<gr:likingUser>09293844089467099414</gr:likingUser>
+		<gr:likingUser>12798361392830019979</gr:likingUser>
+		<gr:likingUser>04585850398367543010</gr:likingUser>
+		<gr:likingUser>09895063479675896067</gr:likingUser>
+		<gr:likingUser>15989301682647587021</gr:likingUser>
+		<gr:likingUser>16713962283666679082</gr:likingUser>
+		<gr:likingUser>04647744979173118813</gr:likingUser>
+		<gr:likingUser>01889226542171897938</gr:likingUser>
+		<gr:likingUser>06945282437217682568</gr:likingUser>
+		<gr:likingUser>07680471051535723752</gr:likingUser>
+		<gr:likingUser>05080045907490806906</gr:likingUser>
+		<gr:likingUser>10670654556524310037</gr:likingUser>
+		<gr:likingUser>02831983730147763262</gr:likingUser>
+		<gr:likingUser>05964713917676627796</gr:likingUser>
+		<gr:likingUser>11493446726369769159</gr:likingUser>
+		<gr:likingUser>18176671409460761342</gr:likingUser>
+		<gr:likingUser>05444167187326975173</gr:likingUser>
+		<gr:likingUser>16124079332823773647</gr:likingUser>
+		<gr:likingUser>10312448369232296947</gr:likingUser>
+		<gr:likingUser>16140968858962202163</gr:likingUser>
+		<gr:likingUser>04210614899529956870</gr:likingUser>
+		<gr:likingUser>17603110696281206959</gr:likingUser>
+		<gr:likingUser>10324818919023888648</gr:likingUser>
+		<gr:likingUser>11977732360742612392</gr:likingUser>
+		<gr:likingUser>06845235820088557371</gr:likingUser>
+		<gr:likingUser>17979300671200126583</gr:likingUser>
+		<gr:likingUser>06456394325147907220</gr:likingUser>
+		<gr:likingUser>13921406827127027562</gr:likingUser>
+		<gr:likingUser>05329517304802915906</gr:likingUser>
+		<gr:likingUser>00397525485045545837</gr:likingUser>
+		<gr:likingUser>02242733971968011747</gr:likingUser>
+		<gr:likingUser>08915834275668816438</gr:likingUser>
+		<gr:likingUser>15867472510809659237</gr:likingUser>
+		<gr:likingUser>12114834408142898199</gr:likingUser>
+		<gr:likingUser>01599759008460581768</gr:likingUser>
+		<gr:likingUser>08273933119110013242</gr:likingUser>
+		<gr:likingUser>17416993446043191458</gr:likingUser>
+		<gr:likingUser>03012641736106711383</gr:likingUser>
+		<gr:likingUser>04464806535302981085</gr:likingUser>
+		<gr:likingUser>17263926796301578017</gr:likingUser>
+		<gr:likingUser>09154405295700352902</gr:likingUser>
+		<gr:likingUser>04600638862899150388</gr:likingUser>
+		<gr:likingUser>02336491176476717540</gr:likingUser>
+		<gr:likingUser>07636400366862823780</gr:likingUser>
+		<gr:likingUser>12929796022621582844</gr:likingUser>
+		<gr:likingUser>14853795110946965706</gr:likingUser>
+		<gr:likingUser>04583787003001197338</gr:likingUser>
+		<gr:likingUser>03995168360547491281</gr:likingUser>
+		<gr:likingUser>10819235720273800255</gr:likingUser>
+		<gr:likingUser>09401309724516848935</gr:likingUser>
+		<gr:likingUser>07342967554648897463</gr:likingUser>
+		<gr:likingUser>14337696918050180013</gr:likingUser>
+		<gr:likingUser>13814193191405394323</gr:likingUser>
+		<gr:likingUser>05477161123085242786</gr:likingUser>
+		<gr:likingUser>06906577738512307781</gr:likingUser>
+		<gr:likingUser>13201214227489091682</gr:likingUser>
+		<gr:likingUser>12038152152231047942</gr:likingUser>
+		<gr:likingUser>05998763674570700764</gr:likingUser>
+		<gr:likingUser>11666466625758153993</gr:likingUser>
+		<gr:likingUser>01348389465859332096</gr:likingUser>
+		<gr:likingUser>13168050430264519758</gr:likingUser>
+		<gr:likingUser>12538787798577207708</gr:likingUser>
+		<gr:likingUser>01437576774873837090</gr:likingUser>
+		<gr:likingUser>01261178369797433036</gr:likingUser>
+		<gr:likingUser>16196062025420929602</gr:likingUser>
+		<gr:likingUser>05711792102420997658</gr:likingUser>
+		<gr:likingUser>16681309002308425674</gr:likingUser>
+		<gr:likingUser>04259768844009721469</gr:likingUser>
+		<gr:likingUser>12244988070448797573</gr:likingUser>
+		<gr:likingUser>18395792110948403170</gr:likingUser>
+		<gr:likingUser>04450835906152392230</gr:likingUser>
+		<gr:likingUser>09331296994394123633</gr:likingUser>
+		<gr:likingUser>08608789090972721303</gr:likingUser>
+		<source gr:stream-id="feed/http://feeds.feedburner.com/DilbertDailyStrip">
+			<id>tag:google.com,2005:reader/feed/http://feeds.feedburner.com/DilbertDailyStrip</id>
+			<title type="html">Dilbert Daily Strip</title>
+			<link rel="alternate" href="http://dilbert.com/" type="text/html"/>
+		</source>
+	</entry>
+	<entry gr:crawl-timestamp-msec="1263672264437">
+		<id gr:original-id="http://www.warrenellis.com/?p=8319">tag:google.com,2005:reader/item/6689992a0ebffd37</id>
+		<category term="people I know"/>
+		<title type="html">Thought For The Night</title>
+		<published>2010-01-13T01:16:14Z</published>
+		<updated>2010-01-13T01:16:14Z</updated>
+		<link rel="alternate" href="http://www.warrenellis.com/?p=8319" type="text/html"/>
+		<content xml:base="http://www.warrenellis.com/" type="html">&lt;p&gt;Via &lt;a href="http://www.flickr.com/photos/sara013/4269735919/"&gt;Sara Gries&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://farm3.static.flickr.com/2421/4269735919_9fb8340f33.jpg" alt="4269735919_9fb8340f33" border="0"&gt;&lt;/p&gt;</content>
+		<author>
+			<name>Warren Ellis</name>
+		</author>
+		<gr:likingUser>10294923831074710029</gr:likingUser>
+		<gr:likingUser>07613349541507404024</gr:likingUser>
+		<gr:likingUser>14974466995442536788</gr:likingUser>
+		<gr:likingUser>08201161036366465151</gr:likingUser>
+		<gr:likingUser>15104234238114773682</gr:likingUser>
+		<gr:likingUser>02355946511842245324</gr:likingUser>
+		<gr:likingUser>06969516030624425058</gr:likingUser>
+		<gr:likingUser>01342058119252355120</gr:likingUser>
+		<gr:likingUser>00923107675334125147</gr:likingUser>
+		<gr:likingUser>06555423734902904130</gr:likingUser>
+		<gr:likingUser>08178141419296508184</gr:likingUser>
+		<gr:likingUser>09879977286868249236</gr:likingUser>
+		<gr:likingUser>02403381477132131336</gr:likingUser>
+		<gr:likingUser>09615253143445470445</gr:likingUser>
+		<gr:likingUser>05722534781776605373</gr:likingUser>
+		<gr:likingUser>03645249639951539809</gr:likingUser>
+		<gr:likingUser>11464691215999276623</gr:likingUser>
+		<gr:likingUser>01177079663211581802</gr:likingUser>
+		<gr:likingUser>05361811494135501135</gr:likingUser>
+		<gr:likingUser>00619177768078917115</gr:likingUser>
+		<gr:likingUser>08542696354145477783</gr:likingUser>
+		<gr:likingUser>01326822766973872454</gr:likingUser>
+		<gr:likingUser>04848286229053963930</gr:likingUser>
+		<gr:likingUser>16607210584137537279</gr:likingUser>
+		<gr:likingUser>10336578380653273864</gr:likingUser>
+		<gr:likingUser>15435338086776158268</gr:likingUser>
+		<gr:likingUser>07119205162225807346</gr:likingUser>
+		<gr:likingUser>17051128227097507700</gr:likingUser>
+		<gr:likingUser>17266690024131967314</gr:likingUser>
+		<gr:likingUser>06781663934021660720</gr:likingUser>
+		<gr:likingUser>07994061237325962017</gr:likingUser>
+		<gr:likingUser>01378362922825043920</gr:likingUser>
+		<gr:likingUser>11794382908145571951</gr:likingUser>
+		<gr:likingUser>09494422349358757466</gr:likingUser>
+		<gr:likingUser>16784361408072567210</gr:likingUser>
+		<gr:likingUser>06279749828274303805</gr:likingUser>
+		<gr:likingUser>05467345676772065446</gr:likingUser>
+		<gr:likingUser>04871342750979543001</gr:likingUser>
+		<gr:likingUser>00150466847891379414</gr:likingUser>
+		<gr:likingUser>01407135003068390513</gr:likingUser>
+		<gr:likingUser>13195080000100454228</gr:likingUser>
+		<gr:likingUser>17545175314431150025</gr:likingUser>
+		<gr:likingUser>06619280203313515759</gr:likingUser>
+		<gr:likingUser>14885494554096291064</gr:likingUser>
+		<gr:likingUser>07286406890143538655</gr:likingUser>
+		<gr:likingUser>13940807496438313904</gr:likingUser>
+		<gr:likingUser>04647238993763722716</gr:likingUser>
+		<gr:likingUser>05563924790028363141</gr:likingUser>
+		<gr:likingUser>08515571330950573552</gr:likingUser>
+		<gr:likingUser>01847858724003595486</gr:likingUser>
+		<gr:likingUser>07774736311798561911</gr:likingUser>
+		<gr:likingUser>06844631671749883103</gr:likingUser>
+		<gr:likingUser>14274384500514150963</gr:likingUser>
+		<gr:likingUser>09139949605562344422</gr:likingUser>
+		<gr:likingUser>08370586003921409042</gr:likingUser>
+		<gr:likingUser>04357219239077423841</gr:likingUser>
+		<gr:likingUser>05608257841065365612</gr:likingUser>
+		<gr:likingUser>12162493830434179100</gr:likingUser>
+		<gr:likingUser>07852468826148365106</gr:likingUser>
+		<gr:likingUser>09832380818191357066</gr:likingUser>
+		<gr:likingUser>13965816818182080802</gr:likingUser>
+		<gr:likingUser>00548477974733689139</gr:likingUser>
+		<gr:likingUser>06549767833242077283</gr:likingUser>
+		<gr:likingUser>12669673383813121918</gr:likingUser>
+		<gr:likingUser>04731778334924318159</gr:likingUser>
+		<gr:likingUser>10409486527544800295</gr:likingUser>
+		<gr:likingUser>13517318155523296837</gr:likingUser>
+		<gr:likingUser>17153669409763295336</gr:likingUser>
+		<gr:likingUser>15355317852973206087</gr:likingUser>
+		<gr:likingUser>02040273621443904912</gr:likingUser>
+		<gr:likingUser>12376888086198282361</gr:likingUser>
+		<gr:likingUser>00198267460090605483</gr:likingUser>
+		<gr:likingUser>01090850754844288900</gr:likingUser>
+		<gr:likingUser>15652331832625663555</gr:likingUser>
+		<gr:likingUser>09518644329432801632</gr:likingUser>
+		<gr:likingUser>14591944581836366415</gr:likingUser>
+		<gr:likingUser>11756876134919291499</gr:likingUser>
+		<gr:likingUser>00558288576970018204</gr:likingUser>
+		<gr:likingUser>04791749116731880662</gr:likingUser>
+		<gr:likingUser>12699436540969670038</gr:likingUser>
+		<gr:likingUser>16228144671989034370</gr:likingUser>
+		<gr:likingUser>18172018171594068290</gr:likingUser>
+		<gr:likingUser>02379775590579897084</gr:likingUser>
+		<gr:likingUser>01891432443384224260</gr:likingUser>
+		<gr:likingUser>11343426607744686108</gr:likingUser>
+		<gr:likingUser>05475016166796720285</gr:likingUser>
+		<gr:likingUser>18399500515442783183</gr:likingUser>
+		<gr:likingUser>13563339679820519642</gr:likingUser>
+		<gr:likingUser>02245130812067035225</gr:likingUser>
+		<gr:likingUser>06361527766644908843</gr:likingUser>
+		<gr:likingUser>10735483205422117764</gr:likingUser>
+		<gr:likingUser>10641982176473471930</gr:likingUser>
+		<gr:likingUser>15808932499283767931</gr:likingUser>
+		<gr:likingUser>13884948057008614488</gr:likingUser>
+		<gr:likingUser>05158449515809024015</gr:likingUser>
+		<gr:likingUser>00435779240360818060</gr:likingUser>
+		<gr:likingUser>11058223589764026865</gr:likingUser>
+		<gr:likingUser>11064339242330545706</gr:likingUser>
+		<gr:likingUser>17445421125083864440</gr:likingUser>
+		<gr:likingUser>07891735105269286226</gr:likingUser>
+		<source gr:stream-id="feed/http://www.warrenellis.com/?feed=rss2">
+			<id>tag:google.com,2005:reader/feed/http://www.warrenellis.com/?feed=rss2</id>
+			<title type="html">Warren Ellis</title>
+			<link rel="alternate" href="http://www.warrenellis.com" type="text/html"/>
+		</source>
+	</entry>
+	<entry gr:crawl-timestamp-msec="1263664902391">
+		<id gr:original-id="http://www.ritholtz.com/blog/?p=49075">tag:google.com,2005:reader/item/70aec821f21b7b5e</id>
+		<category term="Bailouts"/>
+		<category term="Humor"/>
+		<title type="html">How Bankers Think</title>
+		<published>2010-01-14T22:00:25Z</published>
+		<updated>2010-01-14T22:00:25Z</updated>
+		<link rel="alternate" href="http://feedproxy.google.com/~r/TheBigPicture/~3/iSjrjEDN3nw/" type="text/html"/>
+		<content xml:base="http://www.ritholtz.com/blog" type="html">&lt;p&gt;&lt;a href="http://www.ritholtz.com/blog/wp-content/uploads/2010/01/bankers1.jpg"&gt;&lt;img title="bankers" src="http://www.ritholtz.com/blog/wp-content/uploads/2010/01/bankers1.jpg" alt="" width="600" height="396"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Hat tip Bruce Mac&lt;/p&gt;
+&lt;p&gt;&lt;iframe src="http://feedads.g.doubleclick.net/~ah/f/b0bjd6fho47voudd2of6s5dq9g/468/60#http%3A%2F%2Fwww.ritholtz.com%2Fblog%2F2010%2F01%2Fhow-bankers-think%2F" width="100%" height="60" frameborder="0" scrolling="no" marginwidth="0" marginheight="0"&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;div&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/TheBigPicture?a=iSjrjEDN3nw:01-5cJOeBKQ:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/TheBigPicture?d=yIl2AUoC8zA" border="0"&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/TheBigPicture?a=iSjrjEDN3nw:01-5cJOeBKQ:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/TheBigPicture?d=7Q72WNTAKBA" border="0"&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/TheBigPicture?a=iSjrjEDN3nw:01-5cJOeBKQ:dnMXMwOfBR0"&gt;&lt;img src="http://feeds.feedburner.com/~ff/TheBigPicture?d=dnMXMwOfBR0" border="0"&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/TheBigPicture?a=iSjrjEDN3nw:01-5cJOeBKQ:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/TheBigPicture?i=iSjrjEDN3nw:01-5cJOeBKQ:D7DqB2pKExk" border="0"&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/TheBigPicture?a=iSjrjEDN3nw:01-5cJOeBKQ:V_sGLiPBpWU"&gt;&lt;img src="http://feeds.feedburner.com/~ff/TheBigPicture?i=iSjrjEDN3nw:01-5cJOeBKQ:V_sGLiPBpWU" border="0"&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/TheBigPicture?a=iSjrjEDN3nw:01-5cJOeBKQ:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/TheBigPicture?d=qj6IDK7rITs" border="0"&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/TheBigPicture?a=iSjrjEDN3nw:01-5cJOeBKQ:F7zBnMyn0Lo"&gt;&lt;img src="http://feeds.feedburner.com/~ff/TheBigPicture?i=iSjrjEDN3nw:01-5cJOeBKQ:F7zBnMyn0Lo" border="0"&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/TheBigPicture?a=iSjrjEDN3nw:01-5cJOeBKQ:KwTdNBX3Jqk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/TheBigPicture?i=iSjrjEDN3nw:01-5cJOeBKQ:KwTdNBX3Jqk" border="0"&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/TheBigPicture?a=iSjrjEDN3nw:01-5cJOeBKQ:l6gmwiTKsz0"&gt;&lt;img src="http://feeds.feedburner.com/~ff/TheBigPicture?d=l6gmwiTKsz0" border="0"&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/TheBigPicture?a=iSjrjEDN3nw:01-5cJOeBKQ:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/TheBigPicture?i=iSjrjEDN3nw:01-5cJOeBKQ:gIN9vFwOqvQ" border="0"&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/TheBigPicture?a=iSjrjEDN3nw:01-5cJOeBKQ:TzevzKxY174"&gt;&lt;img src="http://feeds.feedburner.com/~ff/TheBigPicture?d=TzevzKxY174" border="0"&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/TheBigPicture/~4/iSjrjEDN3nw" height="1" width="1"&gt;</content>
+		<author>
+			<name>Barry Ritholtz</name>
+		</author>
+		<gr:likingUser>15258591189826958266</gr:likingUser>
+		<gr:likingUser>07580330158916786164</gr:likingUser>
+		<gr:likingUser>17856147645880002094</gr:likingUser>
+		<source gr:stream-id="feed/http://bigpicture.typepad.com/comments/atom.xml">
+			<id>tag:google.com,2005:reader/feed/http://bigpicture.typepad.com/comments/atom.xml</id>
+			<title type="html">The Big Picture</title>
+			<link rel="alternate" href="http://www.ritholtz.com/blog" type="text/html"/>
+		</source>
+	</entry>
+	<entry gr:crawl-timestamp-msec="1263664577759">
+		<id gr:original-id="Gizmodo-5449476">tag:google.com,2005:reader/item/ef45be43bd824f9e</id>
+		<category term=" Cartoon "/>
+		<category term="God's Computer"/>
+		<title type="html">This Is God's Computer [Cartoon]</title>
+		<published>2010-01-16T06:20:00Z</published>
+		<updated>2010-01-16T06:20:00Z</updated>
+		<link rel="alternate" href="http://feeds.gawker.com/~r/gizmodo/full/~3/vnwxpuHAXTM/this-is-gods-computer" type="text/html"/>
+		<summary xml:base="http://gizmodo.com/" type="html">&lt;p&gt;&lt;img src="http://cache.gawker.com/assets/images/4/2010/01/500x_gods_control_buttons.jpg" width="500"&gt;He doesn't believe in touchscreens or tablets, and maybe He is right. It's all old school buttons and switches for The Dude in the Heavens. [&lt;a href="http://maneggs.com/2007/08/29/gods_buttons/"&gt;Maneggs&lt;/a&gt;]&lt;/p&gt; &lt;br style="clear:both"&gt;
+&lt;br style="clear:both"&gt;
+&lt;a href="http://ads.pheedo.com/click.phdo?s=6268e7faf9f17925eae1231657f56ac4&amp;amp;p=1"&gt;&lt;img alt="" style="border:0" border="0" src="http://ads.pheedo.com/img.phdo?s=6268e7faf9f17925eae1231657f56ac4&amp;amp;p=1"&gt;&lt;/a&gt;
+&lt;img alt="" height="0" width="0" border="0" src="http://a.rfihub.com/eus.gif?eui=2226"&gt;&lt;div&gt;
+&lt;a href="http://feeds.gawker.com/~ff/gizmodo/full?a=vnwxpuHAXTM:CxQKpW4LjBA:H0mrP-F8Qgo"&gt;&lt;img src="http://feeds.feedburner.com/~ff/gizmodo/full?d=H0mrP-F8Qgo" border="0"&gt;&lt;/a&gt; &lt;a href="http://feeds.gawker.com/~ff/gizmodo/full?a=vnwxpuHAXTM:CxQKpW4LjBA:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/gizmodo/full?d=yIl2AUoC8zA" border="0"&gt;&lt;/a&gt; &lt;a href="http://feeds.gawker.com/~ff/gizmodo/full?a=vnwxpuHAXTM:CxQKpW4LjBA:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/gizmodo/full?i=vnwxpuHAXTM:CxQKpW4LjBA:D7DqB2pKExk" border="0"&gt;&lt;/a&gt; &lt;a href="http://feeds.gawker.com/~ff/gizmodo/full?a=vnwxpuHAXTM:CxQKpW4LjBA:V_sGLiPBpWU"&gt;&lt;img src="http://feeds.feedburner.com/~ff/gizmodo/full?i=vnwxpuHAXTM:CxQKpW4LjBA:V_sGLiPBpWU" border="0"&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/gizmodo/full/~4/vnwxpuHAXTM" height="1" width="1"&gt;</summary>
+		<author>
+			<name>Jesus Diaz</name>
+		</author>
+		<gr:likingUser>17653885563315788582</gr:likingUser>
+		<gr:likingUser>03624875881031948849</gr:likingUser>
+		<gr:likingUser>17252568258677848776</gr:likingUser>
+		<gr:likingUser>12906126199035927703</gr:likingUser>
+		<gr:likingUser>07059595943647939465</gr:likingUser>
+		<gr:likingUser>16300195339864704793</gr:likingUser>
+		<gr:likingUser>02809757818509751273</gr:likingUser>
+		<gr:likingUser>17831489892535781099</gr:likingUser>
+		<gr:likingUser>12869508159062498610</gr:likingUser>
+		<gr:likingUser>02166779410634937898</gr:likingUser>
+		<gr:likingUser>11660078272086328905</gr:likingUser>
+		<gr:likingUser>13662569739860081806</gr:likingUser>
+		<gr:likingUser>02830742959262716607</gr:likingUser>
+		<gr:likingUser>16124079332823773647</gr:likingUser>
+		<gr:likingUser>05521937619975389715</gr:likingUser>
+		<gr:likingUser>01481777086355431157</gr:likingUser>
+		<gr:likingUser>00658807719888717454</gr:likingUser>
+		<gr:likingUser>06734794180786167740</gr:likingUser>
+		<gr:likingUser>06165891323911859601</gr:likingUser>
+		<gr:likingUser>05346260073470603017</gr:likingUser>
+		<gr:likingUser>14515043276088597459</gr:likingUser>
+		<gr:likingUser>06456394325147907220</gr:likingUser>
+		<gr:likingUser>02284421439190855817</gr:likingUser>
+		<gr:likingUser>09289882410490892800</gr:likingUser>
+		<gr:likingUser>02696850220782169757</gr:likingUser>
+		<gr:likingUser>18281847282686570686</gr:likingUser>
+		<gr:likingUser>14896503670494927341</gr:likingUser>
+		<gr:likingUser>18253276447546087020</gr:likingUser>
+		<gr:likingUser>17427101697595086287</gr:likingUser>
+		<gr:likingUser>01398536989709478544</gr:likingUser>
+		<gr:likingUser>17069928330727235775</gr:likingUser>
+		<gr:likingUser>00911604760945120664</gr:likingUser>
+		<gr:likingUser>12156586632171183733</gr:likingUser>
+		<gr:likingUser>02352599399067363219</gr:likingUser>
+		<gr:likingUser>01222886358401309062</gr:likingUser>
+		<gr:likingUser>05139516495261992429</gr:likingUser>
+		<gr:likingUser>02238245622999175120</gr:likingUser>
+		<gr:likingUser>16364565825105683132</gr:likingUser>
+		<gr:likingUser>08917532260827337305</gr:likingUser>
+		<gr:likingUser>14837387261017929769</gr:likingUser>
+		<gr:likingUser>07585571004934482625</gr:likingUser>
+		<gr:likingUser>17588547910164026299</gr:likingUser>
+		<gr:likingUser>01835051308801937595</gr:likingUser>
+		<gr:likingUser>00408647081289104110</gr:likingUser>
+		<gr:likingUser>03116566245361272948</gr:likingUser>
+		<gr:likingUser>13974571767082281071</gr:likingUser>
+		<gr:likingUser>09218962562449506103</gr:likingUser>
+		<gr:likingUser>02269414762825177531</gr:likingUser>
+		<gr:likingUser>06845998475251438197</gr:likingUser>
+		<gr:likingUser>10027359154490526800</gr:likingUser>
+		<gr:likingUser>18167918608105176051</gr:likingUser>
+		<gr:likingUser>10412611529510255908</gr:likingUser>
+		<gr:likingUser>08790366332563222935</gr:likingUser>
+		<gr:likingUser>15815919726409566136</gr:likingUser>
+		<gr:likingUser>17837319107833877148</gr:likingUser>
+		<gr:likingUser>16156056298877116501</gr:likingUser>
+		<gr:likingUser>15826280983332364324</gr:likingUser>
+		<gr:likingUser>04522297251645854034</gr:likingUser>
+		<gr:likingUser>02756781971070677639</gr:likingUser>
+		<gr:likingUser>02474008567538643408</gr:likingUser>
+		<gr:likingUser>07094449041532237757</gr:likingUser>
+		<gr:likingUser>12328731312898774677</gr:likingUser>
+		<gr:likingUser>10553670083792217823</gr:likingUser>
+		<gr:likingUser>07992399772884556023</gr:likingUser>
+		<gr:likingUser>03621058628942027994</gr:likingUser>
+		<gr:likingUser>14540148388327640660</gr:likingUser>
+		<gr:likingUser>06914903654228555832</gr:likingUser>
+		<gr:likingUser>03135931056191655525</gr:likingUser>
+		<gr:likingUser>09787021792756564846</gr:likingUser>
+		<gr:likingUser>09424190308236094550</gr:likingUser>
+		<gr:likingUser>11409919659701669820</gr:likingUser>
+		<gr:likingUser>00146942615583956547</gr:likingUser>
+		<gr:likingUser>07865338008712262345</gr:likingUser>
+		<gr:likingUser>18166583226999186756</gr:likingUser>
+		<gr:likingUser>11787927621859673923</gr:likingUser>
+		<gr:likingUser>03292769360116636265</gr:likingUser>
+		<gr:likingUser>09689385661186750747</gr:likingUser>
+		<gr:likingUser>13063462679327412883</gr:likingUser>
+		<gr:likingUser>06795379090664249551</gr:likingUser>
+		<gr:likingUser>02224264314641427596</gr:likingUser>
+		<gr:likingUser>16642962378928675181</gr:likingUser>
+		<gr:likingUser>09124171562829310184</gr:likingUser>
+		<gr:likingUser>02773079400503881488</gr:likingUser>
+		<gr:likingUser>11340122167478016172</gr:likingUser>
+		<gr:likingUser>11153572865795676845</gr:likingUser>
+		<gr:likingUser>17931616106627715577</gr:likingUser>
+		<gr:likingUser>02680470772306065494</gr:likingUser>
+		<gr:likingUser>02633800571522357155</gr:likingUser>
+		<gr:likingUser>05650439971478030852</gr:likingUser>
+		<gr:likingUser>16606656537663509169</gr:likingUser>
+		<gr:likingUser>12474994347913123281</gr:likingUser>
+		<source gr:stream-id="feed/http://gizmodo.com/index.xml">
+			<id>tag:google.com,2005:reader/feed/http://gizmodo.com/index.xml</id>
+			<title type="html">Gizmodo</title>
+			<link rel="alternate" href="http://gizmodo.com" type="text/html"/>
+		</source>
+	</entry>
+	<entry gr:crawl-timestamp-msec="1263664504855">
+		<id gr:original-id="tag:flickr.com,2004:/photo/4277885433">tag:google.com,2005:reader/item/cfc9d73a2d2fc135</id>
+		<title type="html">The Square Mile</title>
+		<published>2010-01-16T09:03:24Z</published>
+		<updated>2010-01-16T09:03:24Z</updated>
+		<link rel="alternate" href="http://www.flickr.com/photos/homemade_london/4277885433/" type="text/html"/>
+		<media:group>
+			<media:content url="http://farm5.static.flickr.com/4009/4277885433_77a9d29940_m.jpg"/>
+		</media:group>
+		<summary xml:base="http://www.flickr.com/photos/groveway/friends/" type="html">&lt;p&gt;&lt;a href="http://www.flickr.com/people/homemade_london/"&gt;Homemade&lt;/a&gt; posted a photo:&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.flickr.com/photos/homemade_london/4277885433/" title="The Square Mile"&gt;&lt;img src="http://farm5.static.flickr.com/4009/4277885433_77a9d29940_m.jpg" width="240" height="159" alt="The Square Mile"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The City of London kindly organised access to the Broadgate Tower to take some pictures for them. Unfortunately the reflections on the glass didn't help take decent shots. Nor did the dirty windows. Or the awful weather; bad visibility and a featureless sky.&lt;br&gt;
+&lt;br&gt;
+Oh well. its a view you can't get tired of though.&lt;/p&gt;</summary>
+		<author>
+			<name>nobody@flickr.com (Homemade)</name>
+		</author>
+		<source gr:stream-id="feed/http://api.flickr.com/services/feeds/photos_friends.gne?user_id=91441149@N00&amp;friends=0&amp;display_all=1&amp;format=rss_200">
+			<id>tag:google.com,2005:reader/feed/http://api.flickr.com/services/feeds/photos_friends.gne?user_id=91441149@N00&amp;friends=0&amp;display_all=1&amp;format=rss_200</id>
+			<title type="html">From matteo caprari&amp;#39;s contacts</title>
+			<link rel="alternate" href="http://www.flickr.com/photos/groveway/friends/" type="text/html"/>
+		</source>
+	</entry>
+	<entry gr:crawl-timestamp-msec="1263664483309">
+		<id gr:original-id="http://www.slate.com/id/2241738/?from=rss">tag:google.com,2005:reader/item/bbcce87c8f4e3f53</id>
+		<category term="technology"/>
+		<title type="html">Why Beijing is making a mistake with Google.</title>
+		<published>2010-01-16T15:12:23Z</published>
+		<updated>2010-01-16T15:12:23Z</updated>
+		<link rel="alternate" href="http://feeds.slate.com/click.phdo?i=8052b92db6840beddf60febdfe5aeaeb" type="text/html"/>
+		<summary xml:base="http://www.slate.com/" type="html">Google vs. China represents a clash of what may be the two most powerful forces of the first decade of the 21st century. Like China, Google has changed the terms of competition in crucial markets, thanks to its advantages in hardware, productive capacity, and engineering brainpower. The juggernaut rolls into new industries&#x2014;e-mail, GPS, smartphones, operating systems for netbooks&#x2014;heedless of the competition, rolling up profits and disheartening rivals.&lt;br&gt;&lt;br&gt;[&lt;a href="http://www.slate.com/id/2241738/?from=rss"&gt;more ...&lt;/a&gt;]  &lt;br style="clear:both"&gt;
+&lt;br style="clear:both"&gt;
+  &lt;a style="font-size:10px;color:maroon" href="http://www.pheedcontent.com/hostedMorselClick.php?hfmm=v3:a9251152e6224a55bc2492a1d35f7889:hG3rDWqx0sD%2BLk7waiXkqpMHwFIAgJNb1wW95WkS5MQa7%2BNVU4jgLzH1F5pE8W2bS9CLQ1AxrC1SPg%3D%3D"&gt;&lt;img border="0" title="Add to Facebook" alt="Add to Facebook" src="http://images.pheedo.com/images/mm/facebook.gif"&gt;&lt;/a&gt;
+  &lt;a style="font-size:10px;color:maroon" href="http://www.pheedcontent.com/hostedMorselClick.php?hfmm=v3:37fac4b84af088f1309d77f865e77a51:HGfZwax9m47576iGxY1B1L132MSbfbL%2BCN4szCdM4iyPgrvTo3tmQMoDvJ6DyKFoAQ2NUpJDOL33iw%3D%3D"&gt;&lt;img border="0" title="Add to Twitter" alt="Add to Twitter" src="http://images.pheedo.com/images/mm/twitter.png"&gt;&lt;/a&gt;
+  &lt;a style="font-size:10px;color:maroon" href="http://www.pheedcontent.com/hostedMorselClick.php?hfmm=v3:8c22c428b31aef97effd1dc8980d6504:77aX%2B6m3jIJz4vdj7B%2FdPsvykhrMzqhN0Ngyi9Mn3wRYsMt128S8WHIeYTQufPWevM78SMUdl3XP"&gt;&lt;img border="0" title="Add to digg" alt="Add to digg" src="http://images.pheedo.com/images/mm/digg.gif"&gt;&lt;/a&gt;
+  &lt;a style="font-size:10px;color:maroon" href="http://www.pheedcontent.com/hostedMorselClick.php?hfmm=v3:586d40256f1f67fbe2c66ffe77b4d3c0:uMKnYwX2FQ3svdANPHbtIvbOSF54Kw%2FMgJX8RMriUxfdMPsqAkD75VKNeaE8w7NOXTfZRr1u1QAS"&gt;&lt;img border="0" title="Add to Reddit" alt="Add to Reddit" src="http://images.pheedo.com/images/mm/reddit.png"&gt;&lt;/a&gt;
+  &lt;a style="font-size:10px;color:maroon" href="http://www.pheedcontent.com/hostedMorselClick.php?hfmm=v3:e391f2111767868f1f4f417274b59fb3:%2BTY77vY%2FdFm3eyvwOgKLWdwtqMBEWkSDrDFEK%2FoPU2gjy%2FJjVADqvKzkKtIQHmLfFKi4Fi0jb5vioA%3D%3D"&gt;&lt;img border="0" title="Add to StumbleUpon" alt="Add to StumbleUpon" src="http://images.pheedo.com/images/mm/stumbleit.gif"&gt;&lt;/a&gt;
+  &lt;a style="font-size:10px;color:maroon" href="http://www.pheedcontent.com/hostedMorselClick.php?hfmm=v3:4b18995c31fc0772ab4474d6d3c55da9:VQWDBxJ%2BxlxGrkPtX1sbdAVEtZBmJ36%2FwaD9B%2Bk1FfrrqzluFFo860v7Hx7lACiz7yNdC%2FR1at06zA%3D%3D"&gt;&lt;img border="0" title="Email this Article" alt="Email this Article" src="http://images.pheedo.com/images/mm/emailthisHF.gif"&gt;&lt;/a&gt;
+&lt;br style="clear:both"&gt;
+&lt;a href="http://ads.pheedo.com/click.phdo?s=8052b92db6840beddf60febdfe5aeaeb&amp;amp;p=1"&gt;&lt;img alt="" style="border:0" border="0" src="http://ads.pheedo.com/img.phdo?s=8052b92db6840beddf60febdfe5aeaeb&amp;amp;p=1"&gt;&lt;/a&gt;
+&lt;img alt="" height="0" width="0" border="0" src="http://a.rfihub.com/eus.gif?eui=2223"&gt;&lt;br&gt;
+&lt;img src="http://ads.pheedo.com/img.phdo?kw="&gt; 
+&lt;a href="http://ads.pheedo.com/click.phdo?s=8052b92db6840beddf60febdfe5aeaeb&amp;amp;p=64&amp;amp;kw=Google"&gt;Google&lt;/a&gt; - &lt;a href="http://ads.pheedo.com/click.phdo?s=8052b92db6840beddf60febdfe5aeaeb&amp;amp;p=64&amp;amp;kw=Beijing"&gt;Beijing&lt;/a&gt; - &lt;a href="http://ads.pheedo.com/click.phdo?s=8052b92db6840beddf60febdfe5aeaeb&amp;amp;p=64&amp;amp;kw=Smartphone"&gt;Smartphone&lt;/a&gt; - &lt;a href="http://ads.pheedo.com/click.phdo?s=8052b92db6840beddf60febdfe5aeaeb&amp;amp;p=64&amp;amp;kw=Global+Positioning+System"&gt;Global Positioning System&lt;/a&gt; - &lt;a href="http://ads.pheedo.com/click.phdo?s=8052b92db6840beddf60febdfe5aeaeb&amp;amp;p=64&amp;amp;kw=Search"&gt;Search&lt;/a&gt;</summary>
+		<author>
+			<name>Daniel Gross</name>
+		</author>
+		<gr:likingUser>14646895700886819845</gr:likingUser>
+		<gr:likingUser>00907036355965744188</gr:likingUser>
+		<gr:likingUser>08657461484043914422</gr:likingUser>
+		<gr:likingUser>17010228604115026973</gr:likingUser>
+		<gr:likingUser>03047677079695232284</gr:likingUser>
+		<source gr:stream-id="feed/http://www.slate.com/rss">
+			<id>tag:google.com,2005:reader/feed/http://www.slate.com/rss</id>
+			<title type="html">Slate Magazine</title>
+			<link rel="alternate" href="http://www.slate.com?from=rss" type="text/html"/>
+		</source>
+	</entry>
+	<entry gr:crawl-timestamp-msec="1263571959816">
+		<id gr:original-id="http://ajaxian.com/?p=8453">tag:google.com,2005:reader/item/153d5f6c45430921</id>
+		<category term="CSS"/>
+		<category term="Front Page"/>
+		<category term="JavaScript"/>
+		<category term="PHP"/>
+		<category term="Performance"/>
+		<category term="api"/>
+		<category term="charts"/>
+		<title type="html">Pure CSS bar charts as a simple API</title>
+		<published>2010-01-15T13:19:05Z</published>
+		<updated>2010-01-15T13:19:05Z</updated>
+		<link rel="alternate" href="http://feedproxy.google.com/~r/ajaxian/~3/R11_svY5jUc/pure-css-bar-charts-as-a-simple-api" type="text/html"/>
+		<content xml:base="http://ajaxian.com/" type="html">&lt;p&gt;I am right now working on a high-traffic project that will run in a sandbox that doesn't allow me to pull third party JavaScript or use canvas/Flash. Yet I need to generate bar charts from a set of data.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://icant.co.uk/csscharts"&gt;&lt;img src="http://farm5.static.flickr.com/4034/4275838221_5ed55f57a6.jpg" alt="Pure CSS bar charts"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The solution to me was to create the charts from HTML using CSS. There have been some &lt;a href="http://meyerweb.com/eric/css/edge/bargraph/demo.html"&gt;solutions&lt;/a&gt; &lt;a href="http://www.splintered.co.uk/experiments/archives/css_bar_graphs/"&gt;for&lt;/a&gt; &lt;a href="http://www.standards-schmandards.com/exhibits/barchart/"&gt;this&lt;/a&gt; &lt;a href="http://www.cssplay.co.uk/menu/barchart.html"&gt;problem&lt;/a&gt; &lt;a href="http://speckyboy.com/2009/02/04/16-usable-css-graph-and-bar-chart-tutorials-and-techniques/"&gt;already&lt;/a&gt; but I wanted something very simple and easy to maintain. Hence all the markup I am using is this:&lt;/p&gt;
+&lt;div&gt;&lt;a href="javascript:void(0);"&gt;PLAIN TEXT&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="color:#000000;font-weight:bold"&gt;XML:&lt;/span&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;ol&gt;
+&lt;li style="font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;color:black;font-weight:normal;font-style:normal;color:#3A6A8B"&gt;
+&lt;div style="color:#000000;font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;font-weight:normal"&gt;&lt;span style="color:#009900"&gt;&lt;span style="font-weight:bold;color:black"&gt;&amp;lt;ul&lt;span style="font-weight:bold;color:black"&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li style="font-weight:bold;color:#26536A"&gt;
+&lt;div style="color:#000000;font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;font-weight:normal"&gt;&#xA0; &lt;span style="color:#009900"&gt;&lt;span style="font-weight:bold;color:black"&gt;&amp;lt;li&lt;span style="font-weight:bold;color:black"&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="color:#009900"&gt;&lt;span style="font-weight:bold;color:black"&gt;&amp;lt;span&lt;span style="font-weight:bold;color:black"&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;400&lt;span style="color:#009900"&gt;&lt;span style="font-weight:bold;color:black"&gt;&amp;lt;/span&lt;span style="font-weight:bold;color:black"&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="color:#009900"&gt;&lt;span style="font-weight:bold;color:black"&gt;&amp;lt;/li&lt;span style="font-weight:bold;color:black"&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li style="font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;color:black;font-weight:normal;font-style:normal;color:#3A6A8B"&gt;
+&lt;div style="color:#000000;font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;font-weight:normal"&gt;&#xA0; &lt;span style="color:#009900"&gt;&lt;span style="font-weight:bold;color:black"&gt;&amp;lt;li&lt;span style="font-weight:bold;color:black"&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="color:#009900"&gt;&lt;span style="font-weight:bold;color:black"&gt;&amp;lt;span&lt;span style="font-weight:bold;color:black"&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;20&lt;span style="color:#009900"&gt;&lt;span style="font-weight:bold;color:black"&gt;&amp;lt;/span&lt;span style="font-weight:bold;color:black"&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="color:#009900"&gt;&lt;span style="font-weight:bold;color:black"&gt;&amp;lt;/li&lt;span style="font-weight:bold;color:black"&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li style="font-weight:bold;color:#26536A"&gt;
+&lt;div style="color:#000000;font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;font-weight:normal"&gt;&#xA0; &lt;span style="color:#009900"&gt;&lt;span style="font-weight:bold;color:black"&gt;&amp;lt;li&lt;span style="font-weight:bold;color:black"&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="color:#009900"&gt;&lt;span style="font-weight:bold;color:black"&gt;&amp;lt;span&lt;span style="font-weight:bold;color:black"&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;30&lt;span style="color:#009900"&gt;&lt;span style="font-weight:bold;color:black"&gt;&amp;lt;/span&lt;span style="font-weight:bold;color:black"&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="color:#009900"&gt;&lt;span style="font-weight:bold;color:black"&gt;&amp;lt;/li&lt;span style="font-weight:bold;color:black"&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li style="font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;color:black;font-weight:normal;font-style:normal;color:#3A6A8B"&gt;
+&lt;div style="color:#000000;font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;font-weight:normal"&gt;&#xA0; &lt;span style="color:#009900"&gt;&lt;span style="font-weight:bold;color:black"&gt;&amp;lt;li&lt;span style="font-weight:bold;color:black"&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="color:#009900"&gt;&lt;span style="font-weight:bold;color:black"&gt;&amp;lt;span&lt;span style="font-weight:bold;color:black"&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;233&lt;span style="color:#009900"&gt;&lt;span style="font-weight:bold;color:black"&gt;&amp;lt;/span&lt;span style="font-weight:bold;color:black"&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="color:#009900"&gt;&lt;span style="font-weight:bold;color:black"&gt;&amp;lt;/li&lt;span style="font-weight:bold;color:black"&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li style="font-weight:bold;color:#26536A"&gt;
+&lt;div style="color:#000000;font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;font-weight:normal"&gt;&lt;span style="color:#009900"&gt;&lt;span style="font-weight:bold;color:black"&gt;&amp;lt;/ul&lt;span style="font-weight:bold;color:black"&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Instead of hard-coding any of the trickery necessary I wrote a PHP script to generate the HTML, the styles and do all the math. So all that is needed to render one of the charts is the following code:&lt;/p&gt;
+&lt;div&gt;&lt;a href="javascript:void(0);"&gt;PLAIN TEXT&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="color:#000000;font-weight:bold"&gt;PHP:&lt;/span&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;ol&gt;
+&lt;li style="font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;color:black;font-weight:normal;font-style:normal;color:#3A6A8B"&gt;
+&lt;div style="color:#000000;font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;font-weight:normal"&gt;&lt;span style="color:#000000;font-weight:bold"&gt;&amp;lt;?php&lt;/span&gt; &lt;/div&gt;
+&lt;/li&gt;
+&lt;li style="font-weight:bold;color:#26536A"&gt;
+&lt;div style="color:#000000;font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;font-weight:normal"&gt;&#xA0; &lt;span style="color:#0000FF"&gt;$values&lt;/span&gt; = &lt;span style="color:#FF0000"&gt;'400,20,30,233,312,78,20,67'&lt;/span&gt;;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li style="font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;color:black;font-weight:normal;font-style:normal;color:#3A6A8B"&gt;
+&lt;div style="color:#000000;font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;font-weight:normal"&gt;&#xA0; &lt;span style="color:#0000FF"&gt;$height&lt;/span&gt; = &lt;span style="color:#800000"&gt;100&lt;/span&gt;;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li style="font-weight:bold;color:#26536A"&gt;
+&lt;div style="color:#000000;font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;font-weight:normal"&gt;&#xA0; &lt;span style="color:#0000FF"&gt;$width&lt;/span&gt; = &lt;span style="color:#800000"&gt;600&lt;/span&gt;;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li style="font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;color:black;font-weight:normal;font-style:normal;color:#3A6A8B"&gt;
+&lt;div style="color:#000000;font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;font-weight:normal"&gt;&#xA0; &lt;span style="color:#0000FF"&gt;$bargap&lt;/span&gt; = &lt;span style="color:#800000"&gt;0&lt;/span&gt;;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li style="font-weight:bold;color:#26536A"&gt;
+&lt;div style="color:#000000;font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;font-weight:normal"&gt;&#xA0; &lt;span style="color:#616100"&gt;include&lt;/span&gt;&lt;span style="color:#006600;font-weight:bold"&gt;(&lt;/span&gt;&lt;span style="color:#FF0000"&gt;'csscharts.php'&lt;/span&gt;&lt;span style="color:#006600;font-weight:bold"&gt;)&lt;/span&gt;;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li style="font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;color:black;font-weight:normal;font-style:normal;color:#3A6A8B"&gt;
+&lt;div style="color:#000000;font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;font-weight:normal"&gt;&lt;span style="color:#000000;font-weight:bold"&gt;?&amp;gt;&lt;/span&gt; &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Of course, this can also be turned into a web service - you can get the chart with the following URL:&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://icant.co.uk/csscharts/csscharts.php?values=400,20,30,233,312,78,20,67&amp;amp;height=100&amp;amp;width=600&amp;amp;bargap=0"&gt;http://icant.co.uk/csscharts/csscharts.php?values=400,20,30,233,312,78,20,67&amp;amp;height=100&amp;amp;width=600&amp;amp;bargap=0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;And if you specify JSON as the format you get it with a &lt;code&gt;callback&lt;/code&gt; to a function called &lt;code&gt;csscharts&lt;/code&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://icant.co.uk/csscharts/csscharts.php?values=400,20,30,233,312,78,20,67&amp;amp;format=json"&gt;http://icant.co.uk/csscharts/csscharts.php?values=400,20,30,233,312,78,20,67&amp;amp;format=json&lt;/a&gt;&lt;/p&gt;
+&lt;div&gt;&lt;a href="javascript:void(0);"&gt;PLAIN TEXT&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="color:#000000;font-weight:bold"&gt;JAVASCRIPT:&lt;/span&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;ol&gt;
+&lt;li style="font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;color:black;font-weight:normal;font-style:normal;color:#3A6A8B"&gt;
+&lt;div style="color:#000000;font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;font-weight:normal"&gt;csscharts&lt;span style="color:#006600;font-weight:bold"&gt;(&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li style="font-weight:bold;color:#26536A"&gt;
+&lt;div style="color:#000000;font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;font-weight:normal"&gt;&#xA0; &lt;span style="color:#006600;font-weight:bold"&gt;{&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li style="font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;color:black;font-weight:normal;font-style:normal;color:#3A6A8B"&gt;
+&lt;div style="color:#000000;font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;font-weight:normal"&gt;&#xA0; &#xA0; chart:&lt;span style="color:#3366CC"&gt;&amp;quot;&amp;lt;ul class=&lt;span style="color:#000099;font-weight:bold"&gt;\"&lt;/span&gt;barchart&lt;span style="color:#000099;font-weight:bold"&gt;\"&lt;/span&gt; [&#x2026; the rest of the html &#x2026;]&amp;lt;/ul&amp;gt;&amp;quot;&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li style="font-weight:bold;color:#26536A"&gt;
+&lt;div style="color:#000000;font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;font-weight:normal"&gt;&#xA0; &lt;span style="color:#006600;font-weight:bold"&gt;}&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li style="font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;color:black;font-weight:normal;font-style:normal;color:#3A6A8B"&gt;
+&lt;div style="color:#000000;font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;font-weight:normal"&gt;&lt;span style="color:#006600;font-weight:bold"&gt;)&lt;/span&gt; &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;That way you can use it in JavaScript:&lt;/p&gt;
+&lt;div&gt;&lt;a href="javascript:void(0);"&gt;PLAIN TEXT&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="color:#000000;font-weight:bold"&gt;JAVASCRIPT:&lt;/span&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;ol&gt;
+&lt;li style="font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;color:black;font-weight:normal;font-style:normal;color:#3A6A8B"&gt;
+&lt;div style="color:#000000;font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;font-weight:normal"&gt;&amp;lt;script&amp;gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li style="font-weight:bold;color:#26536A"&gt;
+&lt;div style="color:#000000;font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;font-weight:normal"&gt;&lt;span style="color:#003366;font-weight:bold"&gt;function&lt;/span&gt; csscharts&lt;span style="color:#006600;font-weight:bold"&gt;(&lt;/span&gt;o&lt;span style="color:#006600;font-weight:bold"&gt;)&lt;/span&gt;&lt;span style="color:#006600;font-weight:bold"&gt;{&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li style="font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;color:black;font-weight:normal;font-style:normal;color:#3A6A8B"&gt;
+&lt;div style="color:#000000;font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;font-weight:normal"&gt;&#xA0; &lt;span style="color:#003366;font-weight:bold"&gt;var&lt;/span&gt; container = document.&lt;span style="color:#006600"&gt;getElementById&lt;/span&gt;&lt;span style="color:#006600;font-weight:bold"&gt;(&lt;/span&gt;&lt;span style="color:#3366CC"&gt;'container'&lt;/span&gt;&lt;span style="color:#006600;font-weight:bold"&gt;)&lt;/span&gt;;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li style="font-weight:bold;color:#26536A"&gt;
+&lt;div style="color:#000000;font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;font-weight:normal"&gt;&#xA0; c.&lt;span style="color:#006600"&gt;innerHTML&lt;/span&gt; = o.&lt;span style="color:#006600"&gt;chart&lt;/span&gt; + c.&lt;span style="color:#006600"&gt;innerHTML&lt;/span&gt;;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li style="font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;color:black;font-weight:normal;font-style:normal;color:#3A6A8B"&gt;
+&lt;div style="color:#000000;font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;font-weight:normal"&gt;&lt;span style="color:#006600;font-weight:bold"&gt;}&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li style="font-weight:bold;color:#26536A"&gt;
+&lt;div style="color:#000000;font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;font-weight:normal"&gt;&amp;lt;/script&amp;gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li style="font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;color:black;font-weight:normal;font-style:normal;color:#3A6A8B"&gt;
+&lt;div style="color:#000000;font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;font-weight:normal"&gt;&amp;lt;script src=&lt;span style="color:#3366CC"&gt;&amp;quot;http://icant.co.uk/csscharts/csscharts.php?values=400,20,30,233,312,78,20,67&amp;amp;format=json&amp;quot;&lt;/span&gt;&amp;gt;&amp;lt;/script&amp;gt; &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;You can &lt;a href="http://icant.co.uk/csscharts/csscharts-demo.php"&gt;see some demos here&lt;/a&gt;, get &lt;a href="http://icant.co.uk/csscharts/"&gt;detailed info about the CSS trickery used&lt;/a&gt; and of course &lt;a href="http://github.com/codepo8/CSScharts"&gt;download the code on GitHub.&lt;/a&gt;
+&lt;div&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/ajaxian?a=R11_svY5jUc:vtoe9hBdr1I:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/ajaxian?d=yIl2AUoC8zA" border="0"&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/ajaxian?a=R11_svY5jUc:vtoe9hBdr1I:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/ajaxian?d=7Q72WNTAKBA" border="0"&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/ajaxian?a=R11_svY5jUc:vtoe9hBdr1I:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/ajaxian?i=R11_svY5jUc:vtoe9hBdr1I:D7DqB2pKExk" border="0"&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;/p&gt;</content>
+		<author>
+			<name>Chris Heilmann</name>
+		</author>
+		<source gr:stream-id="feed/http://ajaxian.com/index.rdf">
+			<id>tag:google.com,2005:reader/feed/http://ajaxian.com/index.rdf</id>
+			<title type="html">Ajaxian &#xBB; Front Page</title>
+			<link rel="alternate" href="http://ajaxian.com" type="text/html"/>
+		</source>
+	</entry>
+	<entry gr:crawl-timestamp-msec="1263562882838">
+		<id gr:original-id="http://www.engadget.com/2010/01/15/lg-displays-19-inch-e-ink-display-plays-loose-with-the-truth/">tag:google.com,2005:reader/item/5f91f7c0e6c05068</id>
+		<category term="19-inch"/>
+		<category term="e ink"/>
+		<category term="e-paper"/>
+		<category term="e-reader"/>
+		<category term="EInk"/>
+		<category term="electronic ink"/>
+		<category term="ElectronicInk"/>
+		<category term="epaper"/>
+		<category term="ereader"/>
+		<category term="lg display"/>
+		<category term="LgDisplay"/>
+		<title type="html">LG Display's 19-inch E Ink display plays loose with the truth</title>
+		<published>2010-01-15T13:14:00Z</published>
+		<updated>2010-01-15T13:14:00Z</updated>
+		<link rel="alternate" href="http://www.engadget.com/2010/01/15/lg-displays-19-inch-e-ink-display-plays-loose-with-the-truth/" type="text/html"/>
+		<summary xml:base="http://www.engadget.com/" type="html">&lt;div style="text-align:center"&gt;&lt;a href="http://www.digitimes.com/news/a20100115PR201.html"&gt;&lt;img vspace="4" hspace="4" border="1" src="http://www.blogcdn.com/www.engadget.com/media/2010/01/lg-display-19-inch-e-ink.jpg" alt=""&gt;&lt;/a&gt;&lt;/div&gt;
+Well doesn&amp;#39;t that look impressive? A big &amp;#39;ol 19-inch electronic ink display that appears to emulate your father&amp;#39;s newspaper. No doubt, this massive Metal-Foil e-paper prototype from LG Display is impressive at this size (just 0.3-mm thin and 250&#xD7;400mm -- about the same size as a 297&#xD7;420-mm sheet of A3) and weight (130 grams). Hell, we were already impressed with the &lt;a href="http://www.engadget.com/2009/06/04/lg-display-showcases-11-5-inch-flexible-e-paper/"&gt;flexible 11.5-inch panel&lt;/a&gt; from LG Display &lt;a href="http://www.engadget.com/photos/skiff-reader-press-shots/2577303"&gt;found in&lt;/a&gt; the Skiff Reader. However, like the rigid Skiff Reader, a flexible panel doesn't mean that we'll be seeing a flexible e-reader. In fact, chances are we won't after the manufacturer gets through adding a touchscreen overlay, application processor, and radio chipset. Let's hope for a surprise though, whenever these panels do make it out for mass production... &lt;a href="http://www.engadget.com/2010/01/09/the-e-reader-story-of-ces-2010/"&gt;assuming anyone still cares&lt;/a&gt; about monochrome E Ink displays by then.&lt;p style="padding:5px;background:#ddd;border:1px solid #ccc;clear:both"&gt;&lt;a href="http://www.engadget.com/2010/01/15/lg-displays-19-inch-e-ink-display-plays-loose-with-the-truth/"&gt;LG Display's 19-inch E Ink display plays loose with the truth&lt;/a&gt; originally appeared on &lt;a href="http://www.engadget.com"&gt;Engadget&lt;/a&gt; on Fri, 15 Jan 2010 08:14:00 EST.  Please see our &lt;a href="http://www.weblogsinc.com/feed-terms/"&gt;terms for use of feeds&lt;/a&gt;.&lt;/p&gt;&lt;h6 style="clear:both;padding:8px 0 0 0;height:2px;font-size:1px;border:0;margin:0;padding:0"&gt;&lt;/h6&gt;&lt;a href="http://www.engadget.com/2010/01/15/lg-displays-19-inch-e-ink-display-plays-loose-with-the-truth/" rel="bookmark" title="Permanent link to this entry"&gt;Permalink&lt;/a&gt;&#xA0;&lt;img src="http://www.blogsmithmedia.com/www.engadget.com/media/post_label_VIA.gif" alt=""&gt;&lt;span&gt;&lt;a href="http://www.e-ink-info.com/lg-display-shows-19-flexible-e-ink-display"&gt;E-Ink-Info&lt;/a&gt;&lt;/span&gt; &#xA0;|&#xA0; &lt;img src="http://www.blogsmithmedia.com/www.engadget.com/media/post_label_source.gif" alt="source"&gt;&lt;span&gt;&lt;a href="http://www.digitimes.com/news/a20100115PR201.html"&gt;DigiTimes&lt;/a&gt;&lt;/span&gt; &#xA0;|&#xA0;&lt;a href="http://www.engadget.com/forward/19318142/" title="Send this entry to a friend via email"&gt;Email this&lt;/a&gt;&#xA0;|&#xA0;&lt;a href="http://www.engadget.com/2010/01/15/lg-displays-19-inch-e-ink-display-plays-loose-with-the-truth/#comments" title="View reader comments on this entry"&gt;Comments&lt;/a&gt;</summary>
+		<author>
+			<name>Thomas Ricker</name>
+		</author>
+		<gr:likingUser>06882160648299999457</gr:likingUser>
+		<gr:likingUser>16929590413226905952</gr:likingUser>
+		<gr:likingUser>10524940497794509100</gr:likingUser>
+		<gr:likingUser>13147394952842921045</gr:likingUser>
+		<gr:likingUser>09056092011726557353</gr:likingUser>
+		<gr:likingUser>02104226744151406075</gr:likingUser>
+		<gr:likingUser>02040273621443904912</gr:likingUser>
+		<gr:likingUser>14351491092878419467</gr:likingUser>
+		<gr:likingUser>07194128848556150418</gr:likingUser>
+		<gr:likingUser>13918250687054064926</gr:likingUser>
+		<gr:likingUser>14704459895613450589</gr:likingUser>
+		<gr:likingUser>18282473375405738314</gr:likingUser>
+		<gr:likingUser>11586142818983517130</gr:likingUser>
+		<gr:likingUser>13471739841618878657</gr:likingUser>
+		<gr:likingUser>11574237297460689428</gr:likingUser>
+		<gr:likingUser>15335623718379214411</gr:likingUser>
+		<gr:likingUser>13041659439728933467</gr:likingUser>
+		<gr:likingUser>08755202010344115961</gr:likingUser>
+		<gr:likingUser>03241089364096838193</gr:likingUser>
+		<gr:likingUser>02217346069698986574</gr:likingUser>
+		<gr:likingUser>06165891323911859601</gr:likingUser>
+		<gr:likingUser>17130105299238212513</gr:likingUser>
+		<gr:likingUser>08915834275668816438</gr:likingUser>
+		<gr:likingUser>17143199988158495259</gr:likingUser>
+		<gr:likingUser>16300794953434491098</gr:likingUser>
+		<gr:likingUser>02696850220782169757</gr:likingUser>
+		<gr:likingUser>12073657920470232565</gr:likingUser>
+		<gr:likingUser>13389496055521971473</gr:likingUser>
+		<gr:likingUser>09876556051789179358</gr:likingUser>
+		<gr:likingUser>07790607497186739222</gr:likingUser>
+		<gr:likingUser>03192012660744150795</gr:likingUser>
+		<gr:likingUser>03327979682296879433</gr:likingUser>
+		<gr:likingUser>00363647479470519434</gr:likingUser>
+		<gr:likingUser>18258071009055852624</gr:likingUser>
+		<gr:likingUser>12128080852281383372</gr:likingUser>
+		<gr:likingUser>02308827960459694717</gr:likingUser>
+		<gr:likingUser>08579496904551211869</gr:likingUser>
+		<gr:likingUser>03699293931041946968</gr:likingUser>
+		<gr:likingUser>01259818698699721128</gr:likingUser>
+		<gr:likingUser>16713571141383166434</gr:likingUser>
+		<gr:likingUser>16716557904205785744</gr:likingUser>
+		<gr:likingUser>09165208222713787019</gr:likingUser>
+		<gr:likingUser>16476717887478008597</gr:likingUser>
+		<gr:likingUser>01523035776368354883</gr:likingUser>
+		<gr:likingUser>06731084033828445391</gr:likingUser>
+		<gr:likingUser>17516379743328273041</gr:likingUser>
+		<gr:likingUser>08368981532921154473</gr:likingUser>
+		<gr:likingUser>16488755690140958668</gr:likingUser>
+		<gr:likingUser>18228227920768044750</gr:likingUser>
+		<gr:likingUser>15946744102217532275</gr:likingUser>
+		<gr:likingUser>00387643578005969092</gr:likingUser>
+		<gr:likingUser>14233983326171267869</gr:likingUser>
+		<gr:likingUser>01933282990689691726</gr:likingUser>
+		<gr:likingUser>03109654785215269978</gr:likingUser>
+		<gr:likingUser>13218698894405669521</gr:likingUser>
+		<gr:likingUser>10219456665617116596</gr:likingUser>
+		<gr:likingUser>09990045218389009304</gr:likingUser>
+		<gr:likingUser>17030683435185601970</gr:likingUser>
+		<gr:likingUser>18310627169944321417</gr:likingUser>
+		<gr:likingUser>02660186121135041647</gr:likingUser>
+		<gr:likingUser>11579221966326099007</gr:likingUser>
+		<gr:likingUser>09463958878926508522</gr:likingUser>
+		<gr:likingUser>15742300580379337710</gr:likingUser>
+		<gr:likingUser>15365484774244914476</gr:likingUser>
+		<gr:likingUser>17867574713541098454</gr:likingUser>
+		<gr:likingUser>09480688295032648573</gr:likingUser>
+		<gr:likingUser>10701166556740958038</gr:likingUser>
+		<gr:likingUser>14195268203072717333</gr:likingUser>
+		<gr:likingUser>03386448143028858906</gr:likingUser>
+		<gr:likingUser>01992501878962486474</gr:likingUser>
+		<gr:likingUser>10205828445365826533</gr:likingUser>
+		<gr:likingUser>09219429312686890673</gr:likingUser>
+		<gr:likingUser>08471787872707440773</gr:likingUser>
+		<gr:likingUser>06273799994268261983</gr:likingUser>
+		<gr:likingUser>10933723853406824284</gr:likingUser>
+		<gr:likingUser>04863170094270652340</gr:likingUser>
+		<gr:likingUser>06322551553253102976</gr:likingUser>
+		<gr:likingUser>09472469843317847383</gr:likingUser>
+		<gr:likingUser>09909894499772780890</gr:likingUser>
+		<gr:likingUser>01078909911975297443</gr:likingUser>
+		<gr:likingUser>06245794926424867334</gr:likingUser>
+		<gr:likingUser>01286600368596648475</gr:likingUser>
+		<gr:likingUser>17509115042524921877</gr:likingUser>
+		<gr:likingUser>14085803104069962228</gr:likingUser>
+		<gr:likingUser>00437524096916343252</gr:likingUser>
+		<gr:likingUser>11583516176986457888</gr:likingUser>
+		<gr:likingUser>17992602911475610716</gr:likingUser>
+		<gr:likingUser>07721819702807153647</gr:likingUser>
+		<gr:likingUser>16927800036440192345</gr:likingUser>
+		<gr:likingUser>08515870030370801667</gr:likingUser>
+		<gr:likingUser>11277540501752748054</gr:likingUser>
+		<gr:likingUser>00211570214342262446</gr:likingUser>
+		<gr:likingUser>06991819772577196357</gr:likingUser>
+		<gr:likingUser>17185143735811025974</gr:likingUser>
+		<gr:likingUser>04744337881417673667</gr:likingUser>
+		<gr:likingUser>02971385870103157047</gr:likingUser>
+		<gr:likingUser>05330196890221430037</gr:likingUser>
+		<source gr:stream-id="feed/http://www.engadget.com/rss.xml">
+			<id>tag:google.com,2005:reader/feed/http://www.engadget.com/rss.xml</id>
+			<title type="html">Engadget</title>
+			<link rel="alternate" href="http://www.engadget.com" type="text/html"/>
+		</source>
+	</entry>
+	<entry gr:crawl-timestamp-msec="1263555009000">
+		<id gr:original-id="http://ajaxian.com/?p=8451">tag:google.com,2005:reader/item/6bac9c2ec0256ec8</id>
+		<category term="Front Page"/>
+		<category term="JavaScript"/>
+		<category term="Library"/>
+		<category term="jQuery"/>
+		<title type="html">jQuery 1.4 is released</title>
+		<published>2010-01-15T05:13:56Z</published>
+		<updated>2010-01-15T05:13:56Z</updated>
+		<link rel="alternate" href="http://feedproxy.google.com/~r/ajaxian/~3/WZ4LT9xU42s/jquery-1-4-is-released" type="text/html"/>
+		<content xml:base="http://ajaxian.com/" type="html">&lt;p&gt;The incredibly popular jQuery library has released &lt;a href="http://jquery14.com/day-01/jquery-14"&gt;jQuery 1.4&lt;/a&gt; on a new website that will celebrate 14 days of jQuery.&lt;/p&gt;
+&lt;p&gt;There are a lot of new features, and as usual performance gains are showcased.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;Easy Setter Functions&lt;/b&gt;: For a while now, you&#x2019;ve been able to pass a function into .attr() and the return value of that function is set into the appropriate attribute. This functionalilty has now been extended into all setter methods
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Ajax&lt;/b&gt;: A lot of enhancements to the various remoting functions including support for native JSON parsing, etags, request context, and more
+&lt;/li&gt;
+&lt;li&gt;.css and .attr have been improved
+&lt;/li&gt;
+&lt;li&gt;Per property easing on effects
+&lt;/li&gt;
+&lt;li&gt;If you want to ensure that &#x201C;this&#x201D; inside a function will be permanently bound to a particular value, you can use jQuery.proxy to return a new function with that scope
+&lt;/li&gt;
+&lt;li&gt;New events: focusin and focusout
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;And Joe Walker will be really excited to see that &lt;code&gt;dojo.create&lt;/code&gt; has made it in! :)&lt;/p&gt;
+&lt;div&gt;&lt;a href="javascript:void(0);"&gt;PLAIN TEXT&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="color:#000000;font-weight:bold"&gt;JAVASCRIPT:&lt;/span&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;ol&gt;
+&lt;li style="font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;color:black;font-weight:normal;font-style:normal;color:#3A6A8B"&gt;
+&lt;div style="color:#000000;font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;font-weight:normal"&gt;&#xA0;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li style="font-weight:bold;color:#26536A"&gt;
+&lt;div style="color:#000000;font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;font-weight:normal"&gt;jQuery&lt;span style="color:#006600;font-weight:bold"&gt;(&lt;/span&gt;&lt;span style="color:#3366CC"&gt;&amp;quot;&amp;lt;div /&amp;gt;&amp;quot;&lt;/span&gt;, &lt;span style="color:#006600;font-weight:bold"&gt;{&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li style="font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;color:black;font-weight:normal;font-style:normal;color:#3A6A8B"&gt;
+&lt;div style="color:#000000;font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;font-weight:normal"&gt;&#xA0; &#xA0; id: &lt;span style="color:#3366CC"&gt;"foo"&lt;/span&gt;,&lt;/div&gt;
+&lt;/li&gt;
+&lt;li style="font-weight:bold;color:#26536A"&gt;
+&lt;div style="color:#000000;font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;font-weight:normal"&gt;&#xA0; &#xA0; css: &lt;span style="color:#006600;font-weight:bold"&gt;{&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li style="font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;color:black;font-weight:normal;font-style:normal;color:#3A6A8B"&gt;
+&lt;div style="color:#000000;font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;font-weight:normal"&gt;&#xA0; &#xA0; &#xA0; &#xA0; height: &lt;span style="color:#3366CC"&gt;"50px"&lt;/span&gt;,&lt;/div&gt;
+&lt;/li&gt;
+&lt;li style="font-weight:bold;color:#26536A"&gt;
+&lt;div style="color:#000000;font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;font-weight:normal"&gt;&#xA0; &#xA0; &#xA0; &#xA0; width: &lt;span style="color:#3366CC"&gt;"50px"&lt;/span&gt;,&lt;/div&gt;
+&lt;/li&gt;
+&lt;li style="font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;color:black;font-weight:normal;font-style:normal;color:#3A6A8B"&gt;
+&lt;div style="color:#000000;font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;font-weight:normal"&gt;&#xA0; &#xA0; &#xA0; &#xA0; color: &lt;span style="color:#3366CC"&gt;"blue"&lt;/span&gt;,&lt;/div&gt;
+&lt;/li&gt;
+&lt;li style="font-weight:bold;color:#26536A"&gt;
+&lt;div style="color:#000000;font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;font-weight:normal"&gt;&#xA0; &#xA0; &#xA0; &#xA0; backgroundColor: &lt;span style="color:#3366CC"&gt;"#ccc"&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li style="font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;color:black;font-weight:normal;font-style:normal;color:#3A6A8B"&gt;
+&lt;div style="color:#000000;font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;font-weight:normal"&gt;&#xA0; &#xA0; &lt;span style="color:#006600;font-weight:bold"&gt;}&lt;/span&gt;,&lt;/div&gt;
+&lt;/li&gt;
+&lt;li style="font-weight:bold;color:#26536A"&gt;
+&lt;div style="color:#000000;font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;font-weight:normal"&gt;&#xA0; &#xA0; click: &lt;span style="color:#003366;font-weight:bold"&gt;function&lt;/span&gt;&lt;span style="color:#006600;font-weight:bold"&gt;(&lt;/span&gt;&lt;span style="color:#006600;font-weight:bold"&gt;)&lt;/span&gt; &lt;span style="color:#006600;font-weight:bold"&gt;{&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li style="font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;color:black;font-weight:normal;font-style:normal;color:#3A6A8B"&gt;
+&lt;div style="color:#000000;font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;font-weight:normal"&gt;&#xA0; &#xA0; &#xA0; &#xA0;$&lt;span style="color:#006600;font-weight:bold"&gt;(&lt;/span&gt;&lt;span style="color:#000066;font-weight:bold"&gt;this&lt;/span&gt;&lt;span style="color:#006600;font-weight:bold"&gt;)&lt;/span&gt;.&lt;span style="color:#006600"&gt;css&lt;/span&gt;&lt;span style="color:#006600;font-weight:bold"&gt;(&lt;/span&gt;&lt;span style="color:#3366CC"&gt;"backgroundColor"&lt;/span&gt;, &lt;span style="color:#3366CC"&gt;"red"&lt;/span&gt;&lt;span style="color:#006600;font-weight:bold"&gt;)&lt;/span&gt;; &lt;/div&gt;
+&lt;/li&gt;
+&lt;li style="font-weight:bold;color:#26536A"&gt;
+&lt;div style="color:#000000;font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;font-weight:normal"&gt;&#xA0; &#xA0; &lt;span style="color:#006600;font-weight:bold"&gt;}&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li style="font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;color:black;font-weight:normal;font-style:normal;color:#3A6A8B"&gt;
+&lt;div style="color:#000000;font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;font-weight:normal"&gt;&lt;span style="color:#006600;font-weight:bold"&gt;}&lt;/span&gt;&lt;span style="color:#006600;font-weight:bold"&gt;)&lt;/span&gt;.&lt;span style="color:#006600"&gt;appendTo&lt;/span&gt;&lt;span style="color:#006600;font-weight:bold"&gt;(&lt;/span&gt;&lt;span style="color:#3366CC"&gt;"body"&lt;/span&gt;&lt;span style="color:#006600;font-weight:bold"&gt;)&lt;/span&gt;;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li style="font-weight:bold;color:#26536A"&gt;
+&lt;div style="color:#000000;font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;font-weight:normal"&gt;&#xA0;&lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Congrats to the jQuery team. I look forward to seeing posts over the next 2 weeks that go into more detail on the new coolness.&lt;/p&gt;
+&lt;div&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/ajaxian?a=WZ4LT9xU42s:nceLCvrJpPc:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/ajaxian?d=yIl2AUoC8zA" border="0"&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/ajaxian?a=WZ4LT9xU42s:nceLCvrJpPc:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/ajaxian?d=7Q72WNTAKBA" border="0"&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/ajaxian?a=WZ4LT9xU42s:nceLCvrJpPc:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/ajaxian?i=WZ4LT9xU42s:nceLCvrJpPc:D7DqB2pKExk" border="0"&gt;&lt;/a&gt;
+&lt;/div&gt;</content>
+		<author>
+			<name>Dion Almaer</name>
+		</author>
+		<source gr:stream-id="feed/http://ajaxian.com/index.rdf">
+			<id>tag:google.com,2005:reader/feed/http://ajaxian.com/index.rdf</id>
+			<title type="html">Ajaxian &#xBB; Front Page</title>
+			<link rel="alternate" href="http://ajaxian.com" type="text/html"/>
+		</source>
+	</entry>
+	<entry gr:crawl-timestamp-msec="1263554313057">
+		<id gr:original-id="Kotaku-5446993">tag:google.com,2005:reader/item/6920dd70260a4116</id>
+		<category term=" Art "/>
+		<category term="Australia"/>
+		<category term="Culture"/>
+		<category term="Retro"/>
+		<title type="html">New Movies As Old Video Games [Art]</title>
+		<published>2010-01-13T11:30:00Z</published>
+		<updated>2010-01-13T11:30:00Z</updated>
+		<link rel="alternate" href="http://feeds.gawker.com/~r/kotaku/full/~3/fOr2H3NseXk/" type="text/html"/>
+		<summary xml:base="http://kotaku.com/" type="html">&lt;p&gt;Games &lt;a href="http://kotaku.com/5145909/a-second-serving-of-classic-reimagined-game-covers"&gt;as book covers&lt;/a&gt;, movie posters &lt;a href="http://kotaku.com/5437450/movie-posters-hijacked-turned-into-game-posters/gallery/"&gt;as game covers&lt;/a&gt;...what's next? How about new movies as the box art to old Atari games?&lt;/p&gt; &lt;p&gt;Sure, why not.&lt;/p&gt; &lt;p&gt;Aussie artist Robert Penney has re-imagined some recent flicks like Avatar, Cloverfield and Snakes on a Plane as games on a fictional, ancient "CVS" system. Prison Break is featured too, but it's not a movie, and since that didn't fit with the whole "movies as games" theme, I've left it til last.&lt;/p&gt; &lt;p&gt;&lt;a href="http://penneydesign.tumblr.com/search/retro"&gt;Retro Games With Modern Themes&lt;/a&gt; [Penney Design, via &lt;a href="http://www.gamesetwatch.com/2010/01/game_boxes_with_film_titles.php?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+gamesetwatch+%28GameSetWatch%29&amp;amp;utm_content=Google+Reader"&gt;GameSetWatch&lt;/a&gt;]&lt;/p&gt; &lt;p&gt;&lt;a rel="lytebox" href="http://cache.gawker.com/assets/images/9/2010/01/retro-game-avatar.jpg"&gt;&lt;img src="http://cache.gawker.com/assets/images/9/2010/01/500x_retro-game-avatar.jpg" width="500"&gt;&lt;/a&gt;&lt;br&gt; &lt;a rel="lytebox" href="http://cache.gawker.com/assets/images/9/2010/01/retro-game-cloverfield.jpg"&gt;&lt;img src="http://cache.gawker.com/assets/images/9/2010/01/500x_retro-game-cloverfield.jpg" width="500"&gt;&lt;/a&gt;&lt;br&gt; &lt;a rel="lytebox" href="http://cache.gawker.com/assets/images/9/2010/01/retro-game-snakes-on-a-plan.jpg"&gt;&lt;img src="http://cache.gawker.com/assets/images/9/2010/01/500x_retro-game-snakes-on-a-plan.jpg" width="500"&gt;&lt;/a&gt;&lt;br&gt; &lt;a rel="lytebox" href="http://cache.gawker.com/assets/images/9/2010/01/retro-game-tokyodrift.jpg"&gt;&lt;img src="http://cache.gawker.com/assets/images/9/2010/01/500x_retro-game-tokyodrift.jpg" width="500"&gt;&lt;/a&gt;&lt;br&gt; &lt;img src="http://cache.gawker.com/assets/images/9/2010/01/500x_tumblr_kw1811wkuf1qa9g6uo1_500.jpg" width="500"&gt;&lt;/p&gt; &lt;br style="clear:both"&gt;
+&lt;br style="clear:both"&gt;
+&lt;a href="http://ads.pheedo.com/click.phdo?s=1dfb2caf74e3405a56becd7dbaf1788c&amp;amp;p=1"&gt;&lt;img alt="" style="border:0" border="0" src="http://ads.pheedo.com/img.phdo?s=1dfb2caf74e3405a56becd7dbaf1788c&amp;amp;p=1"&gt;&lt;/a&gt;
+&lt;img alt="" height="0" width="0" border="0" src="http://a.rfihub.com/eus.gif?eui=2226"&gt;&lt;div&gt;
+&lt;a href="http://feeds.gawker.com/~ff/kotaku/full?a=fOr2H3NseXk:Z5EnaoXLh9M:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/kotaku/full?d=yIl2AUoC8zA" border="0"&gt;&lt;/a&gt; &lt;a href="http://feeds.gawker.com/~ff/kotaku/full?a=fOr2H3NseXk:Z5EnaoXLh9M:H0mrP-F8Qgo"&gt;&lt;img src="http://feeds.feedburner.com/~ff/kotaku/full?d=H0mrP-F8Qgo" border="0"&gt;&lt;/a&gt; &lt;a href="http://feeds.gawker.com/~ff/kotaku/full?a=fOr2H3NseXk:Z5EnaoXLh9M:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/kotaku/full?i=fOr2H3NseXk:Z5EnaoXLh9M:D7DqB2pKExk" border="0"&gt;&lt;/a&gt; &lt;a href="http://feeds.gawker.com/~ff/kotaku/full?a=fOr2H3NseXk:Z5EnaoXLh9M:V_sGLiPBpWU"&gt;&lt;img src="http://feeds.feedburner.com/~ff/kotaku/full?i=fOr2H3NseXk:Z5EnaoXLh9M:V_sGLiPBpWU" border="0"&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/kotaku/full/~4/fOr2H3NseXk" height="1" width="1"&gt;</summary>
+		<author>
+			<name>Luke Plunkett</name>
+		</author>
+		<gr:likingUser>13345519443336942279</gr:likingUser>
+		<gr:likingUser>04462732357663317284</gr:likingUser>
+		<gr:likingUser>07821207543774008650</gr:likingUser>
+		<gr:likingUser>07846506593358721382</gr:likingUser>
+		<gr:likingUser>04554857736381215665</gr:likingUser>
+		<gr:likingUser>15271858167094098680</gr:likingUser>
+		<gr:likingUser>07448718969799197736</gr:likingUser>
+		<gr:likingUser>07119205162225807346</gr:likingUser>
+		<gr:likingUser>17051128227097507700</gr:likingUser>
+		<gr:likingUser>17501257341704719767</gr:likingUser>
+		<gr:likingUser>06781663934021660720</gr:likingUser>
+		<gr:likingUser>00620650031163643755</gr:likingUser>
+		<gr:likingUser>17044659047815307423</gr:likingUser>
+		<gr:likingUser>10828574395111843436</gr:likingUser>
+		<gr:likingUser>15963914873140213203</gr:likingUser>
+		<gr:likingUser>18204491574962392057</gr:likingUser>
+		<gr:likingUser>03771609763633266247</gr:likingUser>
+		<gr:likingUser>12990946534841410421</gr:likingUser>
+		<gr:likingUser>13195080000100454228</gr:likingUser>
+		<gr:likingUser>08531365088621328236</gr:likingUser>
+		<gr:likingUser>13842970331540445894</gr:likingUser>
+		<gr:likingUser>05905504447839508223</gr:likingUser>
+		<gr:likingUser>06357189685275807073</gr:likingUser>
+		<gr:likingUser>16102988371383256203</gr:likingUser>
+		<gr:likingUser>16881065185370620579</gr:likingUser>
+		<gr:likingUser>09832380818191357066</gr:likingUser>
+		<gr:likingUser>04731778334924318159</gr:likingUser>
+		<gr:likingUser>12901026100146417631</gr:likingUser>
+		<gr:likingUser>02371469465211772393</gr:likingUser>
+		<gr:likingUser>01090850754844288900</gr:likingUser>
+		<gr:likingUser>12320679686245258043</gr:likingUser>
+		<gr:likingUser>03598922690827483295</gr:likingUser>
+		<gr:likingUser>14591944581836366415</gr:likingUser>
+		<gr:likingUser>01653071346369426161</gr:likingUser>
+		<gr:likingUser>07086589106951273591</gr:likingUser>
+		<gr:likingUser>06671612760378107510</gr:likingUser>
+		<gr:likingUser>14777999382324388502</gr:likingUser>
+		<gr:likingUser>12586076422346951815</gr:likingUser>
+		<gr:likingUser>11150239082742693175</gr:likingUser>
+		<gr:likingUser>13050191327282990962</gr:likingUser>
+		<gr:likingUser>13884948057008614488</gr:likingUser>
+		<gr:likingUser>07474129550444660415</gr:likingUser>
+		<gr:likingUser>07891735105269286226</gr:likingUser>
+		<gr:likingUser>00387411953395024451</gr:likingUser>
+		<gr:likingUser>09109164682865167045</gr:likingUser>
+		<gr:likingUser>02470779916890841987</gr:likingUser>
+		<gr:likingUser>02688869284645911168</gr:likingUser>
+		<gr:likingUser>05323694372038626633</gr:likingUser>
+		<gr:likingUser>12431544186227545239</gr:likingUser>
+		<gr:likingUser>07107898501520943714</gr:likingUser>
+		<gr:likingUser>14704459895613450589</gr:likingUser>
+		<gr:likingUser>01058726096188651751</gr:likingUser>
+		<gr:likingUser>11441797845581806757</gr:likingUser>
+		<gr:likingUser>14026798712056579443</gr:likingUser>
+		<gr:likingUser>14468221694304911259</gr:likingUser>
+		<gr:likingUser>10550775558715541323</gr:likingUser>
+		<gr:likingUser>05193947355523674094</gr:likingUser>
+		<gr:likingUser>03781600469949227149</gr:likingUser>
+		<gr:likingUser>10564571245393186388</gr:likingUser>
+		<gr:likingUser>03461419647369584208</gr:likingUser>
+		<gr:likingUser>16971606328638087378</gr:likingUser>
+		<gr:likingUser>08607595364158183182</gr:likingUser>
+		<gr:likingUser>06337733174160618745</gr:likingUser>
+		<gr:likingUser>03686117419496182444</gr:likingUser>
+		<gr:likingUser>01367802252597085930</gr:likingUser>
+		<gr:likingUser>06319832707534970317</gr:likingUser>
+		<gr:likingUser>00239283172779320806</gr:likingUser>
+		<gr:likingUser>16300195339864704793</gr:likingUser>
+		<gr:likingUser>08619494391013814667</gr:likingUser>
+		<gr:likingUser>08346058054046705065</gr:likingUser>
+		<gr:likingUser>00159501277465078027</gr:likingUser>
+		<gr:likingUser>15769830188256014479</gr:likingUser>
+		<gr:likingUser>15287192200169265684</gr:likingUser>
+		<gr:likingUser>08714352836372597380</gr:likingUser>
+		<gr:likingUser>07811010064008904703</gr:likingUser>
+		<gr:likingUser>09222290166406973858</gr:likingUser>
+		<gr:likingUser>15230632078679259086</gr:likingUser>
+		<gr:likingUser>15790571906546612700</gr:likingUser>
+		<gr:likingUser>07012301577403760473</gr:likingUser>
+		<gr:likingUser>11897411532829916943</gr:likingUser>
+		<gr:likingUser>06925351185350905271</gr:likingUser>
+		<gr:likingUser>14490824522817180691</gr:likingUser>
+		<gr:likingUser>17310069337507737141</gr:likingUser>
+		<gr:likingUser>07068095677532769246</gr:likingUser>
+		<gr:likingUser>09897442496117327301</gr:likingUser>
+		<gr:likingUser>14692214449667963189</gr:likingUser>
+		<gr:likingUser>15521113819756308038</gr:likingUser>
+		<gr:likingUser>00261091094555643650</gr:likingUser>
+		<gr:likingUser>08278015116602155460</gr:likingUser>
+		<gr:likingUser>01895601342965830441</gr:likingUser>
+		<gr:likingUser>10491358529321045699</gr:likingUser>
+		<gr:likingUser>12231495703697537239</gr:likingUser>
+		<gr:likingUser>08168167090269980121</gr:likingUser>
+		<gr:likingUser>08915727927269434362</gr:likingUser>
+		<gr:likingUser>08530339887968279242</gr:likingUser>
+		<gr:likingUser>14617272796769146836</gr:likingUser>
+		<gr:likingUser>05196855796608609736</gr:likingUser>
+		<gr:likingUser>07703464815657333172</gr:likingUser>
+		<gr:likingUser>12207390809514764365</gr:likingUser>
+		<gr:likingUser>00718736382149377878</gr:likingUser>
+		<source gr:stream-id="feed/http://www.kotaku.com/index.xml">
+			<id>tag:google.com,2005:reader/feed/http://www.kotaku.com/index.xml</id>
+			<title type="html">Kotaku</title>
+			<link rel="alternate" href="http://kotaku.com" type="text/html"/>
+		</source>
+	</entry>
+	<entry gr:crawl-timestamp-msec="1263527223182">
+		<id gr:original-id="http://blog.makezine.com/archive/2010/01/1981_ad_for_lego.html">tag:google.com,2005:reader/item/b9865d891d9e89ed</id>
+		<category term="LEGO"/>
+		<title type="html">1981 ad for Lego</title>
+		<published>2010-01-14T17:59:52Z</published>
+		<updated>2010-01-14T17:59:52Z</updated>
+		<link rel="alternate" href="http://blog.makezine.com/archive/2010/01/1981_ad_for_lego.html" type="text/html"/>
+		<summary xml:base="http://blog.makezine.com/" type="html">&lt;a href="http://blog.makezine.com/lego-girl.jpg"&gt;&lt;img src="http://blog.makezine.com/lego-girl-tm.jpg" height="855" width="640" border="0" align="left" hspace="4" vspace="4" alt="Lego-Girl"&gt;&lt;/a&gt;
+&lt;br&gt; &lt;em&gt;Photo from Flickr user Moose Greebles&lt;/em&gt;
+&lt;p&gt;I like this 1981 ad for Lego. It reads, in part: "Have you ever seen anything like it? Not just what she's made, but how proud it's made her. It's a look you'll see whenever children build something all by themselves. No matter what they've created." 
+&lt;p&gt;Compare the above to &lt;a href="http://belville.lego.com/en-us/default.aspx"&gt;Lego ads for girls today&lt;/a&gt;. &lt;em&gt;(Via &lt;a href="http://www.feministing.com/archives/019627.html?"&gt;Feministing&lt;/a&gt;)&lt;/em&gt;
+       
+        &lt;a href="http://blog.makezine.com/archive/2010/01/1981_ad_for_lego.html"&gt;Read more&lt;/a&gt; | &lt;a href="http://blog.makezine.com/archive/2010/01/1981_ad_for_lego.html"&gt;Permalink&lt;/a&gt; | &lt;a href="http://blog.makezine.com/archive/2010/01/1981_ad_for_lego.html#comments"&gt;Comments&lt;/a&gt; | 
+        
+        
+        
+        &lt;a href="http://blog.makezine.com/archive/lego/"&gt;Read more articles in LEGO&lt;/a&gt; | 
+        
+        
+        &lt;a href="http://digg.com/submit?url=blog.makezine.com%2Farchive%2F2010%2F01%2F1981_ad_for_lego.html&amp;amp;title=1981%20ad%20for%20Lego&amp;amp;bodytext=%20Photo%20from%20Flickr%20user%20Moose%20Greebles%20I%20like%20this%201981%20ad%20for%20Lego.%20It%20reads%2C%20in%20part%3A%20%26quot%3BHave%20you%20ever%20seen%20anything%20like%20it%3F%20Not%20just%20what%20she%26apos%3Bs%20made%2C%20but%20how%20proud%20it%26apos%3Bs%20made%20her.%20It%26apos%3Bs%20a%20look%20you%26apos%3Bll...&amp;amp;topic=tech_news"&gt;Digg this!&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;</summary>
+		<author>
+			<name>Mark Frauenfelder</name>
+		</author>
+		<gr:likingUser>11410095160220285088</gr:likingUser>
+		<gr:likingUser>03466109769644516966</gr:likingUser>
+		<gr:likingUser>13513198689302751374</gr:likingUser>
+		<gr:likingUser>14351491092878419467</gr:likingUser>
+		<gr:likingUser>03741412133984359525</gr:likingUser>
+		<gr:likingUser>17850580268965480487</gr:likingUser>
+		<gr:likingUser>09750016387310947574</gr:likingUser>
+		<gr:likingUser>01956281446129458634</gr:likingUser>
+		<gr:likingUser>05223563131868252196</gr:likingUser>
+		<gr:likingUser>07676335560446189009</gr:likingUser>
+		<gr:likingUser>11516154383342636783</gr:likingUser>
+		<gr:likingUser>15490207243882888920</gr:likingUser>
+		<gr:likingUser>05319486739230855602</gr:likingUser>
+		<gr:likingUser>07286868472996347846</gr:likingUser>
+		<gr:likingUser>00520893981753041498</gr:likingUser>
+		<gr:likingUser>03099836494868757979</gr:likingUser>
+		<gr:likingUser>16837964290292495266</gr:likingUser>
+		<gr:likingUser>13949945115150848372</gr:likingUser>
+		<gr:likingUser>01102481944463970311</gr:likingUser>
+		<gr:likingUser>08393435117590650784</gr:likingUser>
+		<gr:likingUser>14843194257162335909</gr:likingUser>
+		<gr:likingUser>09401309724516848935</gr:likingUser>
+		<gr:likingUser>02663365161413077757</gr:likingUser>
+		<gr:likingUser>12156586632171183733</gr:likingUser>
+		<gr:likingUser>18258071009055852624</gr:likingUser>
+		<gr:likingUser>05916907868197161554</gr:likingUser>
+		<gr:likingUser>14733702581318442441</gr:likingUser>
+		<gr:likingUser>14179601022376445495</gr:likingUser>
+		<gr:likingUser>06530762647240570300</gr:likingUser>
+		<gr:likingUser>12435842655844858836</gr:likingUser>
+		<gr:likingUser>10062659165471347388</gr:likingUser>
+		<gr:likingUser>00027538013308967625</gr:likingUser>
+		<gr:likingUser>13454098564999614958</gr:likingUser>
+		<gr:likingUser>15805614508239220626</gr:likingUser>
+		<gr:likingUser>15998339607546856927</gr:likingUser>
+		<gr:likingUser>06591288638499722223</gr:likingUser>
+		<gr:likingUser>18111546396493799023</gr:likingUser>
+		<gr:likingUser>17174913401695622442</gr:likingUser>
+		<gr:likingUser>16274948034199257450</gr:likingUser>
+		<gr:likingUser>06208952348884439023</gr:likingUser>
+		<gr:likingUser>06330302596241415535</gr:likingUser>
+		<gr:likingUser>15959483671531629660</gr:likingUser>
+		<gr:likingUser>03990945554485705677</gr:likingUser>
+		<gr:likingUser>12987670846104427967</gr:likingUser>
+		<gr:likingUser>11330966159118025605</gr:likingUser>
+		<gr:likingUser>06980191308493419641</gr:likingUser>
+		<gr:likingUser>08873733852786964439</gr:likingUser>
+		<gr:likingUser>14975377620639329498</gr:likingUser>
+		<gr:likingUser>12843581861749591157</gr:likingUser>
+		<gr:likingUser>08834897502045379435</gr:likingUser>
+		<gr:likingUser>03223487042674142724</gr:likingUser>
+		<gr:likingUser>01912486850108916161</gr:likingUser>
+		<gr:likingUser>06538652964671577813</gr:likingUser>
+		<gr:likingUser>14021263202253330926</gr:likingUser>
+		<gr:likingUser>18336802892074058336</gr:likingUser>
+		<gr:likingUser>01140461388446913133</gr:likingUser>
+		<gr:likingUser>12089989833072532509</gr:likingUser>
+		<gr:likingUser>15485701505797004380</gr:likingUser>
+		<gr:likingUser>08861917694700062780</gr:likingUser>
+		<gr:likingUser>13063462679327412883</gr:likingUser>
+		<gr:likingUser>01160712119054868901</gr:likingUser>
+		<gr:likingUser>15217774922118815663</gr:likingUser>
+		<gr:likingUser>07843542705339414479</gr:likingUser>
+		<gr:likingUser>03237565276616941400</gr:likingUser>
+		<gr:likingUser>12545576603086939743</gr:likingUser>
+		<gr:likingUser>07020534492470992720</gr:likingUser>
+		<source gr:stream-id="feed/http://blog.makezine.com/index.xml">
+			<id>tag:google.com,2005:reader/feed/http://blog.makezine.com/index.xml</id>
+			<title type="html">MAKE Magazine</title>
+			<link rel="alternate" href="http://blog.makezine.com/" type="text/html"/>
+		</source>
+	</entry>
+	<entry gr:crawl-timestamp-msec="1263527127646">
+		<id gr:original-id="http://blogs.23.nu/c0re/?p=797">tag:google.com,2005:reader/item/9abbac5956581dca</id>
+		<category term="couchdb"/>
+		<title type="html">Running a CouchDB cluster on Amazon EC2</title>
+		<published>2009-12-20T21:38:59Z</published>
+		<updated>2009-12-20T21:38:59Z</updated>
+		<link rel="alternate" href="http://blogs.23.nu/c0re/2009/12/running-a-couchdb-cluster-on-amazon-ec2/" type="text/html"/>
+		<content xml:base="http://planet.couchdb.com/" xml:lang="de" type="html">&lt;div&gt;&lt;p&gt;&lt;a href="http://couchdb.apache.org/"&gt;CouchDB&lt;/a&gt; is a nearly zero-configuration multi-master document oriented database. It is a awsome product build by an awsome team.&lt;/p&gt;
+&lt;p&gt;So far I &lt;a href="http://blogs.23.nu/c0re/2008/12/building-a-track-and-trace-application-with-couchdb/"&gt;have been using CouchDB&lt;/a&gt; like we would have used any other modern Document Datastore: in a centraized fashion. One Server at our premises. For backup purposes we replicated on a second couchdb instance running on our backup server.&lt;/p&gt;
+&lt;p&gt;Hosting about 300 GB of data a small 2.6 GHz Server with consumer-grade disks we started seeing preformance issues. Also we see latency issues since we are hosting some application at Amazon EC2 &#x201C;in the cloud&#x201D; which&lt;br&gt;
+results an an addiotional 40 ms delay for all queries to our locally hosted server.&lt;/p&gt;
+&lt;p&gt;So this is the right time to use some more of CouchDBs capabilities and spin up additional instances on demand at Amazon EC2. I assume you have already set up an Amazon EC2 account and are comfortable with the general concepts.&lt;/p&gt;
+&lt;p&gt;There are some tutorials out there which threat EC2 like a regular hosting provider. This is a seriously misguided approach. If you don&#x2019;t use EC2 in a way that you always can loose one or two instances, you are using it wrong. If you are not spinning up servers in a way that it takes the same time to set up one instance than it takes to set up 10 instances you are using it wrong.&lt;/p&gt;
+&lt;p&gt;To use EC2 as it meant to be used, we need automation. We will use &lt;a href="http://reductivelabs.com/trac/puppet"&gt;puppet&lt;/a&gt; in this example.&lt;/p&gt;
+&lt;p&gt;I assume that you have installed a &#x201C;puppetmaster&#x201D; on a machine called puppet.example.com. I also assume the puppet configuration on the puppetmaster is at &lt;code&gt;/etc/puppet&lt;/code&gt;. On BSD ist might be located instead at &lt;code&gt;/usr/local/etc/puppet&lt;/code&gt;. Place the following content at &lt;code&gt;/etc/puppet/files/etc/couchdb/local.ini&lt;/code&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;&lt;/code&gt;&lt;/p&gt;
+&lt;pre&gt;[couchdb]
+database_dir = /mnt/couchdb
+view_index_dir = /mnt/couchdb
+
+[httpd]
+bind_address = 0.0.0.0
+
+[couch_httpd_auth]
+require_valid_user=true
+
+[admins]
+admin = sekrit
+&lt;/pre&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;This ensures that only clients which authenticate as user &#x201C;admin&#x201D; with the password &#x201C;sekrit&#x201D; are allowed to access the server. You might want to change &#x201C;sekrit&#x201D; to something more suble.&lt;/p&gt;
+&lt;p&gt;Add &lt;code&gt;/etc/puppet/fileserver.conf&lt;/code&gt; to make sure the local.ini file can be moved the clients:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;
+&lt;/code&gt;&lt;/p&gt;&lt;pre&gt;[files]
+  path /etc/puppet/files
+  allow *
+&lt;/pre&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Then add &lt;code&gt;/etc/puppet/manifests/site.pp&lt;/code&gt; to allow automatic installation and configuration:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;&lt;/code&gt;&lt;/p&gt;
+&lt;pre&gt;class couchserver {
+  package { &amp;quot;couchdb&amp;quot;: ensure =&amp;gt; latest }
+  package { &amp;quot;python-couchdb&amp;quot;: ensure =&amp;gt; installed }
+  group { &amp;quot;couchdb&amp;quot;: ensure =&amp;gt; present }
+  user { &amp;quot;couchdb&amp;quot;: ensure =&amp;gt; present, groups =&amp;gt; &amp;quot;couchdb&amp;quot;,
+    comment =&amp;gt; &amp;quot;CouchDB Administrator&amp;quot;,
+    home =&amp;gt; &amp;quot;/mnt/couchdb&amp;quot; }
+  file { &amp;quot;/etc/couchdb&amp;quot;: ensure =&amp;gt; directory,
+    owner  =&amp;gt; couchdb, group  =&amp;gt; couchdb,
+    mode   =&amp;gt; 755 }
+  file { &amp;quot;/mnt/couchdb&amp;quot;: ensure =&amp;gt; directory,
+    owner  =&amp;gt; couchdb, group  =&amp;gt; couchdb,
+    mode   =&amp;gt; 700 }
+  file {&amp;quot;local.ini&amp;quot;:
+    mode =&amp;gt; 774,
+    owner =&amp;gt; couchdb, group =&amp;gt; couchdb,
+    path =&amp;gt; &amp;quot;/etc/couchdb/local.ini&amp;quot;,
+    source =&amp;gt;
+      &amp;quot;puppet://puppet.exmple.com/files/etc/couchdb/local.ini&amp;quot;
+  }
+  service { couchdb:
+    ensure    =&amp;gt; running,
+    subscribe =&amp;gt; [Package[couchdb],
+                  File[&amp;quot;local.ini&amp;quot;],
+                  File[&amp;quot;/mnt/couchdb&amp;quot;]]
+}}
+
+node &amp;quot;PLACEHOLDER&amp;quot; {
+    include couchserver
+}
+&lt;/pre&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Now we have to create a Amazon &#x201C;security group&#x201D; to firewall our CouchDB servers. Since I like the belt and suspenders way of doing things we not only will use HTTP-Auth in CouchDB but also firewall rules. You have to have the EC2 commandline tools installed. I assume your comapny has a public IP range at 17.18.19.0/24.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;
+&lt;/code&gt;&lt;/p&gt;&lt;pre&gt;$ ec2-add-group couchserver -d &amp;#39;couchdb server&amp;#39;
+$ ec2-authorize couchserver -P tcp -p 5984 -s 17.18.19.0/24
+&lt;/pre&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Next step is starting a EC2 instance. We use a Small Ubuntu 9.10 AMI since it comes with a decent version of CouchDB. We then log in and install Puppet.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;
+&lt;/code&gt;&lt;/p&gt;&lt;pre&gt;$ ec2-run-instances ami-a62a01d2 --key YOUR_EC2_SSH_KEY \
+  --instance-type m1.small --region eu-west-1 \
+  --group default --group couchdb
+INSTANCE       &lt;b&gt;i-ec985e9b&lt;/b&gt;   ...
+$ sleep 120
+# get the id from the output of ec2-run-instances
+$ ec2-describe-instances &lt;b&gt;i-ec985e9b&lt;/b&gt;
+INSTANCE       i-ec985e9b      &lt;b&gt;79.125.56.43&lt;/b&gt;   10.227.94.80
+# get the ip from the output of ec2-describe-instances
+$ ssh -i ~/.ssh/YOUR_EC2_SSH_KEY ubuntu@&lt;b&gt;79.125.56.43&lt;/b&gt;
+# on the EC2 instance:
+$ sudo apt-get update -y
+$ sudo apt-get install -y puppet
+$ puppetd --test --server puppet.example.com
+&lt;/pre&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;This will result in a Error message about certificates. The puppet client requested a certificate and you have to sign this certificate at the puppet server. There is still some room for automatation. Log into the puppetmaster and list the signature requests with &lt;code&gt;puppetca -l&lt;/code&gt;. You&#x2019; see the name of your newly created instance. Sign that name by using &lt;code&gt;puppetca -s&lt;/code&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;
+&lt;/code&gt;&lt;/p&gt;&lt;pre&gt;root@puppet:~# puppetca -l
+ip-10-20-30-40.eu-west-1.compute.internal
+root@puppet:~# puppetca -s ip-10-20-30-40.compute.internal
+Signed ip-10-20-30-40.eu-west-1.compute.internal
+root@puppet:~# perl -npe &amp;#39;s//ip-10-20-30-40.compute.internal/;&amp;#39; \
+   -i.bak /etc/puppet/manifests/site.pp
+&lt;/pre&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;The last line automatically edits &lt;code&gt;/etc/puppet/manifests/site.pp&lt;/code&gt; to contian configuration information for the new instance. That&#x2019;s all there is to do on the puppet master.&lt;/p&gt;
+&lt;p&gt;Now back on the new instance you can make puppet configure your CouchDB by typing &lt;code&gt;puppetd --test --server puppet.example.com&lt;/code&gt;. This should install CouchDB and configure it to use the &#x201C;big&#x201D; 140 GB disk of your instance and to require password authentication.&lt;/p&gt;
+&lt;p&gt;You can test if CouchDB is up, running and secured by using cURL:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;
+&lt;/code&gt;&lt;/p&gt;&lt;pre&gt;$ curl http://127.0.0.1:5984
+{&amp;quot;error&amp;quot;:&amp;quot;unauthorized&amp;quot;,&amp;quot;reason&amp;quot;:&amp;quot;Authentication required.&amp;quot;}
+&lt;/pre&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;This is the point in time where we can start replication from our internal, behind-the-firewall CouchDB to the new box running at Amazon. Since there are some issues regarding commandline tools and authentication I created &lt;a href="http://github.com/mdornseif/couchdb-python/tree/79e9433cab0b27293173849b75f2d0cadda6c8b5"&gt;a patched version of python-couchdb at GitHub&lt;/a&gt;. Download it &lt;a href="http://github.com/mdornseif/couchdb-python/archives/master"&gt;from here&lt;/a&gt; to a machine in your internal network, untar it and change in the couchddb-python directory. Then initiate replication:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;
+&lt;/code&gt;&lt;/p&gt;&lt;pre&gt;$ PYTHONPATH=. python ./couchdb/tools/manual_replication.py \
+  --source=http://couchdb.internal.example.com:5984 \
+  --target=http://admin:sekrit@79.125.56.43:5984/ --push \
+  --continuous
+&lt;/pre&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;After this ran, set up permanent two-way replication between the two Servers:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;
+&lt;/code&gt;&lt;/p&gt;&lt;pre&gt;$ PYTHONPATH=. python ./couchdb/tools/manual_replication.py \
+  --source=http://couchdb.internal.example.com:5984 \
+  --target=http://admin:sekrit@79.125.56.43:5984/ --push
+$ PYTHONPATH=. python ./couchdb/tools/manual_replication.py \
+  --source=http://admin:sekrit@79.125.56.43:5984/ \
+  --target=http://couchdb.internal.example.com:5984 \
+  --continuous
+&lt;/pre&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Basicaly that&#x2019;s it. We are still missing a few bit&#x2019;s and pices to get full automation, but we are nearly there. and for a cluster you probably want more than one CouchDB instance running at Amazon.&lt;/p&gt;&lt;/div&gt;</content>
+		<author>
+			<name>mdornseif</name>
+		</author>
+		<gr:likingUser>15596853698718548450</gr:likingUser>
+		<source gr:stream-id="feed/http://planet.couchdb.org/atom.xml">
+			<id>tag:google.com,2005:reader/feed/http://planet.couchdb.org/atom.xml</id>
+			<title type="html">Planet CouchDB</title>
+			<link rel="alternate" href="http://planet.couchdb.com/" type="text/html"/>
+		</source>
+	</entry>
+	<entry gr:crawl-timestamp-msec="1263457913353">
+		<id gr:original-id="http://ajaxian.com/?p=8426">tag:google.com,2005:reader/item/0809657c6eb4b9d9</id>
+		<category term="Flash"/>
+		<category term="Front Page"/>
+		<category term="JavaScript"/>
+		<title type="html">Gordon: Flash Runtime Implemented in Javascript</title>
+		<published>2010-01-13T20:38:35Z</published>
+		<updated>2010-01-13T20:38:35Z</updated>
+		<link rel="alternate" href="http://feedproxy.google.com/~r/ajaxian/~3/XHLeJ7cOmgg/gordon-flash-runtime-implemented-in-javascript" type="text/html"/>
+		<content xml:base="http://ajaxian.com/" type="html">&lt;p&gt;This was quite a surprise! &lt;a href="http://twitter.com/tobeytailor"&gt;Tobias Schneider&lt;/a&gt; has built a Flash runtime that works right in the browser. It's implemented in pure Javascript and HTML5, and the whole thing is open source, MIT-licensed, and &lt;a href="http://github.com/tobeytailor/gordon"&gt;hosted on GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://paulirish.com/work/gordon/demos/"&gt;See Gordon in action&lt;/a&gt; (demos hosted by Paul Irish).&lt;/p&gt;
+&lt;p&gt;It works like a charm in recent versions of Firefox, Chrome, and Safari (and, yes, iPhone Safari, though the "blue" demo runs at tedious pace on my 3G). To install it yourself, use "git clone git://github.com/tobeytailor/gordon.git". I found the demos don't work from a file:/// URI due to the script dependency system, so point your web server at the root and point your browser at demos/.&lt;/p&gt;
+&lt;p&gt;There's not yet any docs, so it's not clear how broadly compatible Gordon is or where it's headed. But if nothing else, it makes a bold statement about the maturity of open web technologies.&lt;/p&gt;
+&lt;div&gt;&lt;a href="javascript:void(0);"&gt;PLAIN TEXT&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="color:#000000;font-weight:bold"&gt;HTML:&lt;/span&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;ol&gt;
+&lt;li style="font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;color:black;font-weight:normal;font-style:normal;color:#3A6A8B"&gt;
+&lt;div style="color:#000000;font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;font-weight:normal"&gt;&#xA0;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li style="font-weight:bold;color:#26536A"&gt;
+&lt;div style="color:#000000;font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;font-weight:normal"&gt;&#xA0; &lt;span style="color:#009900"&gt;&lt;a href="http://december.com/html/4/element/body.html"&gt;&lt;span style="color:#000000;font-weight:bold"&gt;&amp;lt;body&lt;/span&gt;&lt;/a&gt; &lt;span style="color:#000066"&gt;onload&lt;/span&gt;=&lt;span style="color:#ff0000"&gt;"new Gordon.Movie('trip.swf', {id: 'stage', width: 500, height: 400})"&lt;/span&gt;&lt;span style="color:#000000;font-weight:bold"&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li style="font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;color:black;font-weight:normal;font-style:normal;color:#3A6A8B"&gt;
+&lt;div style="color:#000000;font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;font-weight:normal"&gt;&#xA0; &#xA0; &lt;span style="color:#009900"&gt;&lt;a href="http://december.com/html/4/element/div.html"&gt;&lt;span style="color:#000000;font-weight:bold"&gt;&amp;lt;div&lt;/span&gt;&lt;/a&gt; &lt;span style="color:#000066"&gt;id&lt;/span&gt;=&lt;span style="color:#ff0000"&gt;"stage"&lt;/span&gt;&lt;span style="color:#000000;font-weight:bold"&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="color:#009900"&gt;&lt;span style="color:#000000;font-weight:bold"&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li style="font-weight:bold;color:#26536A"&gt;
+&lt;div style="color:#000000;font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;font-weight:normal"&gt;&#xA0; &lt;span style="color:#009900"&gt;&lt;span style="color:#000000;font-weight:bold"&gt;&amp;lt;/body&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li style="font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;color:black;font-weight:normal;font-style:normal;color:#3A6A8B"&gt;
+&lt;div style="color:#000000;font-family:&amp;#39;Courier New&amp;#39;, Courier, monospace;font-weight:normal"&gt;&#xA0;&lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href="http://github.com/tobeytailor/gordon"&gt;&lt;img alt="Gordon" src="http://ajaxian.com/wp-content/images/20100113-bwijjxyyhmr2m75rd44rhx2k9r.png" title="Gordon" width="382" height="395"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;(Update: After much twitter love, someone finally figured out the name. How did we miss it?!!)&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Flash Gordon: Saviour?" src="http://ajaxian.com/wp-content/images/flashgordon.jpg" title="flashgordon2" width="426" height="572"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Update 2: There's a &lt;a href="http://wiki.github.com/tobeytailor/gordon/swf-tag-support-table"&gt;SWF tag support table&lt;/a&gt; and a &lt;a href="http://wiki.github.com/tobeytailor/gordon/browser-support-table"&gt;browser support table&lt;/a&gt;. (thanks &lt;a href="http://twitter.com/tuxified/statuses/7728879174"&gt;@tuxified&lt;/a&gt;)&lt;/i&gt;&lt;/p&gt;
+&lt;div&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/ajaxian?a=XHLeJ7cOmgg:u4S0njXLuMk:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/ajaxian?d=yIl2AUoC8zA" border="0"&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/ajaxian?a=XHLeJ7cOmgg:u4S0njXLuMk:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/ajaxian?d=7Q72WNTAKBA" border="0"&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/ajaxian?a=XHLeJ7cOmgg:u4S0njXLuMk:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/ajaxian?i=XHLeJ7cOmgg:u4S0njXLuMk:D7DqB2pKExk" border="0"&gt;&lt;/a&gt;
+&lt;/div&gt;</content>
+		<author>
+			<name>Michael Mahemoff</name>
+		</author>
+		<gr:likingUser>03860112858570305495</gr:likingUser>
+		<gr:likingUser>09502862405109444373</gr:likingUser>
+		<gr:likingUser>06836422528150126485</gr:likingUser>
+		<gr:likingUser>05811184787797974732</gr:likingUser>
+		<gr:likingUser>18124279385182469971</gr:likingUser>
+		<gr:likingUser>07803639457955864603</gr:likingUser>
+		<gr:likingUser>08175612960993182203</gr:likingUser>
+		<gr:likingUser>12876087448559230915</gr:likingUser>
+		<gr:likingUser>06111624940130850285</gr:likingUser>
+		<gr:likingUser>05849052985714716492</gr:likingUser>
+		<gr:likingUser>16518033472857499873</gr:likingUser>
+		<gr:likingUser>05258996823467127454</gr:likingUser>
+		<gr:likingUser>11601043898330304613</gr:likingUser>
+		<gr:likingUser>09861010378999536985</gr:likingUser>
+		<gr:likingUser>00100493279740858246</gr:likingUser>
+		<gr:likingUser>12675574226839505552</gr:likingUser>
+		<gr:likingUser>12042819575895918843</gr:likingUser>
+		<gr:likingUser>01447840623854534672</gr:likingUser>
+		<gr:likingUser>10311923250980613279</gr:likingUser>
+		<gr:likingUser>10440297436336528410</gr:likingUser>
+		<gr:likingUser>09298711963651598807</gr:likingUser>
+		<gr:likingUser>04966913146319184968</gr:likingUser>
+		<gr:likingUser>13743037244925047359</gr:likingUser>
+		<gr:likingUser>01375504641590576080</gr:likingUser>
+		<gr:likingUser>13658696643757480661</gr:likingUser>
+		<gr:likingUser>12249515547885942424</gr:likingUser>
+		<gr:likingUser>07175052666167554373</gr:likingUser>
+		<gr:likingUser>12186880669527486817</gr:likingUser>
+		<gr:likingUser>14442612251844739149</gr:likingUser>
+		<gr:likingUser>07891803436513471070</gr:likingUser>
+		<gr:likingUser>00761540025048330471</gr:likingUser>
+		<gr:likingUser>17483642239699353466</gr:likingUser>
+		<gr:likingUser>02386514808384064924</gr:likingUser>
+		<gr:likingUser>17368092383100441953</gr:likingUser>
+		<gr:likingUser>14115336155390805576</gr:likingUser>
+		<gr:likingUser>13482957486435758786</gr:likingUser>
+		<gr:likingUser>03710515902568283455</gr:likingUser>
+		<gr:likingUser>03546693042949770404</gr:likingUser>
+		<gr:likingUser>14415598818845057024</gr:likingUser>
+		<gr:likingUser>01868665287768547479</gr:likingUser>
+		<gr:likingUser>03416013349326018762</gr:likingUser>
+		<gr:likingUser>16813950269145228129</gr:likingUser>
+		<gr:likingUser>08260655350976705810</gr:likingUser>
+		<gr:likingUser>04800550817652981750</gr:likingUser>
+		<gr:likingUser>03647295969831490601</gr:likingUser>
+		<gr:likingUser>11929026422634863420</gr:likingUser>
+		<gr:likingUser>11320059095577338244</gr:likingUser>
+		<gr:likingUser>09764242758699708533</gr:likingUser>
+		<gr:likingUser>05071326317761824576</gr:likingUser>
+		<source gr:stream-id="feed/http://feeds.feedburner.com/ajaxian">
+			<id>tag:google.com,2005:reader/feed/http://feeds.feedburner.com/ajaxian</id>
+			<title type="html">Ajaxian &#xBB; Front Page</title>
+			<link rel="alternate" href="http://ajaxian.com" type="text/html"/>
+		</source>
+	</entry>
+	<entry gr:crawl-timestamp-msec="1263431215198">
+		<id gr:original-id="">tag:google.com,2005:reader/item/22dddd296fc17ff8</id>
+		<title type="html">Calvin and Hobbes for January 04, 2010</title>
+		<published>2010-01-14T01:06:55Z</published>
+		<updated>2010-01-14T01:06:55Z</updated>
+		<link rel="alternate" href="http://www.ucomics.com/calvinandhobbes/2010/01/04/" type="text/html"/>
+		<link rel="related" href="http://www.ucomics.com/calvinandhobbes/" title="Calvin and Hobbes (Unofficial)"/>
+		<content xml:base="http://www.ucomics.com/calvinandhobbes/2010/01/04/" type="html">&lt;blockquote&gt;Shared by  caprazzo 
+&lt;br&gt;
+how to use a time machine&lt;/blockquote&gt;
+&lt;img src="http://images.ucomics.com/comics/ch/2010/ch100104.gif" border="0"&gt;
+</content>
+		<author gr:unknown-author="true">
+			<name>(author unknown)</name>
+		</author>
+		<gr:annotation>
+			<content type="html">how to use a time machine</content>
+			<author gr:user-id="04542763409539038815" gr:profile-id="112222663972638770219">
+				<name>caprazzo</name>
+			</author>
+		</gr:annotation>
+		<source gr:stream-id="user/04542763409539038815/source/com.google/link">
+			<id>tag:google.com,2005:reader/user/04542763409539038815/source/com.google/link</id>
+			<title type="html">Calvin and Hobbes (Unofficial)</title>
+			<link rel="alternate" href="http://www.ucomics.com/calvinandhobbes/" type="text/html"/>
+		</source>
+	</entry>
+</feed>

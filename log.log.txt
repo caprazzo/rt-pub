@@ -1,0 +1,533 @@
+2010-01-19 17:59:30,401 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 0
+2010-01-19 17:59:32,850 - fetcher-shared_caprazzi - INFO - continuation: 0, last update: 2010-01-19T16:25:36Z
+2010-01-19 17:59:33,017 - fetcher-shared_caprazzi - INFO - encountered existing doc - stop scanning list
+2010-01-19 17:59:33,017 - fetcher-shared_caprazzi - INFO - encountered existing doc - feed up-to-date
+2010-01-19 17:59:45,015 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T16:25:36Z
+2010-01-19 18:00:25,894 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 0
+2010-01-19 18:00:27,936 - fetcher-shared_caprazzi - INFO - continuation: 0, last update: 2010-01-19T16:25:36Z
+2010-01-19 18:00:28,009 - fetcher-shared_caprazzi - INFO - encountered existing doc - stop scanning list
+2010-01-19 18:00:28,010 - fetcher-shared_caprazzi - INFO - encountered existing doc - feed up-to-date
+2010-01-19 18:00:40,005 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T16:25:36Z
+2010-01-19 18:00:41,654 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 18:01:41,645 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T16:25:36Z
+2010-01-19 18:01:43,426 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 18:02:43,425 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T16:25:36Z
+2010-01-19 18:02:45,073 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 18:03:45,065 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T16:25:36Z
+2010-01-19 18:03:46,821 - fetcher-shared_caprazzi - INFO - continuation: 0, last update: 2010-01-19T17:02:48Z
+2010-01-19 18:03:46,971 - fetcher-shared_caprazzi - INFO - encountered existing doc - stop scanning list
+2010-01-19 18:03:46,971 - fetcher-shared_caprazzi - INFO - encountered existing doc - feed up-to-date
+2010-01-19 18:03:58,965 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 18:04:00,770 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 18:05:00,765 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 18:05:02,583 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 18:06:02,585 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 18:06:04,178 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 18:07:04,175 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 18:07:05,950 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 18:08:05,945 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 18:08:07,582 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 18:09:07,575 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 18:09:09,220 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 18:10:09,215 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 18:10:10,904 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 18:11:10,905 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 18:11:12,666 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 18:12:12,665 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 18:12:14,652 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 18:13:14,690 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 18:13:16,296 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 18:14:16,295 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 18:14:17,973 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 18:15:17,975 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 18:15:19,583 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 18:16:19,575 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 18:16:21,222 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 18:17:21,215 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 18:17:23,077 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 18:18:23,065 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 18:18:24,826 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 18:19:24,815 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 18:19:26,536 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 18:20:26,525 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 18:20:28,273 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 18:21:28,265 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 18:21:30,152 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 18:22:30,145 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 18:22:31,842 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 18:23:31,843 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 18:23:33,474 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 18:24:33,473 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 18:24:35,132 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 18:25:35,133 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 18:25:36,837 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 18:26:36,833 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 18:26:38,762 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 18:27:38,753 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 18:27:40,431 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 18:28:40,423 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 18:28:42,073 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 18:29:42,063 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 18:29:43,700 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 18:30:43,693 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 18:30:45,177 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 18:31:45,173 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 18:31:46,937 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 18:32:46,923 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 18:32:48,547 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 18:33:48,543 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 18:33:50,177 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 18:34:50,173 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 18:34:51,883 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 18:35:51,883 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 18:35:53,663 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 18:36:53,663 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 18:36:55,421 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 18:37:55,423 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 18:37:57,095 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 18:38:57,083 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 18:38:58,819 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 18:39:58,873 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 18:40:00,423 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 18:41:00,438 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 18:41:02,202 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 18:42:02,198 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 18:42:03,468 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 18:43:03,468 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 18:43:05,154 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 18:44:05,148 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 18:44:06,697 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 18:45:06,688 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 18:45:08,368 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 18:46:08,358 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 18:46:09,981 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 18:47:09,978 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 18:47:11,694 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 18:48:11,688 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 18:48:13,462 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 18:49:13,458 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 18:49:15,090 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 18:50:15,088 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 18:50:16,660 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 18:51:16,672 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 18:51:19,425 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 18:52:19,418 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 18:52:21,019 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 18:53:21,008 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 18:53:22,847 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 18:54:22,841 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 18:54:24,562 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 18:55:24,558 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 18:55:26,317 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 18:56:26,348 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 18:56:28,084 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 18:57:28,078 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 18:57:29,781 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 18:58:29,778 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 18:58:31,652 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 18:59:31,648 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 18:59:33,184 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 19:00:33,178 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 19:00:35,100 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 19:01:35,098 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 19:01:36,994 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 19:02:36,998 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 19:02:38,796 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 19:03:38,788 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 19:03:40,510 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 19:04:40,638 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 19:04:42,365 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 19:05:42,358 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 19:05:44,112 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 19:06:44,108 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 19:06:45,973 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 19:07:45,968 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 19:07:47,767 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 19:08:47,768 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 19:08:49,453 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 19:09:49,448 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 19:09:51,139 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 19:10:51,138 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 19:10:52,862 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 19:11:52,858 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 19:11:54,615 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 19:12:54,608 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 19:12:56,314 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 19:13:56,308 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 19:13:58,075 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 19:14:58,076 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 19:14:59,949 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 19:15:59,956 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 19:16:01,742 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 19:17:01,746 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 19:17:03,588 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 19:18:03,586 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 19:18:05,145 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 19:19:05,146 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 19:19:06,792 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 19:20:06,786 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 19:20:08,509 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 19:21:08,496 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 19:21:10,262 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 19:22:10,266 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 19:22:12,134 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 19:23:12,126 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 19:23:14,048 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 19:24:14,046 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 19:24:16,071 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 19:25:16,066 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 19:25:17,817 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 19:26:17,806 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 19:26:19,401 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 19:27:19,396 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 19:27:21,062 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 19:28:21,056 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 19:28:22,828 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 19:29:22,826 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 19:29:24,544 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 19:30:24,546 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 19:30:26,184 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 19:31:26,186 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 19:31:27,856 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 19:32:27,846 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 19:32:29,620 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 19:33:29,616 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 19:33:31,211 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 19:34:31,217 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 19:34:32,849 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 19:35:32,836 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 19:35:34,508 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 19:36:34,517 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 19:36:36,196 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 19:37:36,186 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 19:37:37,928 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 19:38:37,926 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 19:38:39,576 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 19:39:39,576 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 19:39:41,207 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 19:40:41,196 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 19:40:42,915 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 19:41:42,906 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 19:41:44,605 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 19:42:44,596 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 19:42:46,441 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 19:43:46,436 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 19:43:48,312 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 19:44:48,316 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 19:44:49,818 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 19:45:49,806 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 19:45:51,587 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 19:46:51,576 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 19:46:53,231 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 19:47:53,226 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 19:47:54,905 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 19:48:54,914 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 19:48:56,857 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 19:49:56,854 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 19:49:58,625 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 19:50:58,634 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 19:51:00,289 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 19:52:00,284 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 19:52:02,181 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 19:53:02,174 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 19:53:04,152 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 19:54:04,144 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 19:54:05,769 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 19:55:05,764 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 19:55:08,002 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 19:56:08,004 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 19:56:09,815 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 19:57:09,814 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 19:57:11,716 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 19:58:11,704 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 19:58:13,327 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 19:59:13,324 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 19:59:14,922 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 20:00:14,924 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 20:00:16,449 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 20:01:16,444 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 20:01:18,333 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 20:02:18,334 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 20:02:20,039 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 20:03:20,035 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 20:03:21,581 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 20:04:21,574 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 20:04:23,267 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 20:05:23,265 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 20:05:25,082 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 20:06:25,084 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 20:06:26,871 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 20:07:26,864 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 20:07:28,574 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 20:08:28,564 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 20:08:30,350 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 20:09:30,344 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 20:09:32,568 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 20:10:32,565 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 20:10:34,356 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 20:11:34,354 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 20:11:35,959 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 20:12:35,954 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 20:12:37,824 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 20:13:37,815 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 20:13:39,597 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 20:14:39,595 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 20:14:41,256 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 20:15:41,254 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 20:15:43,033 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 20:16:43,028 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 20:16:44,721 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 20:17:44,714 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 20:17:46,414 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 20:18:46,414 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 20:18:48,045 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 20:19:48,034 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 20:19:50,014 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 20:20:50,004 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 20:20:51,774 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 20:21:51,774 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 20:21:53,547 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 20:22:53,544 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 20:22:55,137 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 20:23:55,143 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 20:23:56,838 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 20:24:56,833 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 20:24:58,469 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 20:25:58,463 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 20:26:00,348 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 20:27:00,345 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 20:27:01,980 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 20:28:01,973 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 20:28:03,844 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 20:29:03,843 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 20:29:05,633 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 20:30:05,633 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 20:30:07,464 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 20:31:07,463 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 20:31:09,099 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 20:32:09,103 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 20:32:10,968 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 20:33:10,963 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 20:33:12,645 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 20:34:12,643 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 20:34:14,311 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 20:35:14,313 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 20:35:15,966 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 20:36:15,963 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 20:36:17,687 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 20:37:17,683 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 20:37:19,388 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 20:38:19,383 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 20:38:21,132 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 20:39:21,123 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 20:39:22,848 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 20:40:22,847 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 20:40:24,549 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 20:41:24,547 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 20:41:26,210 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 20:42:26,207 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 20:42:28,011 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 20:43:28,007 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 20:43:30,015 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 20:44:30,007 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 20:44:31,633 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 20:45:31,627 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 20:45:33,518 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 20:46:33,517 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 20:46:35,383 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 20:47:35,377 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 20:47:37,075 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 20:48:37,067 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 20:48:38,934 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 20:49:38,927 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 20:49:40,668 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 20:50:40,667 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 20:50:42,454 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 20:51:42,457 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 20:51:44,223 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 20:52:44,218 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 20:52:46,128 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 20:53:46,117 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 20:53:48,277 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 20:54:48,300 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 20:54:50,127 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 20:55:50,117 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 20:55:51,778 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 20:56:51,767 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 20:56:53,705 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 20:57:53,697 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 20:57:55,530 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 20:58:55,527 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 20:58:57,451 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 20:59:57,447 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 20:59:59,166 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 21:00:59,157 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 21:01:00,937 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 21:02:00,927 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 21:02:02,828 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 21:03:02,817 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 21:03:04,754 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 21:04:04,747 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 21:04:06,864 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 21:05:06,857 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 21:05:08,627 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 21:06:08,627 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 21:06:10,347 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 21:07:10,347 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 21:07:12,212 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 21:08:12,207 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 21:08:13,942 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 21:09:13,937 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 21:09:15,694 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 21:10:15,687 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 21:10:17,589 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 21:11:17,687 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 21:11:19,842 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 21:12:19,890 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 21:12:21,817 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 21:13:21,807 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 21:13:23,674 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 21:14:23,676 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 21:14:25,359 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 21:15:25,356 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 21:15:27,330 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 21:16:27,326 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 21:16:29,088 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 21:17:29,086 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 21:17:31,085 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 21:18:31,076 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 21:18:32,914 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 21:19:32,906 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 21:19:34,627 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 21:20:34,626 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 21:20:36,426 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 21:21:36,426 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 21:21:38,287 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 21:22:38,299 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 21:22:40,051 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 21:23:40,046 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 21:23:41,769 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 21:24:41,766 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 21:24:43,679 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 21:25:43,676 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 21:25:45,429 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 21:26:45,426 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 21:26:46,952 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 21:27:46,946 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 21:27:48,624 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 21:28:48,616 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 21:28:50,220 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 21:29:50,216 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 21:29:51,952 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 21:30:51,946 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 21:30:53,833 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 21:31:53,830 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 21:31:55,412 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 21:32:55,410 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 21:32:57,068 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 21:33:57,060 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 21:33:58,773 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 21:34:58,770 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 21:35:00,512 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 21:36:00,510 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 21:36:02,532 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 21:37:02,530 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 21:37:04,543 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 21:38:04,540 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 21:38:06,385 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 21:39:06,376 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 21:39:08,381 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 21:40:08,370 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 21:40:10,097 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 21:41:10,090 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 21:41:16,822 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 21:42:16,810 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 21:42:18,563 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 21:43:18,560 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 21:43:20,397 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 21:44:20,390 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 21:44:21,976 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 21:45:21,970 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 21:45:23,837 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 21:46:23,840 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 21:46:25,550 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 21:47:25,540 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 21:47:27,304 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 21:48:27,300 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 21:48:28,994 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 21:49:28,990 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 21:49:30,934 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 21:50:30,930 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 21:50:32,644 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 21:51:32,640 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T17:02:48Z
+2010-01-19 21:51:34,177 - fetcher-shared_caprazzi - INFO - continuation: 0, last update: 2010-01-19T20:51:31Z
+2010-01-19 21:51:34,420 - fetcher-shared_caprazzi - INFO - encountered existing doc - stop scanning list
+2010-01-19 21:51:34,420 - fetcher-shared_caprazzi - INFO - encountered existing doc - feed up-to-date
+2010-01-19 21:51:46,410 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T20:51:31Z
+2010-01-19 21:51:48,051 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 21:52:48,040 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T20:51:31Z
+2010-01-19 21:52:49,517 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 21:53:49,530 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T20:51:31Z
+2010-01-19 21:53:51,067 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 21:54:51,070 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T20:51:31Z
+2010-01-19 21:54:52,533 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 21:55:52,530 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T20:51:31Z
+2010-01-19 21:55:54,068 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 21:56:54,070 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T20:51:31Z
+2010-01-19 21:56:55,767 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 21:57:55,760 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T20:51:31Z
+2010-01-19 21:57:57,236 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 21:58:57,240 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T20:51:31Z
+2010-01-19 21:58:58,756 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 21:59:58,750 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T20:51:31Z
+2010-01-19 22:00:00,341 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 22:01:00,331 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T20:51:31Z
+2010-01-19 22:01:01,757 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 22:02:01,750 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T20:51:31Z
+2010-01-19 22:02:03,296 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 22:03:03,300 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T20:51:31Z
+2010-01-19 22:03:04,771 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 22:04:04,770 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T20:51:31Z
+2010-01-19 22:04:06,320 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 22:05:06,320 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T20:51:31Z
+2010-01-19 22:05:07,894 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 22:06:07,899 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T20:51:31Z
+2010-01-19 22:06:09,412 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 22:07:09,409 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T20:51:31Z
+2010-01-19 22:07:11,009 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 22:08:11,029 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T20:51:31Z
+2010-01-19 22:08:12,552 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 22:09:12,549 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T20:51:31Z
+2010-01-19 22:09:14,124 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 22:10:14,119 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T20:51:31Z
+2010-01-19 22:10:15,414 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 22:11:15,409 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T20:51:31Z
+2010-01-19 22:11:17,005 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 22:12:16,999 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T20:51:31Z
+2010-01-19 22:12:18,691 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 22:13:18,689 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T20:51:31Z
+2010-01-19 22:13:20,228 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 22:14:20,247 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T20:51:31Z
+2010-01-19 22:14:21,891 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 22:15:21,879 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T20:51:31Z
+2010-01-19 22:15:23,349 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 22:16:23,339 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T20:51:31Z
+2010-01-19 22:16:24,793 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 22:17:24,789 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T20:51:31Z
+2010-01-19 22:17:26,261 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 22:18:26,259 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T20:51:31Z
+2010-01-19 22:18:27,955 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 22:19:27,949 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T20:51:31Z
+2010-01-19 22:19:29,491 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 22:20:29,576 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T20:51:31Z
+2010-01-19 22:20:31,362 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 22:21:31,359 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T20:51:31Z
+2010-01-19 22:21:32,869 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 22:22:32,873 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T20:51:31Z
+2010-01-19 22:22:34,526 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 22:23:34,513 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T20:51:31Z
+2010-01-19 22:23:36,838 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 22:24:36,833 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T20:51:31Z
+2010-01-19 22:24:38,504 - fetcher-shared_caprazzi - INFO - no action
+2010-01-19 22:25:38,493 - fetcher-shared_caprazzi - INFO - fetch feed - last update: 2010-01-19T20:51:31Z
+2010-01-19 22:25:39,958 - fetcher-shared_caprazzi - INFO - no action
