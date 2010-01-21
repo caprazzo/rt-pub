@@ -31,7 +31,7 @@ class paramnode:
     return inp[self.idx]
   def display(self,indent=0):
     print '%sp%d' % (' '*indent,self.idx)
-    
+
     
 class constnode:
   def __init__(self,v):
@@ -40,20 +40,21 @@ class constnode:
     return self.v
   def display(self,indent=0):
     print '%s%d' % (' '*indent,self.v)
+    
 
-addw=fwrapper(lambda l:l[0]+l[1],2,'add')
-subw=fwrapper(lambda l:l[0]-l[1],2,'subtract') 
-mulw=fwrapper(lambda l:l[0]*l[1],2,'multiply')
+addw=fwrapper(lambda l:l[0]+l[1],2,'+')
+subw=fwrapper(lambda l:l[0]-l[1],2,'-') 
+mulw=fwrapper(lambda l:l[0]*l[1],2,'+')
 
 def iffunc(l):
   if l[0]>0: return l[1]
   else: return l[2]
-ifw=fwrapper(iffunc,3,'if')
+ifw=fwrapper(iffunc,3,'IF')
 
 def isgreater(l):
   if l[0]>l[1]: return 1
   else: return 0
-gtw=fwrapper(isgreater,2,'isgreater')
+gtw=fwrapper(isgreater,2,'>')
 
 flist=[addw,mulw,ifw,gtw,subw]
 
@@ -117,11 +118,11 @@ def crossover(t1,t2,probswap=0.7,top=1):
 
 def getrankfunction(dataset):
   def rankfunction(population):
-	scores=[(scorefunction(t,dataset),t) for t in population]
-	scores.sort()
-	return scores
+    scores=[(scorefunction(t,dataset),t) for t in population]
+    scores.sort()
+    return scores
   return rankfunction
-
+  
 def evolve(pc,popsize,rankfunction,maxgen=500,
            mutationrate=0.1,breedingrate=0.4,pexp=0.7,pnew=0.05):
   # Returns a random number, tending towards lower numbers. The lower pexp

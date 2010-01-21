@@ -1,5 +1,5 @@
-function(doc, req) {  
-	var len = req.max_len || 140;
+function shorten(doc, max_len) {
+	var len = max_len || 140;
 	var body = '';
 	
 	function clean(str) {
@@ -21,9 +21,8 @@ function(doc, req) {
 		add(doc.content[0].value);
 	}
 	
-	return toJSON({
+	return {
 		url: doc.link,
 		body: body
-	});
-	
+	};
 }

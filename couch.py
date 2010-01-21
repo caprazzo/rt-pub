@@ -6,7 +6,10 @@ import time
 from datetime import datetime
 import threading
 import sys
-import json
+try:
+	import json
+except ImportError:
+	import simplejson as json
 import random
 import string
 
@@ -39,6 +42,12 @@ class Couch:
 		c = self.connect()
 		headers = {"Content-type": "application/json"}
 		c.request("PUT", uri, body, headers)
+		return c.getresponse()
+		
+	def get(self, uri):
+		c = self.connect()
+		headers = {"Accept": "application/json"}
+		c.request("GET", uri, None, headers)
 		return c.getresponse()
 		
 	def putnew(self, db, body):

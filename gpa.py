@@ -9,12 +9,18 @@ echo = gp.node(gp.addw,[gp.paramnode(0), gp.constnode(0)])
 # evolve all output from 8 to 20
 def score_820(tree, dataset):
 	dif = 0
+	values = {}
 	for d in dataset:
-		print d
-		v = tree.evaluate(d)
+		v = tree.evaluate([d, d])
 		if v < 480 or v > 1200:
-			dif += 1
-		print dif
+			dif += 2
+		sv = str(v)
+		if sv in values:
+			dif += values[sv]
+			values[sv] =+ 1
+		else:
+			values[sv] = 1
+		
 	return dif
 	
 def getrankfunction(scorefunction, dataset):
@@ -27,5 +33,7 @@ def getrankfunction(scorefunction, dataset):
 #for i in range(1,701):
 #	print echo.evaluate([i])
 #	print double.evaluate([i])
-	
-gp.evolve(1, 50, getrankfunction(score_820, range(1,701)))
+
+#print score_820(gp.makerandomtree(1), range(1,701))
+
+
