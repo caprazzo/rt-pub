@@ -51,10 +51,8 @@ class Couch:
 		return c.getresponse()
 		
 	def putnew(self, db, body):
-		id = rnd(5)
-		
+		id = rnd(5)		
 		result = json.loads(self.put("/%s/%s" % (db, id), body).read())		
-		print result
 		if "error" in result:
 			if result["error"] == "conflict":
 				throw("conflict %s" % id)
