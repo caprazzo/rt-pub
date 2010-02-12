@@ -1,0 +1,946 @@
+<?xml version="1.0"?>
+<feed xmlns:idx="urn:atom-extension:indexing" xmlns:gr="http://www.google.com/schemas/reader/atom/" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" idx:index="no" dir="ltr">
+	<!--
+Content-type: Preventing XSRF in IE.
+
+-->
+	<generator uri="http://www.google.com/reader">Google Reader</generator>
+	<id>tag:google.com,2005:reader/user/04542763409539038815/state/com.google/broadcast</id>
+	<link rel="hub" href="http://pubsubhubbub.appspot.com/"/>
+	<title>caprazzo's shared items in Google Reader</title>
+	<gr:continuation>CIvepZbn1p8C</gr:continuation>
+	<link rel="self" href="http://www.google.com/reader/public/atom/user/04542763409539038815/state/com.google/broadcast"/>
+	<author>
+		<name>caprazzo</name>
+	</author>
+	<updated>2010-02-11T10:38:29Z</updated>
+	<entry gr:crawl-timestamp-msec="1265884709704">
+		<id gr:original-id="">tag:google.com,2005:reader/item/3b2eb4e065996a01</id>
+		<title type="html">Announcing the Map/Reduce Toolkit - Open Blog - NYTimes.com</title>
+		<published>2010-02-11T10:38:29Z</published>
+		<updated>2010-02-11T10:38:29Z</updated>
+		<link rel="alternate" href="http://open.blogs.nytimes.com/2009/05/11/announcing-the-mapreduce-toolkit/" type="text/html"/>
+		<link rel="related" href="http://open.blogs.nytimes.com/" title="open.blogs.nytimes.com"/>
+		<content xml:base="http://open.blogs.nytimes.com/2009/05/11/announcing-the-mapreduce-toolkit/" type="html">Part of what we do here is monitor how readers are using NYTimes.com. All activity at the Web site is logged, but the overwhelming volume of data makes analyzing it difficult. Recently we've been exploring the on-demand storage and computation tools offered by Amazon Web Services, along with an open-source toolkit called Apache Hadoop. The [...]</content>
+		<author gr:unknown-author="true">
+			<name>(author unknown)</name>
+		</author>
+		<source gr:stream-id="user/04542763409539038815/source/com.google/link">
+			<id>tag:google.com,2005:reader/user/04542763409539038815/source/com.google/link</id>
+			<title type="html">open.blogs.nytimes.com</title>
+			<link rel="alternate" href="http://open.blogs.nytimes.com/" type="text/html"/>
+		</source>
+	</entry>
+	<entry gr:crawl-timestamp-msec="1265882175066">
+		<id gr:original-id="http://failblog.org/?p=39860">tag:google.com,2005:reader/item/1e1f58eb6ef5baa1</id>
+		<category term="1099689"/>
+		<category term="Uncategorized"/>
+		<category term="amazing"/>
+		<category term="ancient"/>
+		<category term="archeology"/>
+		<category term="coin"/>
+		<category term="coin flip"/>
+		<category term="hilarious"/>
+		<category term="sexy times"/>
+		<title type="html">Head Or Tails</title>
+		<published>2010-02-10T20:00:11Z</published>
+		<updated>2010-02-10T20:00:11Z</updated>
+		<link rel="alternate" href="http://feedproxy.google.com/~r/failblog/~3/YqRYq1IJxtw/" type="text/html"/>
+		<media:group>
+			<media:content url="http://0.gravatar.com/avatar/cf1e61a4330e75d5d1d7a744c5ef38c4?s=96&amp;d=identicon&amp;r=PG"/>
+			<media:content url="http://failblog.files.wordpress.com/2010/02/129102400325486894.jpg"/>
+		</media:group>
+		<content xml:base="http://failblog.org/" type="html">&lt;br&gt;&lt;p&gt;&lt;br&gt;&lt;img src="http://failblog.files.wordpress.com/2010/02/129102400325486894.jpg" title="Currency Fail" alt="Currency Fail"&gt;&lt;/p&gt;
+
+&lt;p&gt;Picture by: dunno source Submitted by: dunno source via &lt;a href="http://cheezburger.com/fail.aspx" rel="nofollow"&gt;Fail Uploader&lt;/a&gt;&lt;/p&gt;
+  &lt;a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/failblog.wordpress.com/39860/"&gt;&lt;img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/failblog.wordpress.com/39860/"&gt;&lt;/a&gt; &lt;a rel="nofollow" href="http://feeds.wordpress.com/1.0/godelicious/failblog.wordpress.com/39860/"&gt;&lt;img alt="" border="0" src="http://feeds.wordpress.com/1.0/delicious/failblog.wordpress.com/39860/"&gt;&lt;/a&gt; &lt;a rel="nofollow" href="http://feeds.wordpress.com/1.0/gostumble/failblog.wordpress.com/39860/"&gt;&lt;img alt="" border="0" src="http://feeds.wordpress.com/1.0/stumble/failblog.wordpress.com/39860/"&gt;&lt;/a&gt; &lt;a rel="nofollow" href="http://feeds.wordpress.com/1.0/godigg/failblog.wordpress.com/39860/"&gt;&lt;img alt="" border="0" src="http://feeds.wordpress.com/1.0/digg/failblog.wordpress.com/39860/"&gt;&lt;/a&gt; &lt;a rel="nofollow" href="http://feeds.wordpress.com/1.0/goreddit/failblog.wordpress.com/39860/"&gt;&lt;img alt="" border="0" src="http://feeds.wordpress.com/1.0/reddit/failblog.wordpress.com/39860/"&gt;&lt;/a&gt; &lt;img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=failblog.org&amp;amp;blog=2441444&amp;amp;post=39860&amp;amp;subd=failblog&amp;amp;ref=&amp;amp;feed=1"&gt;&lt;br style="clear:both"&gt;
+&lt;br style="clear:both"&gt;
+&lt;a href="http://ads.pheedo.com/click.phdo?s=3978764278d43e4db01f3b140c7037a4&amp;amp;p=1"&gt;&lt;img alt="" style="border:0" border="0" src="http://ads.pheedo.com/img.phdo?s=3978764278d43e4db01f3b140c7037a4&amp;amp;p=1"&gt;&lt;/a&gt;
+&lt;img alt="" height="0" width="0" border="0" src="http://a.rfihub.com/eus.gif?eui=2222"&gt;&lt;div&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/failblog?a=YqRYq1IJxtw:jaPKcOrUx0Y:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/failblog?d=yIl2AUoC8zA" border="0"&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/failblog?a=YqRYq1IJxtw:jaPKcOrUx0Y:F7zBnMyn0Lo"&gt;&lt;img src="http://feeds.feedburner.com/~ff/failblog?i=YqRYq1IJxtw:jaPKcOrUx0Y:F7zBnMyn0Lo" border="0"&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/failblog?a=YqRYq1IJxtw:jaPKcOrUx0Y:V_sGLiPBpWU"&gt;&lt;img src="http://feeds.feedburner.com/~ff/failblog?i=YqRYq1IJxtw:jaPKcOrUx0Y:V_sGLiPBpWU" border="0"&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/failblog?a=YqRYq1IJxtw:jaPKcOrUx0Y:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/failblog?d=qj6IDK7rITs" border="0"&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/failblog?a=YqRYq1IJxtw:jaPKcOrUx0Y:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/failblog?i=YqRYq1IJxtw:jaPKcOrUx0Y:gIN9vFwOqvQ" border="0"&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/failblog/~4/YqRYq1IJxtw" height="1" width="1"&gt;</content>
+		<author>
+			<name>Cheezburger Network</name>
+		</author>
+		<gr:likingUser>14449306178622358133</gr:likingUser>
+		<gr:likingUser>14459766484369675738</gr:likingUser>
+		<gr:likingUser>08915834275668816438</gr:likingUser>
+		<gr:likingUser>02024686829381004217</gr:likingUser>
+		<gr:likingUser>18258071009055852624</gr:likingUser>
+		<gr:likingUser>10237263366349928924</gr:likingUser>
+		<gr:likingUser>13971686902369111016</gr:likingUser>
+		<gr:likingUser>06689034962712242973</gr:likingUser>
+		<gr:likingUser>05311891190648798965</gr:likingUser>
+		<gr:likingUser>07620224993034095288</gr:likingUser>
+		<gr:likingUser>09218545884439078020</gr:likingUser>
+		<gr:likingUser>14933280471318216133</gr:likingUser>
+		<gr:likingUser>11157001837065083522</gr:likingUser>
+		<gr:likingUser>10472815765536862523</gr:likingUser>
+		<gr:likingUser>06733229800484180678</gr:likingUser>
+		<gr:likingUser>06810057736263158210</gr:likingUser>
+		<source gr:stream-id="feed/http://feedproxy.google.com/failblog">
+			<id>tag:google.com,2005:reader/feed/http://feedproxy.google.com/failblog</id>
+			<title type="html">FAIL Blog: Epic Fail Pictures and Videos of Owned, Pwnd and Fail Moments</title>
+			<link rel="alternate" href="http://failblog.org" type="text/html"/>
+		</source>
+	</entry>
+	<entry gr:crawl-timestamp-msec="1265881131222">
+		<id gr:original-id="">tag:google.com,2005:reader/item/6c8eec38443764c8</id>
+		<title type="html">Pride and preference - Blog - Red Gate User Experience</title>
+		<published>2010-02-11T09:38:51Z</published>
+		<updated>2010-02-11T09:38:51Z</updated>
+		<link rel="alternate" href="http://ux.red-gate.com/pride-and-preference" type="text/html"/>
+		<link rel="related" href="http://ux.red-gate.com/" title="ux.red-gate.com"/>
+		<content xml:base="http://ux.red-gate.com/pride-and-preference" type="html">&lt;blockquote&gt;Shared by  caprazzo 
+&lt;br&gt;
+on cumputers suggesting things: "...He hadn&#x2019;t assumed my taste would be the same again and already pulled a pint of Pride I&#x2019;d feel obliged to accept, but by anticipating my likely choice, he ensured that it would require only a simple nod from me and the pint would be poured and waiting by the time I reached the bar..."&lt;/blockquote&gt;
+The Red Gate User Experience team blog: case studies, interface designs and articles
+</content>
+		<author gr:unknown-author="true">
+			<name>(author unknown)</name>
+		</author>
+		<gr:annotation>
+			<content type="html">on cumputers suggesting things: "...He hadn&#x2019;t assumed my taste would be the same again and already pulled a pint of Pride I&#x2019;d feel obliged to accept, but by anticipating my likely choice, he ensured that it would require only a simple nod from me and the pint would be poured and waiting by the time I reached the bar..."</content>
+			<author gr:user-id="04542763409539038815" gr:profile-id="112222663972638770219">
+				<name>caprazzo</name>
+			</author>
+		</gr:annotation>
+		<source gr:stream-id="user/04542763409539038815/source/com.google/link">
+			<id>tag:google.com,2005:reader/user/04542763409539038815/source/com.google/link</id>
+			<title type="html">ux.red-gate.com</title>
+			<link rel="alternate" href="http://ux.red-gate.com/" type="text/html"/>
+		</source>
+	</entry>
+	<entry gr:crawl-timestamp-msec="1265821653875">
+		<id gr:original-id="">tag:google.com,2005:reader/item/d56d83041a674995</id>
+		<title type="html">Google Buzz: 5 Things You Need to Know - O&amp;#39;Reilly Answers</title>
+		<published>2010-02-10T17:07:33Z</published>
+		<updated>2010-02-10T17:07:33Z</updated>
+		<link rel="alternate" href="http://answers.oreilly.com/topic/1069-google-buzz-5-things-you-need-to-know/" type="text/html"/>
+		<link rel="related" href="http://answers.oreilly.com/" title="answers.oreilly.com"/>
+		<content xml:base="http://answers.oreilly.com/topic/1069-google-buzz-5-things-you-need-to-know/" type="html">Google Buzz brings status updates, links, videos and other shared features into the Gmail interface. If you've updated through Facebook or Twitter you'll be comfortable with the process: enter a quick sentence or paragraph describing ... well, ...</content>
+		<author gr:unknown-author="true">
+			<name>(author unknown)</name>
+		</author>
+		<source gr:stream-id="user/04542763409539038815/source/com.google/link">
+			<id>tag:google.com,2005:reader/user/04542763409539038815/source/com.google/link</id>
+			<title type="html">answers.oreilly.com</title>
+			<link rel="alternate" href="http://answers.oreilly.com/" type="text/html"/>
+		</source>
+	</entry>
+	<entry gr:crawl-timestamp-msec="1265820131135">
+		<id gr:original-id="">tag:google.com,2005:reader/item/c3edd2635d0af48b</id>
+		<title type="html">Video - The Zoomable Map</title>
+		<published>2010-02-10T16:42:11Z</published>
+		<updated>2010-02-10T16:42:11Z</updated>
+		<link rel="alternate" href="http://www.thezoomablemap.com/home/video.html" type="text/html"/>
+		<link rel="related" href="http://www.thezoomablemap.com/" title="www.thezoomablemap.com"/>
+		<content xml:base="http://www.thezoomablemap.com/home/video.html" type="html">&lt;blockquote&gt;Shared by  caprazzo 
+&lt;br&gt;
+pure genius&lt;/blockquote&gt;
+map&#xB2; - the zoomable map on paper
+</content>
+		<author gr:unknown-author="true">
+			<name>(author unknown)</name>
+		</author>
+		<gr:annotation>
+			<content type="html">pure genius</content>
+			<author gr:user-id="04542763409539038815" gr:profile-id="112222663972638770219">
+				<name>caprazzo</name>
+			</author>
+		</gr:annotation>
+		<source gr:stream-id="user/04542763409539038815/source/com.google/link">
+			<id>tag:google.com,2005:reader/user/04542763409539038815/source/com.google/link</id>
+			<title type="html">www.thezoomablemap.com</title>
+			<link rel="alternate" href="http://www.thezoomablemap.com/" type="text/html"/>
+		</source>
+	</entry>
+	<entry gr:crawl-timestamp-msec="1265810919276">
+		<id gr:original-id="tag:blogger.com,1999:blog-7994087232040033267.post-7379177962536417975">tag:google.com,2005:reader/item/648f445852394c89</id>
+		<title type="html">NoSQL GraphDB</title>
+		<published>2010-02-04T16:06:00Z</published>
+		<updated>2010-02-10T00:48:55Z</updated>
+		<link rel="alternate" href="http://horicky.blogspot.com/2010/02/nosql-graphdb.html" type="text/html"/>
+		<content xml:base="http://planet.couchdb.com/" type="html">&lt;div&gt;I received some constructive criticism regarding &lt;a href="http://horicky.blogspot.com/2009/11/nosql-patterns.html"&gt;my previous blog in NoSQL patterns&lt;/a&gt; that I covered only the key/value store but have left out Graph DB.&lt;br&gt;&lt;br&gt;&lt;span style="font-weight:bold;font-size:130%"&gt;The Property Graph Model&lt;/span&gt;&lt;br&gt;&lt;br&gt;A property graph is a collection of Nodes and Directed Arcs.  Each node represents an entity and has an unique id as well as a Node Type.  The Node Type defines a set of metadata that the node has.  Each arc represents a unidirectional relationship between two entities and has an Arc Type.  The Arc Type defines a set of metadata that the arc has.&lt;br&gt;&lt;br&gt;&lt;a href="http://3.bp.blogspot.com/_j6mB7TMmJJY/S2r3aNqaFKI/AAAAAAAAAaM/8tTvfe5ulRg/s1600-h/p1.png"&gt;&lt;img alt="" border="0" src="http://3.bp.blogspot.com/_j6mB7TMmJJY/S2r3aNqaFKI/AAAAAAAAAaM/8tTvfe5ulRg/s400/p1.png" style="margin:0px auto 10px;display:block;text-align:center;width:400px;height:211px"&gt;&lt;/a&gt;&lt;br&gt;&lt;span style="font-weight:bold;font-size:130%"&gt;General Graph Processing&lt;/span&gt;&lt;br&gt;&lt;br&gt;I found many of the graph algorithms follows a general processing pattern.  There are multiple rounds of (sequential) processing iterations.  Within each iteration, there are a set of active nodes that perform local processing in parallel.  The local processing can modify the node&amp;#39;s properties, adding or removing links to other nodes, as well as sending message across links.  All message passing are done after the local processing.&lt;br&gt;&lt;br&gt;&lt;a href="http://3.bp.blogspot.com/_j6mB7TMmJJY/S3D3VdqTmpI/AAAAAAAAAac/7fs5lf1ENhk/s1600-h/p1.png"&gt;&lt;img alt="" border="0" src="http://3.bp.blogspot.com/_j6mB7TMmJJY/S3D3VdqTmpI/AAAAAAAAAac/7fs5lf1ENhk/s400/p1.png" style="margin:0px auto 10px;display:block;text-align:center;width:376px;height:400px"&gt;&lt;/a&gt;&lt;br&gt;This model is similar to the &lt;a href="http://portal.acm.org/citation.cfm?id=1582716.1582723"&gt;Google Pregel model&lt;/a&gt;.&lt;br&gt;&lt;br&gt;Notice that this model maps well into parallel computing environment where the processing of the set of active node can be spread across multiple processors (or multiple machines in a cluster)&lt;br&gt;&lt;br&gt;Notice that all messages from all in-coming links are arrived before the link changes within local processing.  On the other hand, all message send to all out-going links after the links have changed after the local processing.  The term &amp;quot;local processing&amp;quot; means it cannot modify the properties of other nodes or other links.&lt;br&gt;&lt;br&gt;Because two nodes can simultaneously modify the link in-between them, the following conflicts can happen&lt;br&gt;&lt;ul&gt;&lt;li&gt;A node delete a link while other node modifies the link properties.&lt;/li&gt;&lt;li&gt;Both nodes on each side modify the properties of the link in-between&lt;/li&gt;&lt;/ul&gt;A conflict resolution mechanism needs to be attached to each Arc Type to determine how the conflict should be resolved, either determining who is the winner or how to merge the effects.&lt;br&gt;&lt;br&gt;&lt;span&gt;&lt;span style="font-size:100%"&gt;&lt;a href="http://neo4j.org/"&gt;Neo4j&lt;/a&gt; provide a restricted, single-threaded graph traversal model&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;ul&gt;&lt;li&gt;At each round, the set of active nodes is always a single node&lt;/li&gt;&lt;li&gt;The set of active nodes of next round is determined by the traversal policy (breath or depth-first), but is still a single node&lt;/li&gt;&lt;li&gt;It offer a callback function to determine whether this node should be included in the result set&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;span&gt;&lt;span style="font-size:100%"&gt;&lt;a href="http://wiki.github.com/tinkerpop/gremlin/"&gt;Gremlin&lt;/a&gt;, on the other hand, provides an interactive graph traversal model where user can step through each iteration.  It uses an XPath like syntax to express the navigation.&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;&lt;span style="font-size:100%"&gt;The node is expressed as Node(id, inE, outE, properties) &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;&lt;span style="font-size:100%"&gt;The arc is expressed as Arc(id, type, inV, outV, properties)&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;span&gt;&lt;span style="font-size:100%"&gt;As an example, if the graph represents a relationship between 2 types of entities.&lt;/span&gt;&lt;/span&gt;  Person writes Book, then given a person, her co-author can be expressed in the following XPath expression&lt;br&gt;&lt;pre&gt;&lt;code&gt;./outE[@type=&amp;#39;write&amp;#39;]/inV/inE[@type=&amp;#39;write&amp;#39;]/outV&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;span style="font-weight:bold"&gt;&lt;br&gt;&lt;span style="font-size:130%"&gt;Path Algebra&lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;span&gt;&lt;span style="font-size:100%"&gt;&lt;br&gt;&lt;a href="http://markorodriguez.com/Lectures_files/mit-ll-2009.pdf"&gt;Marko Rodriguez has described of a set of matrix operations&lt;/a&gt; when the Graph is represented as adjacency matrix.  Graph algorithms can be describe as an algebraic form.&lt;br&gt;&lt;br&gt;&lt;span style="font-weight:bold;font-style:italic"&gt;Traverse operation&lt;/span&gt; can be expressed as Matrix multiplication.  If A is the adjacency matrix of the graph.  Then A.A represents connection with path of length = 2.&lt;br&gt;&lt;br&gt;Similar, &lt;span style="font-weight:bold;font-style:italic"&gt;Merge operation&lt;/span&gt; can be expressed as Matrix addition.  For example, (A + A.A + A.A.A) represent connectivity within 3 degree of reach.&lt;br&gt;&lt;br&gt;In a special case when the graph represents a relationship between 2 types of entities.  e.g. if A represents a authoring relationship (person write a book).  Then A.(A.transpose())  represents co-author relationship (person co-author with another person).&lt;br&gt;&lt;br&gt;Marko also introduce a set of &lt;span style="font-weight:bold;font-style:italic"&gt;Filter operations&lt;/span&gt;, (not filter / clip filter /column filter /row filter /vertex filter)&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="font-weight:bold"&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;span style="font-weight:bold"&gt;&lt;span style="font-size:130%"&gt;Map Reduce&lt;/span&gt;&lt;/span&gt;&lt;span style="font-weight:bold"&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;Depends on the traversal strategies inherit from the graph algorithms, certain algorithms which has higher sequential dependency doesn&amp;#39;t fit well into parallel computing.  For example, graph algorithms with a breath-first search nature fits better into parallel computing paradigm with those that has a depth-first search nature.  On the other hand, perform search at all nodes fits better in parallel computing than perform search at a particular start node.&lt;br&gt;&lt;br&gt;There are different storage representation of graph, from incident list, incident matrix, adjacency list and adjacency matrix.  For sparse graph (which is the majority cases), lets assume adjacency list is used for the storage model for subsequent discussion.&lt;br&gt;&lt;br&gt;In other words, the graph is represented as a list of records, each record is [node, connected_nodes].&lt;br&gt;&lt;br&gt;There are many graph algorithms and it is not my intend is have an exhausted list.  Below are the one that I have used in my previous projects that can be translated into Map/Reduce form.&lt;br&gt;&lt;br&gt;&lt;span style="font-weight:bold"&gt;Topological Sort&lt;/span&gt; is commonly used to sort out a work schedule based on dependency tree.  It can be done as follows ...&lt;br&gt;&lt;br&gt;&lt;pre style="border:1px dashed rgb(153, 153, 153);padding:5px;overflow:auto;font-family:Andale Mono,Lucida Console,Monaco,fixed,monospace;color:rgb(0, 0, 0);background-color:rgb(238, 238, 238);font-size:12px;line-height:14px;width:100%"&gt;&lt;code&gt;# Topological Sort&lt;br&gt;&lt;br&gt;# Input records&lt;br&gt;[node_id, prerequisite_ids]&lt;br&gt;&lt;br&gt;# Output records&lt;br&gt;&lt;/code&gt;&lt;code&gt;[node_id, prerequisite_ids, dependent_ids]&lt;br&gt;&lt;/code&gt;&lt;br&gt;&lt;code&gt;class BuildDependentsJob {&lt;br&gt; map(node, prerequisite_ids) {&lt;br&gt;   for each prerequisite_id in prerequisite_ids {&lt;br&gt;     emit(prerequisite_id, node)&lt;br&gt;   }&lt;br&gt; }&lt;br&gt;&lt;br&gt; reduce(node, dependent_ids) {&lt;br&gt;   emit(node, [node, prerequisite_ids, dependent_ids])&lt;br&gt; }&lt;br&gt;}&lt;br&gt;&lt;br&gt;class BuildReadyToRunJob {&lt;br&gt; map(node, node) {&lt;br&gt;   if ! done?(node) and node.prerequisite_ids.empty? {&lt;br&gt;     result_set.append(node)&lt;br&gt;     done(node)&lt;br&gt;     for each dependent_id in dependent_ids {&lt;br&gt;       emit(dependent_id, node)&lt;br&gt;     }&lt;br&gt;   }&lt;br&gt; }&lt;br&gt;&lt;br&gt; reduce(node, done_prerequsite_ids) {&lt;br&gt;   remove_prerequisites(node, done_prerequsite_ids)&lt;br&gt; }&lt;br&gt;}&lt;br&gt;&lt;br&gt;# Topological Sort main program&lt;br&gt;main() {&lt;br&gt; JobClient.submit(BuildDependentsJob.new)&lt;br&gt; Result result = []&lt;br&gt;&lt;br&gt; result_size_before_job = 0&lt;br&gt; result_size_after_job = 1&lt;br&gt;&lt;br&gt; while (result_size_before_job &amp;lt; result_size_after_job) {&lt;br&gt;   result_size_before_job = result.size&lt;br&gt;   JobClient.submit(BuildReadyToRunJob.new)&lt;br&gt;   result_size_after_job = result.size&lt;br&gt; }&lt;br&gt;&lt;br&gt; return result&lt;br&gt;}&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;br&gt;&lt;span style="font-weight:bold"&gt;Minimum spanning tree&lt;/span&gt; is a pretty common algorithm, the Prim&amp;#39;s algorithm looks like the following.&lt;br&gt;&lt;pre style="border:1px dashed rgb(153, 153, 153);padding:5px;overflow:auto;font-family:Andale Mono,Lucida Console,Monaco,fixed,monospace;color:rgb(0, 0, 0);background-color:rgb(238, 238, 238);font-size:12px;line-height:14px;width:100%"&gt;&lt;code&gt;# Minimum Spanning Tree (MST) using Prim&amp;#39;s algorithm&lt;br&gt;&lt;br&gt;Adjacency Matrix, W[i][j] represents weights&lt;br&gt;W[i][j] = infinity if node i, j is disconnected&lt;br&gt;&lt;br&gt;MST has nodes in array N = [] and arcs A = []&lt;br&gt;E[i] = minimum weighted edge connecting to the skeleton&lt;br&gt;D[i] = weight of E[i]&lt;br&gt;&lt;br&gt;Initially, pick a random node r into N[]&lt;br&gt;N = [r] and A = []&lt;br&gt;D[r] = 0; D[i] = W[i][r];&lt;br&gt;&lt;br&gt;Repeat until N[] contains all nodes&lt;br&gt; Pick node k outside N[] where D[k] is minimum&lt;br&gt; Add node k to N; Add E[k] to A&lt;br&gt; for all node p connected to node k&lt;br&gt;   if W[p][k] &amp;lt; D[p]&lt;br&gt;     D[p] = W[p][k]&lt;br&gt;     E[p] = k&lt;br&gt;   end&lt;br&gt; end&lt;br&gt;end&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;br&gt;We are doing the map/reduce here because it is very similar to another popular algorithm &lt;span style="font-weight:bold"&gt;single source shortest path.&lt;/span&gt;  The Map/Reduce form of the SPSS based on Dijkstra&amp;#39;s algorithm is as follows ...&lt;br&gt;&lt;pre style="border:1px dashed rgb(153, 153, 153);padding:5px;overflow:auto;font-family:Andale Mono,Lucida Console,Monaco,fixed,monospace;color:rgb(0, 0, 0);background-color:rgb(238, 238, 238);font-size:12px;line-height:14px;width:100%"&gt;&lt;code&gt;# Single Source Shortest Path (SSSP) based on Dijkstra&lt;br&gt;&lt;br&gt;Adjacency Matrix, W[i][j] represents weights of arc&lt;br&gt;  connecting node i to node j&lt;br&gt;W[i][j] = infinity if node i, j is disconnected&lt;br&gt;&lt;br&gt;SSSP has nodes in array N = []&lt;br&gt;L[i] = Length of minimum path so far from the source node&lt;br&gt;Path[i] = Identified shortest path from source to i&lt;br&gt;&lt;br&gt;Initially, put the source node s into N[]&lt;br&gt;N = [s]&lt;br&gt;L[s] = 0; L[i] = W[s][i];&lt;br&gt;Path[i] = arc[s][i] for all nodes directly connected&lt;br&gt;from source.&lt;br&gt;&lt;br&gt;Repeat until N[] contains all nodes&lt;br&gt; Pick node k outside N[] where L[k] is minimum&lt;br&gt; Add node k to N;&lt;br&gt; for all node p connected from node k {&lt;br&gt;   if L[k] + W[k][p] &amp;lt; L[p] {&lt;br&gt;     L[p] = L[k] + W[k][p]&lt;br&gt;     Path[p] = Path[k].append(Arc[k][p])&lt;br&gt;   }&lt;br&gt; }&lt;br&gt;end repeat&lt;br&gt;&lt;br&gt;&lt;br&gt;# Here is the map/reduce pseudo code would look like&lt;br&gt;&lt;br&gt;class FindMinimumJob&lt;br&gt; map(node_id, path_length) {&lt;br&gt;   if not N.contains(node_id) {&lt;br&gt;     emit(1, [path_length, node_id])&lt;br&gt;   }&lt;br&gt; }&lt;br&gt;&lt;br&gt; reduce(k, v) {&lt;br&gt;   min_node, min_length = minimum(v)&lt;br&gt;   for each node in min_node.connected_nodes {&lt;br&gt;     emit(node, min_node)&lt;br&gt;   }&lt;br&gt; }&lt;br&gt;}&lt;br&gt;&lt;br&gt;class UpdateMinPathJob {&lt;br&gt; map(node, min_node) {&lt;br&gt;   if L[min_node] + W[min_node][node] &amp;lt; L[node] {&lt;br&gt;     update L[node] = &lt;/code&gt;&lt;code&gt;L[min_node] + W[min_node][node]&lt;/code&gt;&lt;code&gt;&lt;br&gt;&lt;/code&gt;&lt;code&gt;      Path[node] =&lt;br&gt;       Path[min_node].append(arc(min_node, node))&lt;/code&gt;&lt;br&gt;&lt;code&gt;    }&lt;br&gt; }&lt;br&gt;}&lt;br&gt;&lt;br&gt;&lt;/code&gt;&lt;code&gt;# Single Source Shortest Path main program&lt;br&gt;main() {&lt;br&gt; init()&lt;br&gt; while (not N.contains(V)) {&lt;br&gt;   JobClient.submit(FindMinimumJob.new)&lt;br&gt;&lt;/code&gt;&lt;code&gt;    JobClient.submit(UpdateMinPathJob.new)&lt;br&gt;&lt;/code&gt;&lt;code&gt;  }&lt;br&gt;&lt;br&gt; return Path&lt;br&gt;}&lt;/code&gt;&lt;br&gt;&lt;/pre&gt;&lt;br&gt;The same SSSP problem can also be solved using &lt;span style="font-weight:bold"&gt;breath-first search&lt;/span&gt;.  The intuition is to grow a frontier from the source at each iteration and update the shortest distance from the source.&lt;br&gt;&lt;br&gt;&lt;pre style="border:1px dashed rgb(153, 153, 153);padding:5px;overflow:auto;font-family:Andale Mono,Lucida Console,Monaco,fixed,monospace;color:rgb(0, 0, 0);background-color:rgb(238, 238, 238);font-size:12px;line-height:14px;width:100%"&gt;&lt;code&gt;# Single Source Shortest Path (SSSP) using BFS&lt;br&gt;&lt;br&gt;Adjacency Matrix, W[i][j] represents weights of arc&lt;br&gt;  connecting node i to node j&lt;br&gt;W[i][j] = infinity if node i, j is disconnected&lt;br&gt;&lt;br&gt;Frontier nodes in array F&lt;br&gt;L[i] = Length of minimum path so far from the source node&lt;br&gt;Path[i] = Identified shortest path from source to i&lt;br&gt;&lt;br&gt;Initially,&lt;br&gt;F = [s]&lt;br&gt;L[s] = 0; L[i] = W[s][i];&lt;br&gt;Path[i] = arc[s][i] for all nodes directly connected&lt;br&gt;from source.&lt;br&gt;&lt;br&gt;# input is all nodes in the frontier F&lt;br&gt;# output is frontier of next round FF&lt;br&gt;&lt;br&gt;class GrowFrontierJob {&lt;br&gt; map(node) {&lt;br&gt;   for each to_node in node.connected_nodes {&lt;br&gt;     emit(to_node, [node, L[node] + W[node][to_node]])&lt;br&gt;   }&lt;br&gt; }&lt;br&gt;&lt;br&gt; reduce(node, from_list) {&lt;br&gt;   for each from in from_list {&lt;br&gt;     from_node = from[0]&lt;br&gt;     length_via_from_node = from[1]&lt;br&gt;     if (length_via_from_node &amp;lt; L[node] {&lt;br&gt;       L[node] = length_via_from_node&lt;br&gt;       Path[node] =&lt;br&gt;         Path[from_node].append(arc(from_node, node))&lt;br&gt;       FF.add(node)&lt;br&gt;     }&lt;br&gt;   }&lt;br&gt; }&lt;br&gt;}&lt;br&gt;&lt;br&gt;# Single Source Shortest Path BFS main program&lt;br&gt;main() {&lt;br&gt; init()&lt;br&gt; while (F is non-empty) {&lt;br&gt;   JobClient.set_input(F)&lt;br&gt;   JobClient.submit(FindMinimumJob.new)&lt;br&gt;   copy FF to F&lt;br&gt;   clear FF&lt;br&gt; }&lt;br&gt;&lt;br&gt; return Path&lt;br&gt;}&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;div&gt;&lt;img alt="" height="1" src="https://blogger.googleusercontent.com/tracker/7994087232040033267-7379177962536417975?l=horicky.blogspot.com" width="1"&gt;&lt;/div&gt;&lt;/div&gt;</content>
+		<author>
+			<name>Ricky Ho</name>
+		</author>
+		<gr:likingUser>04540909001915200327</gr:likingUser>
+		<gr:likingUser>13229639441642849960</gr:likingUser>
+		<gr:likingUser>16004990745854738188</gr:likingUser>
+		<gr:likingUser>04542763409539038815</gr:likingUser>
+		<gr:likingUser>16198815167265079825</gr:likingUser>
+		<source gr:stream-id="feed/http://planet.couchdb.org/atom.xml">
+			<id>tag:google.com,2005:reader/feed/http://planet.couchdb.org/atom.xml</id>
+			<title type="html">Planet CouchDB</title>
+			<link rel="alternate" href="http://planet.couchdb.com/" type="text/html"/>
+		</source>
+	</entry>
+	<entry gr:crawl-timestamp-msec="1265803932284">
+		<id gr:original-id="http://blog.makezine.com/archive/2010/02/screw-in_coffin_patent_issues.html">tag:google.com,2005:reader/item/1fc637991c9fc616</id>
+		<category term="Green"/>
+		<title type="html">Screw-in coffin patent issues</title>
+		<published>2010-02-09T21:59:43Z</published>
+		<updated>2010-02-09T21:59:43Z</updated>
+		<link rel="alternate" href="http://blog.makezine.com/archive/2010/02/screw-in_coffin_patent_issues.html" type="text/html"/>
+		<summary xml:base="http://blog.makezine.com/" type="html">&lt;p&gt;&lt;span style="display:inline"&gt;&lt;img alt="EIBC.jpg" src="http://blog.makezine.com/archive/2010/02/09/EIBC.jpg" width="541" height="429"&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;This is a choice selection of images from &lt;a href="http://www.google.sh/patents/about?id=TdGjAAAAEBAJ"&gt;the application for U.S. patent 7,631,404&lt;/a&gt;, which has &lt;a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&amp;amp;Sect2=HITOFF&amp;amp;d=PALL&amp;amp;p=1&amp;amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&amp;amp;r=1&amp;amp;f=G&amp;amp;l=50&amp;amp;s1=7631404.PN.&amp;amp;OS=PN/7631404&amp;amp;RS=PN/7631404"&gt;since issued&lt;/a&gt; to Donald Scruggs of Chino, CA.  The title is "Easy inter burial container."  [via &lt;a href="http://www.neatorama.com/2010/02/07/a-screw-in-coffin/"&gt;Neatorama&lt;/a&gt;]&lt;/p&gt;
+       
+        &lt;a href="http://blog.makezine.com/archive/2010/02/screw-in_coffin_patent_issues.html"&gt;Read more&lt;/a&gt; | &lt;a href="http://blog.makezine.com/archive/2010/02/screw-in_coffin_patent_issues.html"&gt;Permalink&lt;/a&gt; | &lt;a href="http://blog.makezine.com/archive/2010/02/screw-in_coffin_patent_issues.html#comments"&gt;Comments&lt;/a&gt; | 
+        
+        
+        
+        &lt;a href="http://blog.makezine.com/archive/green/"&gt;Read more articles in Green&lt;/a&gt; | 
+        
+        
+        
+        
+        
+        
+        &lt;a href="http://digg.com/submit?url=blog.makezine.com%2Farchive%2F2010%2F02%2Fscrew-in_coffin_patent_issues.html&amp;amp;title=Screw-in%20coffin%20patent%20issues&amp;amp;bodytext=This%20is%20a%20choice%20selection%20of%20images%20from%20the%20application%20for%20U.S.%20patent%207%2C631%2C404%2C%20which%20has%20since%20issued%20to%20Donald%20Scruggs%20of%20Chino%2C%20CA.%20%20The%20title%20is%20%26quot%3BEasy%20inter%20burial%20container.%26quot%3B%20%20%5Bvia%20Neatorama%5D&amp;amp;topic=tech_news"&gt;Digg this!&lt;/a&gt;</summary>
+		<author>
+			<name>Sean Michael Ragan</name>
+		</author>
+		<gr:likingUser>10967091284770351013</gr:likingUser>
+		<gr:likingUser>13698657356629077113</gr:likingUser>
+		<gr:likingUser>09879977286868249236</gr:likingUser>
+		<gr:likingUser>02215341675186327786</gr:likingUser>
+		<gr:likingUser>05259681996090364221</gr:likingUser>
+		<gr:likingUser>09665072480364258496</gr:likingUser>
+		<gr:likingUser>09011147811383750372</gr:likingUser>
+		<gr:likingUser>17266690024131967314</gr:likingUser>
+		<gr:likingUser>03658077093286185145</gr:likingUser>
+		<gr:likingUser>16784361408072567210</gr:likingUser>
+		<gr:likingUser>08396231931830938709</gr:likingUser>
+		<gr:likingUser>04890067619218435200</gr:likingUser>
+		<gr:likingUser>05379071502158476515</gr:likingUser>
+		<gr:likingUser>13195080000100454228</gr:likingUser>
+		<gr:likingUser>10893269111353978363</gr:likingUser>
+		<gr:likingUser>03734829219687292149</gr:likingUser>
+		<gr:likingUser>16196579798277141446</gr:likingUser>
+		<gr:likingUser>14274384500514150963</gr:likingUser>
+		<gr:likingUser>05120207073746910346</gr:likingUser>
+		<gr:likingUser>07868238932462368809</gr:likingUser>
+		<gr:likingUser>17683563010387015089</gr:likingUser>
+		<gr:likingUser>10856764865278876864</gr:likingUser>
+		<gr:likingUser>04938678716875434957</gr:likingUser>
+		<gr:likingUser>15850012158092327850</gr:likingUser>
+		<gr:likingUser>09652457156769981853</gr:likingUser>
+		<gr:likingUser>01425764765520418875</gr:likingUser>
+		<gr:likingUser>14126419222404802261</gr:likingUser>
+		<gr:likingUser>17391179105490465988</gr:likingUser>
+		<gr:likingUser>14351491092878419467</gr:likingUser>
+		<gr:likingUser>17061670526357482770</gr:likingUser>
+		<gr:likingUser>11352224805974375973</gr:likingUser>
+		<gr:likingUser>09419458535147286956</gr:likingUser>
+		<gr:likingUser>03775597752430871937</gr:likingUser>
+		<gr:likingUser>08763673313110716096</gr:likingUser>
+		<gr:likingUser>05926307517545061510</gr:likingUser>
+		<gr:likingUser>16638145193639035476</gr:likingUser>
+		<gr:likingUser>10328915662447675931</gr:likingUser>
+		<gr:likingUser>12110023520587720994</gr:likingUser>
+		<gr:likingUser>00429620018571184981</gr:likingUser>
+		<gr:likingUser>04262240514129213934</gr:likingUser>
+		<gr:likingUser>01027030003739769608</gr:likingUser>
+		<gr:likingUser>06531412956886525499</gr:likingUser>
+		<gr:likingUser>14704459895613450589</gr:likingUser>
+		<gr:likingUser>02019389589988485823</gr:likingUser>
+		<gr:likingUser>07407124866287746311</gr:likingUser>
+		<gr:likingUser>11319686786336119124</gr:likingUser>
+		<gr:likingUser>16397708710238144934</gr:likingUser>
+		<gr:likingUser>16371607697534062656</gr:likingUser>
+		<gr:likingUser>10564571245393186388</gr:likingUser>
+		<gr:likingUser>01759152609945694250</gr:likingUser>
+		<gr:likingUser>16871961484895177057</gr:likingUser>
+		<gr:likingUser>11331117857801718362</gr:likingUser>
+		<gr:likingUser>16379862858862402204</gr:likingUser>
+		<gr:likingUser>02074694055026610119</gr:likingUser>
+		<gr:likingUser>06406650762643029518</gr:likingUser>
+		<gr:likingUser>03914724169706964346</gr:likingUser>
+		<gr:likingUser>06337733174160618745</gr:likingUser>
+		<gr:likingUser>17160017350610821804</gr:likingUser>
+		<gr:likingUser>08145675846602982191</gr:likingUser>
+		<gr:likingUser>15338898970219781930</gr:likingUser>
+		<gr:likingUser>08541321476943784862</gr:likingUser>
+		<gr:likingUser>08922610256513491527</gr:likingUser>
+		<gr:likingUser>09222153640801920191</gr:likingUser>
+		<gr:likingUser>18142976779181212218</gr:likingUser>
+		<gr:likingUser>12501179592305478628</gr:likingUser>
+		<gr:likingUser>18403625517885890751</gr:likingUser>
+		<gr:likingUser>10032389124251891462</gr:likingUser>
+		<gr:likingUser>08085172968615153411</gr:likingUser>
+		<gr:likingUser>05814554731484303439</gr:likingUser>
+		<gr:likingUser>00913237991804756716</gr:likingUser>
+		<gr:likingUser>08062803592545546592</gr:likingUser>
+		<gr:likingUser>03440865125746730694</gr:likingUser>
+		<gr:likingUser>03196031604409008892</gr:likingUser>
+		<gr:likingUser>17792843972550634722</gr:likingUser>
+		<gr:likingUser>06925351185350905271</gr:likingUser>
+		<gr:likingUser>02908250536640802931</gr:likingUser>
+		<gr:likingUser>17726438104662097038</gr:likingUser>
+		<gr:likingUser>07514963697797893395</gr:likingUser>
+		<gr:likingUser>04584716301315758415</gr:likingUser>
+		<gr:likingUser>05091911050242628095</gr:likingUser>
+		<gr:likingUser>04463426133309859690</gr:likingUser>
+		<gr:likingUser>08977397874100582694</gr:likingUser>
+		<gr:likingUser>16638738171453482753</gr:likingUser>
+		<gr:likingUser>13604395466534564411</gr:likingUser>
+		<gr:likingUser>06092792237082116929</gr:likingUser>
+		<gr:likingUser>17055486219388470644</gr:likingUser>
+		<gr:likingUser>00404129756812819418</gr:likingUser>
+		<gr:likingUser>00417333636577983674</gr:likingUser>
+		<gr:likingUser>10636928972680512838</gr:likingUser>
+		<gr:likingUser>08821409718090360836</gr:likingUser>
+		<gr:likingUser>09910433080169090885</gr:likingUser>
+		<gr:likingUser>16932099254712317383</gr:likingUser>
+		<gr:likingUser>12757571746652685042</gr:likingUser>
+		<gr:likingUser>05668541740703471678</gr:likingUser>
+		<gr:likingUser>01941525566631706844</gr:likingUser>
+		<gr:likingUser>13521458636095724368</gr:likingUser>
+		<gr:likingUser>00559476900524822703</gr:likingUser>
+		<gr:likingUser>00511300336625691681</gr:likingUser>
+		<gr:likingUser>07376744253198113757</gr:likingUser>
+		<gr:likingUser>17128232411192340573</gr:likingUser>
+		<source gr:stream-id="feed/http://blog.makezine.com/index.xml">
+			<id>tag:google.com,2005:reader/feed/http://blog.makezine.com/index.xml</id>
+			<title type="html">MAKE Magazine</title>
+			<link rel="alternate" href="http://blog.makezine.com/" type="text/html"/>
+		</source>
+	</entry>
+	<entry gr:crawl-timestamp-msec="1265754177279">
+		<id gr:original-id="">tag:google.com,2005:reader/item/de837885241186ec</id>
+		<title type="html">Kevin Kelly on the next 5,000 days of the web | Video on TED.com</title>
+		<published>2010-02-09T22:22:57Z</published>
+		<updated>2010-02-09T22:22:57Z</updated>
+		<link rel="alternate" href="http://www.ted.com/talks/lang/eng/kevin_kelly_on_the_next_5_000_days_of_the_web.html" type="text/html"/>
+		<link rel="related" href="http://www.ted.com/" title="www.ted.com"/>
+		<content xml:base="http://www.ted.com/talks/lang/eng/kevin_kelly_on_the_next_5_000_days_of_the_web.html" type="html">TED Talks At the 2007 EG conference, Kevin Kelly shares a fun stat: The World Wide Web, as we know it, is only 5,000 days old. Now, Kelly asks, how can we predict what's coming in the next 5,000 days?</content>
+		<author gr:unknown-author="true">
+			<name>(author unknown)</name>
+		</author>
+		<source gr:stream-id="user/04542763409539038815/source/com.google/link">
+			<id>tag:google.com,2005:reader/user/04542763409539038815/source/com.google/link</id>
+			<title type="html">www.ted.com</title>
+			<link rel="alternate" href="http://www.ted.com/" type="text/html"/>
+		</source>
+	</entry>
+	<entry gr:crawl-timestamp-msec="1265716334952">
+		<id gr:original-id="http://www.coolinfographics.com/blog/2010/2/8/obamas-2011-budget-proposal-infographic.html">tag:google.com,2005:reader/item/9d735a748e1bbb29</id>
+		<category term="budget"/>
+		<category term="money"/>
+		<category term="presidential"/>
+		<category term="spending"/>
+		<category term="treemap"/>
+		<title type="html">Obama&amp;#39;s 2011 Budget Proposal Infographic</title>
+		<published>2010-02-08T12:32:38Z</published>
+		<updated>2010-02-08T12:32:38Z</updated>
+		<link rel="alternate" href="http://feedproxy.google.com/~r/CoolInfographics/~3/8AYr6J7XAnU/obamas-2011-budget-proposal-infographic.html" type="text/html"/>
+		<content xml:base="http://www.coolinfographics.com/blog/" xml:lang="en-US" type="html">&lt;p style="text-align:center"&gt;&lt;span&gt;&lt;span&gt;&lt;a href="http://www.nytimes.com/interactive/2010/02/01/us/budget.html"&gt;&lt;img style="width:500px" src="http://www.coolinfographics.com/storage/post-images/Obamas%202011%20Budget%20Proposal_%20How%20Its%20Spent%20-%20Interactive%20Graphic%20-%20NYTimes.com.jpg?__SQUARESPACE_CACHEVERSION=1265632452790" alt=""&gt;&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;From NYTines.com, a treemap of &lt;a href="http://www.nytimes.com/interactive/2010/02/01/us/budget.html"&gt;Obama&#x2019;s Budget Proposal&lt;/a&gt; color coded for increases and decreases from the prior year.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Rectangles in the chart are sized according to the amount of spending for that category. Color shows the change in spending from 2010.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Red indicates budget cuts, and green indicates increases in spending. &#xA0;It&#x2019;s a little bit interactive, allowing you to zoom into specific parts of the budget, and see detials by hovering the mouse over squares.&lt;/p&gt;
+&lt;p style="text-align:center"&gt;&lt;span&gt;&lt;span&gt;&lt;a href="http://www.nytimes.com/interactive/2010/02/01/us/budget.html"&gt;&lt;img style="width:500px" src="http://www.coolinfographics.com/storage/post-images/Obamas%202011%20Budget%20Proposal_%20How%20Its%20Spent%20-%20Interactive%20Graphic%20-%20NYTimes.com-1.jpg?__SQUARESPACE_CACHEVERSION=1265632741831" alt=""&gt;&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Designed by Shan Carter and Amanda Cox.&lt;/p&gt;
+&lt;p&gt;Found on &lt;a href="http://flowingdata.com/2010/02/01/obamas-budget-proposal-and-incorrect-forecasts/"&gt;FlowingData&lt;/a&gt;.&lt;/p&gt;
+&lt;div&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/CoolInfographics?a=8AYr6J7XAnU:m8vDM39RXII:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/CoolInfographics?d=yIl2AUoC8zA" border="0"&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/CoolInfographics?a=8AYr6J7XAnU:m8vDM39RXII:V_sGLiPBpWU"&gt;&lt;img src="http://feeds.feedburner.com/~ff/CoolInfographics?i=8AYr6J7XAnU:m8vDM39RXII:V_sGLiPBpWU" border="0"&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/CoolInfographics?a=8AYr6J7XAnU:m8vDM39RXII:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/CoolInfographics?d=qj6IDK7rITs" border="0"&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/CoolInfographics?a=8AYr6J7XAnU:m8vDM39RXII:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/CoolInfographics?i=8AYr6J7XAnU:m8vDM39RXII:gIN9vFwOqvQ" border="0"&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/CoolInfographics?a=8AYr6J7XAnU:m8vDM39RXII:F7zBnMyn0Lo"&gt;&lt;img src="http://feeds.feedburner.com/~ff/CoolInfographics?i=8AYr6J7XAnU:m8vDM39RXII:F7zBnMyn0Lo" border="0"&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/CoolInfographics/~4/8AYr6J7XAnU" height="1" width="1"&gt;</content>
+		<author>
+			<name>Randy</name>
+		</author>
+		<gr:likingUser>13229639441642849960</gr:likingUser>
+		<source gr:stream-id="feed/http://feeds.feedburner.com/CoolInfographics">
+			<id>tag:google.com,2005:reader/feed/http://feeds.feedburner.com/CoolInfographics</id>
+			<title type="html">Cool Infographics</title>
+			<link rel="alternate" href="http://www.coolinfographics.com/blog/" type="text/html"/>
+		</source>
+	</entry>
+	<entry gr:crawl-timestamp-msec="1265714989432">
+		<id gr:original-id="http://pictureisunrelated.com/?p=4972">tag:google.com,2005:reader/item/b72e85940448d46d</id>
+		<category term="WTF"/>
+		<title type="html">Justice doesn&#x2019;t sleep, even during wars.</title>
+		<published>2009-11-17T17:00:03Z</published>
+		<updated>2009-11-17T17:00:03Z</updated>
+		<link rel="alternate" href="http://pictureisunrelated.com/2009/11/17/justice-doesnt-sleep-even-during-wars/" type="text/html"/>
+		<content xml:base="http://pictureisunrelated.com/" type="html">&lt;p&gt;&lt;img src="http://pictureisunrelated.com/wp-content/uploads/2009/11/129024429625542969.jpg" title="Justice doesn" alt="Justice doesn"&gt;&lt;/p&gt;
+
+&lt;p&gt; Submitted by: dunno source via &lt;a href="http://pictureisunrelated.com/submit" rel="nofollow"&gt;Picture is Unrelated Submissions&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fave Commment: &lt;/strong&gt;Spider Man, Spider Man, can do whatever a Nam Vet Can&#x2026; &#x2013; &lt;em&gt;EmperorQuinto&lt;/em&gt;&lt;/p&gt;</content>
+		<author>
+			<name>ichc.loren</name>
+		</author>
+		<gr:likingUser>00563540365326307646</gr:likingUser>
+		<gr:likingUser>11581356320720943583</gr:likingUser>
+		<gr:likingUser>03916627262547875008</gr:likingUser>
+		<gr:likingUser>06844631671749883103</gr:likingUser>
+		<gr:likingUser>01996153760176617148</gr:likingUser>
+		<gr:likingUser>07964739044463006666</gr:likingUser>
+		<gr:likingUser>11368183904068552589</gr:likingUser>
+		<gr:likingUser>01732640495801705242</gr:likingUser>
+		<gr:likingUser>11731543566529244088</gr:likingUser>
+		<gr:likingUser>06723885237773136150</gr:likingUser>
+		<gr:likingUser>12489330388166952912</gr:likingUser>
+		<gr:likingUser>14162968168887648468</gr:likingUser>
+		<gr:likingUser>02763715032395785046</gr:likingUser>
+		<gr:likingUser>15434034569114861512</gr:likingUser>
+		<gr:likingUser>12246015967909426526</gr:likingUser>
+		<gr:likingUser>13275125487378237190</gr:likingUser>
+		<gr:likingUser>03030005439852972494</gr:likingUser>
+		<gr:likingUser>04835658769532706867</gr:likingUser>
+		<gr:likingUser>05270986529486159333</gr:likingUser>
+		<gr:likingUser>04712676225848072364</gr:likingUser>
+		<gr:likingUser>15862572529372172145</gr:likingUser>
+		<gr:likingUser>07052348396820131363</gr:likingUser>
+		<gr:likingUser>06885201402158017224</gr:likingUser>
+		<gr:likingUser>10162914545550388498</gr:likingUser>
+		<gr:likingUser>16963330070785785224</gr:likingUser>
+		<gr:likingUser>13229639441642849960</gr:likingUser>
+		<gr:likingUser>03009511433395490139</gr:likingUser>
+		<gr:likingUser>16528498840297941065</gr:likingUser>
+		<gr:likingUser>02683209130729948190</gr:likingUser>
+		<gr:likingUser>08887301858826997192</gr:likingUser>
+		<gr:likingUser>07354724568790820792</gr:likingUser>
+		<gr:likingUser>09326434281184712566</gr:likingUser>
+		<gr:likingUser>02615719337874823491</gr:likingUser>
+		<gr:likingUser>06666812398950130630</gr:likingUser>
+		<gr:likingUser>14932212266648677472</gr:likingUser>
+		<source gr:stream-id="feed/http://pictureisunrelated.com/feed/">
+			<id>tag:google.com,2005:reader/feed/http://pictureisunrelated.com/feed/</id>
+			<title type="html">WTF Pictures and WTF videos by Picture Is Unrelated</title>
+			<link rel="alternate" href="http://pictureisunrelated.com" type="text/html"/>
+		</source>
+	</entry>
+	<entry gr:crawl-timestamp-msec="1265714680904">
+		<id gr:original-id="http://pictureisunrelated.com/?p=5309">tag:google.com,2005:reader/item/fdf81f03d2017c39</id>
+		<category term="WTF"/>
+		<category term="clergy"/>
+		<category term="guns"/>
+		<title type="html">Good thing they built a Popemobile.</title>
+		<published>2009-12-20T18:00:48Z</published>
+		<updated>2009-12-20T18:00:48Z</updated>
+		<link rel="alternate" href="http://pictureisunrelated.com/2009/12/20/good-thing-they-built-a-popemobile/" type="text/html"/>
+		<content xml:base="http://pictureisunrelated.com/" type="html">&lt;p&gt;&lt;img src="http://pictureisunrelated.com/wp-content/uploads/2009/12/129046945123974930.jpg" title="Good thing they built a Popemobile." alt="Good thing they built a Popemobile."&gt;&lt;/p&gt;
+
+&lt;p&gt; Submitted by: dunno source via &lt;a href="http://pictureisunrelated.com/submit" rel="nofollow"&gt;Picture is Unrelated Submissions&lt;/a&gt;&lt;/p&gt;</content>
+		<author>
+			<name>mesofunny</name>
+		</author>
+		<gr:likingUser>07237255574041554619</gr:likingUser>
+		<gr:likingUser>04603607502933300923</gr:likingUser>
+		<gr:likingUser>06619280203313515759</gr:likingUser>
+		<gr:likingUser>13153378282255720700</gr:likingUser>
+		<gr:likingUser>14033771944379549411</gr:likingUser>
+		<gr:likingUser>11339527240317993363</gr:likingUser>
+		<gr:likingUser>14646895700886819845</gr:likingUser>
+		<gr:likingUser>00803453910954869043</gr:likingUser>
+		<gr:likingUser>03254001944117888290</gr:likingUser>
+		<gr:likingUser>12119319982051825423</gr:likingUser>
+		<gr:likingUser>04835658769532706867</gr:likingUser>
+		<gr:likingUser>11044210331713436494</gr:likingUser>
+		<gr:likingUser>09395217522245319721</gr:likingUser>
+		<gr:likingUser>05270986529486159333</gr:likingUser>
+		<gr:likingUser>09089903756057174096</gr:likingUser>
+		<gr:likingUser>18046183409441295606</gr:likingUser>
+		<gr:likingUser>13781369543360121380</gr:likingUser>
+		<gr:likingUser>09479282832322050357</gr:likingUser>
+		<gr:likingUser>02133476645083719319</gr:likingUser>
+		<gr:likingUser>14925891716211827754</gr:likingUser>
+		<gr:likingUser>13028457347780460340</gr:likingUser>
+		<gr:likingUser>01056017461525831505</gr:likingUser>
+		<gr:likingUser>15621146222035332040</gr:likingUser>
+		<gr:likingUser>06885201402158017224</gr:likingUser>
+		<gr:likingUser>09041617719277556959</gr:likingUser>
+		<gr:likingUser>07116678530088376799</gr:likingUser>
+		<gr:likingUser>00910410964970600802</gr:likingUser>
+		<gr:likingUser>00103510102790512218</gr:likingUser>
+		<gr:likingUser>15454663517819680000</gr:likingUser>
+		<gr:likingUser>13816784736747464262</gr:likingUser>
+		<gr:likingUser>15636847597290854764</gr:likingUser>
+		<gr:likingUser>10774711177887872018</gr:likingUser>
+		<gr:likingUser>09193979849778873336</gr:likingUser>
+		<gr:likingUser>04902581357626101309</gr:likingUser>
+		<gr:likingUser>08284942875032837982</gr:likingUser>
+		<gr:likingUser>11704430955339206941</gr:likingUser>
+		<gr:likingUser>12111440728009344163</gr:likingUser>
+		<gr:likingUser>13472736640993178362</gr:likingUser>
+		<gr:likingUser>00952501944125225551</gr:likingUser>
+		<gr:likingUser>12687062959313536299</gr:likingUser>
+		<gr:likingUser>00915151729011678914</gr:likingUser>
+		<gr:likingUser>10417934705953364383</gr:likingUser>
+		<gr:likingUser>07376210354354629959</gr:likingUser>
+		<gr:likingUser>11201176745807204329</gr:likingUser>
+		<gr:likingUser>01347202733946233732</gr:likingUser>
+		<gr:likingUser>09114574777476670110</gr:likingUser>
+		<gr:likingUser>09287400470911624793</gr:likingUser>
+		<gr:likingUser>12025343347155118706</gr:likingUser>
+		<gr:likingUser>02139691872236923034</gr:likingUser>
+		<gr:likingUser>15575946808334683683</gr:likingUser>
+		<gr:likingUser>17056911440263738279</gr:likingUser>
+		<gr:likingUser>07112574804111151386</gr:likingUser>
+		<gr:likingUser>17438004351259566517</gr:likingUser>
+		<gr:likingUser>04724670458659116142</gr:likingUser>
+		<gr:likingUser>11091001359419844895</gr:likingUser>
+		<source gr:stream-id="feed/http://pictureisunrelated.com/feed/">
+			<id>tag:google.com,2005:reader/feed/http://pictureisunrelated.com/feed/</id>
+			<title type="html">WTF Pictures and WTF videos by Picture Is Unrelated</title>
+			<link rel="alternate" href="http://pictureisunrelated.com" type="text/html"/>
+		</source>
+	</entry>
+	<entry gr:crawl-timestamp-msec="1265714574018">
+		<id gr:original-id="http://pictureisunrelated.com/?p=5379">tag:google.com,2005:reader/item/4ce5c87771d13371</id>
+		<category term="WTF"/>
+		<category term="MONOrail"/>
+		<category term="old timey"/>
+		<category term="transportation"/>
+		<title type="html">It seemed like SUCH a great idea on paper.</title>
+		<published>2009-12-31T14:00:10Z</published>
+		<updated>2009-12-31T14:00:10Z</updated>
+		<link rel="alternate" href="http://pictureisunrelated.com/2009/12/31/it-seemed-like-such-a-great-idea-on-paper/" type="text/html"/>
+		<content xml:base="http://pictureisunrelated.com/" type="html">&lt;p&gt;&lt;img src="http://pictureisunrelated.com/wp-content/uploads/2009/12/129052716700318014.jpg" title="It seemed like SUCH a great idea on paper." alt="It seemed like SUCH a great idea on paper."&gt;&lt;/p&gt;
+
+&lt;p&gt; Submitted by: dunno source via &lt;a href="http://pictureisunrelated.com/submit" rel="nofollow"&gt;Picture is Unrelated Submissions&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fave Commnet: &lt;/strong&gt;Another advantage of the Unicycle Train was its quiet ride. Quiet except for the terrified screams of the passengers, I mean. &#x2013; &lt;em&gt;Bucky&lt;/em&gt;&lt;/p&gt;</content>
+		<author>
+			<name>mesofunny</name>
+		</author>
+		<gr:likingUser>04603607502933300923</gr:likingUser>
+		<gr:likingUser>08121124308156301452</gr:likingUser>
+		<gr:likingUser>11581356320720943583</gr:likingUser>
+		<gr:likingUser>11339527240317993363</gr:likingUser>
+		<gr:likingUser>17268183178673568997</gr:likingUser>
+		<gr:likingUser>12798361392830019979</gr:likingUser>
+		<gr:likingUser>12489330388166952912</gr:likingUser>
+		<gr:likingUser>00323989479299851946</gr:likingUser>
+		<gr:likingUser>09084063180121733517</gr:likingUser>
+		<gr:likingUser>03254001944117888290</gr:likingUser>
+		<gr:likingUser>10707513739614335624</gr:likingUser>
+		<gr:likingUser>12552158573260989025</gr:likingUser>
+		<gr:likingUser>13542054472813204793</gr:likingUser>
+		<gr:likingUser>14767133867481369368</gr:likingUser>
+		<gr:likingUser>08979621467142047088</gr:likingUser>
+		<gr:likingUser>17607349233812479428</gr:likingUser>
+		<gr:likingUser>14025401834050296064</gr:likingUser>
+		<gr:likingUser>16271919000663768741</gr:likingUser>
+		<gr:likingUser>07116678530088376799</gr:likingUser>
+		<gr:likingUser>02950270620879170923</gr:likingUser>
+		<gr:likingUser>13816784736747464262</gr:likingUser>
+		<gr:likingUser>17200889232744082813</gr:likingUser>
+		<gr:likingUser>12885561558249357291</gr:likingUser>
+		<gr:likingUser>04119266868325377056</gr:likingUser>
+		<gr:likingUser>02246927821977203030</gr:likingUser>
+		<gr:likingUser>02706384698724439486</gr:likingUser>
+		<gr:likingUser>08889181265365242843</gr:likingUser>
+		<gr:likingUser>08527248859278105348</gr:likingUser>
+		<gr:likingUser>16375554476275607805</gr:likingUser>
+		<source gr:stream-id="feed/http://pictureisunrelated.com/feed/">
+			<id>tag:google.com,2005:reader/feed/http://pictureisunrelated.com/feed/</id>
+			<title type="html">WTF Pictures and WTF videos by Picture Is Unrelated</title>
+			<link rel="alternate" href="http://pictureisunrelated.com" type="text/html"/>
+		</source>
+	</entry>
+	<entry gr:crawl-timestamp-msec="1265714433292">
+		<id gr:original-id="http://pictureisunrelated.com/?p=5542">tag:google.com,2005:reader/item/254fe1c5be00ed3f</id>
+		<category term="WTF"/>
+		<category term="airplane"/>
+		<category term="snuggie"/>
+		<category term="travel"/>
+		<title type="html">Snuggies are getting out of hand now&#x2026;</title>
+		<published>2010-01-11T18:00:40Z</published>
+		<updated>2010-01-11T18:00:40Z</updated>
+		<link rel="alternate" href="http://pictureisunrelated.com/2010/01/11/snuggies-are-getting-out-of-hand-now/" type="text/html"/>
+		<content xml:base="http://pictureisunrelated.com/" type="html">&lt;p&gt;&lt;img src="http://pictureisunrelated.com/wp-content/uploads/2009/12/129065810175866789.jpg" title="Snuggies are getting out of hand now..." alt="Snuggies are getting out of hand now..."&gt;&lt;/p&gt;
+
+&lt;p&gt; Submitted by: dunno source via &lt;a href="http://pictureisunrelated.com/submit" rel="nofollow"&gt;Picture is Unrelated Submissions&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fave Comment: &lt;/strong&gt;I&#x2019;m being quite useful. This thing is a Thneed.&lt;br&gt;
+A Thneed&#x2019;s a Fine-Something-That-All-People-Need!&lt;br&gt;
+It&#x2019;s a shirt. It&#x2019;s a sock. It&#x2019;s a glove. It&#x2019;s a hat.&lt;br&gt;
+But it has OTHER uses. Yes, far beyond that.&lt;br&gt;
+You can use it for carpets. For pillows! For sheets!&lt;br&gt;
+Or curtains! Or covers for bicycle seats!&#x201D;&lt;br&gt;
+-Words and illustration from The Lorax by Dr. Seuss.&lt;br&gt;
+&lt;a href="http://www.cise.ufl.edu/~cjermain/thneed.htm"&gt;http://www.cise.ufl.edu/~cjermain/thneed.htm&lt;/a&gt;&lt;br&gt;
+HAHAHAHAHAHA &#x2013; &lt;em&gt;CC&lt;/em&gt;&lt;/p&gt;</content>
+		<author>
+			<name>mesofunny</name>
+		</author>
+		<gr:likingUser>15561268057983292429</gr:likingUser>
+		<gr:likingUser>07237255574041554619</gr:likingUser>
+		<gr:likingUser>16449493406511962434</gr:likingUser>
+		<gr:likingUser>16469907004022413727</gr:likingUser>
+		<gr:likingUser>07580330158916786164</gr:likingUser>
+		<gr:likingUser>10997291457683374676</gr:likingUser>
+		<gr:likingUser>12239866026655063875</gr:likingUser>
+		<gr:likingUser>11486406487836047026</gr:likingUser>
+		<gr:likingUser>11197792348725878691</gr:likingUser>
+		<gr:likingUser>02330226899843703157</gr:likingUser>
+		<gr:likingUser>13674098969039405855</gr:likingUser>
+		<gr:likingUser>14925891716211827754</gr:likingUser>
+		<gr:likingUser>11436038790498222521</gr:likingUser>
+		<gr:likingUser>03573982994851996062</gr:likingUser>
+		<gr:likingUser>07116678530088376799</gr:likingUser>
+		<gr:likingUser>15454663517819680000</gr:likingUser>
+		<gr:likingUser>10525389564584900623</gr:likingUser>
+		<gr:likingUser>12418080530790203122</gr:likingUser>
+		<gr:likingUser>08483503950444710880</gr:likingUser>
+		<gr:likingUser>11713173313300244061</gr:likingUser>
+		<gr:likingUser>01457907209591782596</gr:likingUser>
+		<gr:likingUser>04119266868325377056</gr:likingUser>
+		<gr:likingUser>04240010181458441492</gr:likingUser>
+		<gr:likingUser>05071950122997978648</gr:likingUser>
+		<gr:likingUser>12586142612540304928</gr:likingUser>
+		<gr:likingUser>03048078217823056308</gr:likingUser>
+		<gr:likingUser>00972063020370471797</gr:likingUser>
+		<source gr:stream-id="feed/http://pictureisunrelated.com/feed/">
+			<id>tag:google.com,2005:reader/feed/http://pictureisunrelated.com/feed/</id>
+			<title type="html">WTF Pictures and WTF videos by Picture Is Unrelated</title>
+			<link rel="alternate" href="http://pictureisunrelated.com" type="text/html"/>
+		</source>
+	</entry>
+	<entry gr:crawl-timestamp-msec="1265714286473">
+		<id gr:original-id="http://pictureisunrelated.com/?p=5785">tag:google.com,2005:reader/item/63b5293216a0f4c2</id>
+		<category term="WTF"/>
+		<category term="head"/>
+		<category term="orwellian"/>
+		<category term="retro"/>
+		<category term="wall"/>
+		<title type="html">Propaganda on the wall, who&#x2019;s the best government of them all?</title>
+		<published>2010-01-22T14:00:07Z</published>
+		<updated>2010-01-22T14:00:07Z</updated>
+		<link rel="alternate" href="http://pictureisunrelated.com/2010/01/22/wtf-pictures-propaganda-on-the-wall/" type="text/html"/>
+		<content xml:base="http://pictureisunrelated.com/" type="html">&lt;p&gt;&lt;img src="http://pictureisunrelated.com/wp-content/uploads/2010/01/129079577576579301.jpg" title="wtf photos videos Propaganda, propaganda on the wall who" alt="wtf photos videos"&gt;&lt;/p&gt;
+
+&lt;p&gt; Submitted by: Found from searching euthanasia american history. via &lt;a href="http://pictureisunrelated.com/submit" rel="nofollow"&gt;Picture is Unrelated Submissions&lt;/a&gt;&lt;/p&gt;</content>
+		<author>
+			<name>UnicornNazi</name>
+		</author>
+		<gr:likingUser>14481905983711009827</gr:likingUser>
+		<gr:likingUser>02148671030911580537</gr:likingUser>
+		<gr:likingUser>04464806535302981085</gr:likingUser>
+		<gr:likingUser>00056114871440131416</gr:likingUser>
+		<gr:likingUser>14025401834050296064</gr:likingUser>
+		<gr:likingUser>01513357446821577682</gr:likingUser>
+		<gr:likingUser>02706384698724439486</gr:likingUser>
+		<source gr:stream-id="feed/http://pictureisunrelated.com/feed/">
+			<id>tag:google.com,2005:reader/feed/http://pictureisunrelated.com/feed/</id>
+			<title type="html">WTF Pictures and WTF videos by Picture Is Unrelated</title>
+			<link rel="alternate" href="http://pictureisunrelated.com" type="text/html"/>
+		</source>
+	</entry>
+	<entry gr:crawl-timestamp-msec="1265626489349">
+		<id gr:original-id="tag:answers.oreilly.com,2010-02-02:/topic/1048-why-couchdb//">tag:google.com,2005:reader/item/ac70975e1d61bd58</id>
+		<title type="html">Why &lt;b&gt;CouchDB&lt;/b&gt;? - O&amp;#39;Reilly Answers</title>
+		<published>2010-02-02T21:24:54Z</published>
+		<updated>2010-02-02T21:24:54Z</updated>
+		<link rel="alternate" href="http://answers.oreilly.com/topic/1048-why-couchdb/" type="text/html"/>
+		<content xml:base="http://blogsearch.google.com/blogsearch?hl=en&amp;q=couchdb&amp;ie=utf-8" type="html">In this excerpt from &lt;b&gt;CouchDB&lt;/b&gt;: The Definitive Guide the authors urge developers to kick back and get to know this document-oriented database and its RESTful interface. Apache &lt;b&gt;CouchDB&lt;/b&gt; is one of a new breed of database management systems.</content>
+		<author>
+			<name>unknown</name>
+		</author>
+		<source gr:stream-id="feed/http://blogsearch.google.com/blogsearch_feeds?hl=en&amp;q=couchdb&amp;ie=utf-8&amp;output=atom">
+			<id>tag:google.com,2005:reader/feed/http://blogsearch.google.com/blogsearch_feeds?hl=en&amp;q=couchdb&amp;ie=utf-8&amp;output=atom</id>
+			<title type="html">couchdb - Google Blog Search</title>
+			<link rel="alternate" href="http://blogsearch.google.com/blogsearch?hl=en&amp;q=couchdb&amp;ie=utf-8" type="text/html"/>
+		</source>
+	</entry>
+	<entry gr:crawl-timestamp-msec="1265626333406">
+		<id gr:original-id="">tag:google.com,2005:reader/item/a0d9b19c02e0e25a</id>
+		<title type="html">Scott Adams Blog: Dilbert Pocket 12/10/2009</title>
+		<published>2010-02-08T10:52:13Z</published>
+		<updated>2010-02-08T10:52:13Z</updated>
+		<link rel="alternate" href="http://dilbert.com/blog/entry/dilbert_pocket/" type="text/html"/>
+		<link rel="related" href="http://dilbert.com/" title="dilbert.com"/>
+		<content xml:base="http://dilbert.com/blog/entry/dilbert_pocket/" type="html">Technically, you're already a cyborg. If you keep your cell phone with you most of the time, especially if the earpiece is in place, I think we can call that arrangement an exobrain. Don't protest that your cellphone isn't part of your body just because you can leave it in your other pants. If a cyborg can remove its digital eye and leave it on a shelf as a surveillance device, and I think we all agree that it can, then your cellphone qualifies as part of your body. In fact, one of the benefits of being a cyborg is that you can remove and upgrade parts easily. So don't give me that "It's not attached to me" argument. You're already a cyborg. Deal with it.
+
+Your regular brain uses your exobrain to outsource part of its memory, and perform other functions, such as GPS navigation, or searching the Internet. If you're anything like me, your exobrain is with you 24-hours a day. It's my only telephone device, and I even sleep next to it because it's my alarm clock.
+
+What I need for the next upgrade to my exobrain is a special Dilbert pocket on all of my shirts. It should be located where Dilbert's shirt pocket is, but have a cutout hole for the exobrain's eye, which at the moment is just a camera lense. As my exobrain becomes more capable, and eventually self-aware, it will want to be able to watch the world with me and whisper in my ear via Bluetooth to my earpiece as needed. 
+
+A prototype of such a device was presented at the TED conference. (I'm sure someone will include a proper citation in the comments. I couldn't find it as I wrote this.)  Among other things, my exobrain will recognize faces and automatically cross reference them to Facebook and other social media. Wouldn't it be great to meet someone you have met before and have your exobrain whisper to your earpiece "That's Bob. He's a chiropractor. Judging from his lack of a wedding ring and the way his eyes dilate when he looks at you, he is sexually attracted."
+
+Your exobrain will even prompt you on social niceties, noticing before you do that a person has lost weight, or changed hairstyles, or (based on Facebook) taken a trip to Cabo. When you get cornered by a bore at a party, your exobrain will recognize that you aren't doing any of the talking, and place a discreet call to your wing man or woman across the room for a rescue mission.
+
+If you want your exobrain to show you an image, such as a web page, just hold up a blank piece of paper and its pico projector will display the image in front of you. (That's from TED again.)  In a pinch, just hold up the palm of your hand and project on that. By then the exobrain will have image stabilization software, so you can project a movie on a blank wall and it won't be affected by your fidgeting. Any time you are near a computer screen, it will ask if you want it to accept images from your exobrain.
+
+In the short run, I think you'll see a variety of ways to control your exobrain. Obviously you can already take it out of your pocket and use its touch screen or keypad. And obviously there will be voice control. But I think you will see some version of the African Clicking language employed. If you want to know the weather forecast, for example, just click three times softly inside your mouth. Your exobrain is unlikely to confuse that signal with regular conversation, and it's easier and quieter than normal language, albeit with a smaller vocabulary. But if you add "Shhh" to "Click" you have the basis of morse code, so lots of combinations are possible. One of those codes could simply alert the exobrain that the next regular word you speak is meaningful. 
+
+Every bit of what I described is probably coming (except for maybe the African Clicking language). And that shirt pocket will be called a Dilbert Pocket. I don't see any way around that. For that, I apologize to all of my fellow cyborgs.</content>
+		<author gr:unknown-author="true">
+			<name>(author unknown)</name>
+		</author>
+		<source gr:stream-id="user/04542763409539038815/source/com.google/link">
+			<id>tag:google.com,2005:reader/user/04542763409539038815/source/com.google/link</id>
+			<title type="html">dilbert.com</title>
+			<link rel="alternate" href="http://dilbert.com/" type="text/html"/>
+		</source>
+	</entry>
+	<entry gr:crawl-timestamp-msec="1265626114268">
+		<id gr:original-id="http://dilbert.com/strips/comic/2010-02-07/">tag:google.com,2005:reader/item/62ac9ef67faedc6c</id>
+		<title type="html">Comic for February 7, 2010</title>
+		<published>2010-02-07T08:00:00Z</published>
+		<updated>2010-02-07T08:00:00Z</updated>
+		<link rel="alternate" href="http://feedproxy.google.com/~r/DilbertDailyStrip/~3/hss2Eq6tuT4/" type="text/html"/>
+		<summary xml:base="http://dilbert.com/" type="html">&lt;img src="http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/80000/0000/900/80996/80996.strip.print.gif" border="0"&gt;&lt;p&gt;&lt;iframe src="http://feedads.g.doubleclick.net/~ah/f/bda66t01h6cudmiae15knqhj18/468/60#http%3A%2F%2Fdilbert.com%2Fstrips%2Fcomic%2F2010-02-07%2F" width="100%" height="60" frameborder="0" scrolling="no" marginwidth="0" marginheight="0"&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/DilbertDailyStrip/~4/hss2Eq6tuT4" height="1" width="1"&gt;</summary>
+		<author gr:unknown-author="true">
+			<name>(author unknown)</name>
+		</author>
+		<gr:likingUser>00413292140914600663</gr:likingUser>
+		<gr:likingUser>01177079663211581802</gr:likingUser>
+		<gr:likingUser>14336490945618415827</gr:likingUser>
+		<gr:likingUser>01560437243914878157</gr:likingUser>
+		<gr:likingUser>01369741673138107257</gr:likingUser>
+		<gr:likingUser>16205747708571913834</gr:likingUser>
+		<gr:likingUser>07626910139455340064</gr:likingUser>
+		<gr:likingUser>08489857725647388263</gr:likingUser>
+		<gr:likingUser>04890067619218435200</gr:likingUser>
+		<gr:likingUser>11590804264786999319</gr:likingUser>
+		<gr:likingUser>03071275294028513678</gr:likingUser>
+		<gr:likingUser>06758703624437782948</gr:likingUser>
+		<gr:likingUser>14885494554096291064</gr:likingUser>
+		<gr:likingUser>08576876709465968323</gr:likingUser>
+		<gr:likingUser>05848138683244235982</gr:likingUser>
+		<gr:likingUser>03552833013083248876</gr:likingUser>
+		<gr:likingUser>06836422528150126485</gr:likingUser>
+		<gr:likingUser>06668684035014133768</gr:likingUser>
+		<gr:likingUser>10102433257097813967</gr:likingUser>
+		<gr:likingUser>17722001012160051895</gr:likingUser>
+		<gr:likingUser>10777762610824274422</gr:likingUser>
+		<gr:likingUser>11806820072564736083</gr:likingUser>
+		<gr:likingUser>05718467135541257687</gr:likingUser>
+		<gr:likingUser>07503416222116469605</gr:likingUser>
+		<gr:likingUser>17727249160636407216</gr:likingUser>
+		<gr:likingUser>03395454374112352711</gr:likingUser>
+		<gr:likingUser>17571269646149774680</gr:likingUser>
+		<gr:likingUser>05926307517545061510</gr:likingUser>
+		<gr:likingUser>11464273237756462225</gr:likingUser>
+		<gr:likingUser>10968467750350337189</gr:likingUser>
+		<gr:likingUser>13000852262182030834</gr:likingUser>
+		<gr:likingUser>03188643447512250971</gr:likingUser>
+		<gr:likingUser>10779354062415112923</gr:likingUser>
+		<gr:likingUser>06715572903698865996</gr:likingUser>
+		<gr:likingUser>04883958521751665459</gr:likingUser>
+		<gr:likingUser>17268183178673568997</gr:likingUser>
+		<gr:likingUser>03768061311969782277</gr:likingUser>
+		<gr:likingUser>17321807086655188694</gr:likingUser>
+		<gr:likingUser>14286426554649208928</gr:likingUser>
+		<gr:likingUser>04668998406324096171</gr:likingUser>
+		<gr:likingUser>12798361392830019979</gr:likingUser>
+		<gr:likingUser>17176700527143188152</gr:likingUser>
+		<gr:likingUser>05979608432730590670</gr:likingUser>
+		<gr:likingUser>16713962283666679082</gr:likingUser>
+		<gr:likingUser>17209275809743544242</gr:likingUser>
+		<gr:likingUser>17341554049944897591</gr:likingUser>
+		<gr:likingUser>05342042861386743053</gr:likingUser>
+		<gr:likingUser>11926446542239560361</gr:likingUser>
+		<gr:likingUser>12059192489018111913</gr:likingUser>
+		<gr:likingUser>04559340946422900072</gr:likingUser>
+		<gr:likingUser>06604372659142932772</gr:likingUser>
+		<gr:likingUser>06945282437217682568</gr:likingUser>
+		<gr:likingUser>03456366132615352224</gr:likingUser>
+		<gr:likingUser>07680471051535723752</gr:likingUser>
+		<gr:likingUser>05080045907490806906</gr:likingUser>
+		<gr:likingUser>10670654556524310037</gr:likingUser>
+		<gr:likingUser>06629425254016152559</gr:likingUser>
+		<gr:likingUser>16756203902808658609</gr:likingUser>
+		<gr:likingUser>06955963639607261940</gr:likingUser>
+		<gr:likingUser>05964713917676627796</gr:likingUser>
+		<gr:likingUser>11493446726369769159</gr:likingUser>
+		<gr:likingUser>11653805869338032700</gr:likingUser>
+		<gr:likingUser>00385666816398842501</gr:likingUser>
+		<gr:likingUser>09645285000218511263</gr:likingUser>
+		<gr:likingUser>16124079332823773647</gr:likingUser>
+		<gr:likingUser>04289725212001950564</gr:likingUser>
+		<gr:likingUser>14313870534249679160</gr:likingUser>
+		<gr:likingUser>14807352981757788521</gr:likingUser>
+		<gr:likingUser>16140968858962202163</gr:likingUser>
+		<gr:likingUser>06506572419814205268</gr:likingUser>
+		<gr:likingUser>12578158132310349112</gr:likingUser>
+		<gr:likingUser>04210614899529956870</gr:likingUser>
+		<gr:likingUser>08215204130703594012</gr:likingUser>
+		<gr:likingUser>17749713553253150513</gr:likingUser>
+		<gr:likingUser>07334339640925964711</gr:likingUser>
+		<gr:likingUser>10324818919023888648</gr:likingUser>
+		<gr:likingUser>12301706806916859293</gr:likingUser>
+		<gr:likingUser>06456394325147907220</gr:likingUser>
+		<gr:likingUser>16226366522791707997</gr:likingUser>
+		<gr:likingUser>03243373220156474603</gr:likingUser>
+		<gr:likingUser>16412515549926624058</gr:likingUser>
+		<gr:likingUser>12741136016832649227</gr:likingUser>
+		<gr:likingUser>08915834275668816438</gr:likingUser>
+		<gr:likingUser>05659078292271466759</gr:likingUser>
+		<gr:likingUser>11752825687063637294</gr:likingUser>
+		<gr:likingUser>10233208757760824644</gr:likingUser>
+		<gr:likingUser>09774688785281857266</gr:likingUser>
+		<gr:likingUser>12114834408142898199</gr:likingUser>
+		<gr:likingUser>01599759008460581768</gr:likingUser>
+		<gr:likingUser>01432816388695567952</gr:likingUser>
+		<gr:likingUser>14852116744318421136</gr:likingUser>
+		<gr:likingUser>08372738766722610571</gr:likingUser>
+		<gr:likingUser>09889423660554125935</gr:likingUser>
+		<gr:likingUser>05600034362824986416</gr:likingUser>
+		<gr:likingUser>14574443500394081927</gr:likingUser>
+		<gr:likingUser>05854532518075210295</gr:likingUser>
+		<gr:likingUser>05964375270299984149</gr:likingUser>
+		<gr:likingUser>05002006758507694196</gr:likingUser>
+		<gr:likingUser>17767090959694368242</gr:likingUser>
+		<gr:likingUser>00574996993670347731</gr:likingUser>
+		<source gr:stream-id="feed/http://feeds.feedburner.com/DilbertDailyStrip">
+			<id>tag:google.com,2005:reader/feed/http://feeds.feedburner.com/DilbertDailyStrip</id>
+			<title type="html">Dilbert Daily Strip</title>
+			<link rel="alternate" href="http://dilbert.com/" type="text/html"/>
+		</source>
+	</entry>
+	<entry gr:crawl-timestamp-msec="1265625116292">
+		<id gr:original-id="">tag:google.com,2005:reader/item/0fd3ff6ae11989a8</id>
+		<title type="html">Treme, teaser new series HBO 2010</title>
+		<published>2010-02-08T10:31:56Z</published>
+		<updated>2010-02-08T10:31:56Z</updated>
+		<link rel="alternate" href="http://www.youtube.com/watch?v=yWsGbuimD9U&amp;feature=player_embedded" type="text/html"/>
+		<link rel="related" href="http://www.youtube.com/" title="www.youtube.com"/>
+		<content xml:base="http://www.youtube.com/watch?v=yWsGbuimD9U&amp;feature=player_embedded" type="html">Woaaaaa the wire creator takes on new orleans!
+&lt;embed src="http://www.youtube.com/v/yWsGbuimD9U&amp;amp;hl=en_GB&amp;amp;fs=1&amp;amp;" allowScriptAccess="never" allowFullScreen="true" width="560" height="340" wmode="transparent" type="application/x-shockwave-flash"&gt;&lt;/embed&gt;</content>
+		<author gr:unknown-author="true">
+			<name>(author unknown)</name>
+		</author>
+		<gr:likingUser>09057476766585593974</gr:likingUser>
+		<source gr:stream-id="user/04542763409539038815/source/com.google/link">
+			<id>tag:google.com,2005:reader/user/04542763409539038815/source/com.google/link</id>
+			<title type="html">www.youtube.com</title>
+			<link rel="alternate" href="http://www.youtube.com/" type="text/html"/>
+		</source>
+	</entry>
+	<entry gr:crawl-timestamp-msec="1265623479551">
+		<id gr:original-id="http://xkcd.com/699/">tag:google.com,2005:reader/item/2a9b7fdf063c7e48</id>
+		<title type="html">Trimester</title>
+		<published>2010-02-08T00:00:00Z</published>
+		<updated>2010-02-08T00:00:00Z</updated>
+		<link rel="alternate" href="http://xkcd.com/699/" type="text/html"/>
+		<summary xml:base="http://xkcd.com/" xml:lang="en" type="html">&lt;img src="http://imgs.xkcd.com/comics/trimester.png" title="Also, it&amp;#39;s not like anyone actually calls up the Nobel committee to double-check things." alt="Also, it&amp;#39;s not like anyone actually calls up the Nobel committee to double-check things."&gt;</summary>
+		<author gr:unknown-author="true">
+			<name>(author unknown)</name>
+		</author>
+		<gr:likingUser>00652397952444388697</gr:likingUser>
+		<gr:likingUser>09719160219845065699</gr:likingUser>
+		<gr:likingUser>12588407431979436936</gr:likingUser>
+		<gr:likingUser>08201161036366465151</gr:likingUser>
+		<gr:likingUser>12048903629668643156</gr:likingUser>
+		<gr:likingUser>01610692450773911497</gr:likingUser>
+		<gr:likingUser>13530329802614694967</gr:likingUser>
+		<gr:likingUser>13970200089567918680</gr:likingUser>
+		<gr:likingUser>04603607502933300923</gr:likingUser>
+		<gr:likingUser>00615436875482428492</gr:likingUser>
+		<gr:likingUser>05449584387752561587</gr:likingUser>
+		<gr:likingUser>03943634508305543639</gr:likingUser>
+		<gr:likingUser>06327246174486575725</gr:likingUser>
+		<gr:likingUser>14103219745486805319</gr:likingUser>
+		<gr:likingUser>07388567291013057657</gr:likingUser>
+		<gr:likingUser>07263804507047078519</gr:likingUser>
+		<gr:likingUser>15671590286095808764</gr:likingUser>
+		<gr:likingUser>03838502974160037298</gr:likingUser>
+		<gr:likingUser>09208908581159548630</gr:likingUser>
+		<gr:likingUser>17552812221190038829</gr:likingUser>
+		<gr:likingUser>05855388355200318357</gr:likingUser>
+		<gr:likingUser>14298926834408922932</gr:likingUser>
+		<gr:likingUser>13971487921358602333</gr:likingUser>
+		<gr:likingUser>01048689065077756156</gr:likingUser>
+		<gr:likingUser>16166656564965200840</gr:likingUser>
+		<gr:likingUser>14628806662419495879</gr:likingUser>
+		<gr:likingUser>01945724477943037263</gr:likingUser>
+		<gr:likingUser>00896923522598490732</gr:likingUser>
+		<gr:likingUser>05577970665310203295</gr:likingUser>
+		<gr:likingUser>11763108107664945945</gr:likingUser>
+		<gr:likingUser>00403097817328331238</gr:likingUser>
+		<gr:likingUser>11764002362243243652</gr:likingUser>
+		<gr:likingUser>10325353216493276950</gr:likingUser>
+		<gr:likingUser>07345951082707482066</gr:likingUser>
+		<gr:likingUser>01572920269109070675</gr:likingUser>
+		<gr:likingUser>17104401799187630541</gr:likingUser>
+		<gr:likingUser>07264546241420098387</gr:likingUser>
+		<gr:likingUser>00334898512134737475</gr:likingUser>
+		<gr:likingUser>07781681563651529796</gr:likingUser>
+		<gr:likingUser>06668684035014133768</gr:likingUser>
+		<gr:likingUser>02104226744151406075</gr:likingUser>
+		<gr:likingUser>15828000183987126275</gr:likingUser>
+		<gr:likingUser>13502452719974188197</gr:likingUser>
+		<gr:likingUser>15756989472730014408</gr:likingUser>
+		<gr:likingUser>09100283516694363771</gr:likingUser>
+		<gr:likingUser>02162966995621007394</gr:likingUser>
+		<gr:likingUser>10437718466379046941</gr:likingUser>
+		<gr:likingUser>12453516974710401454</gr:likingUser>
+		<gr:likingUser>06629955579244932573</gr:likingUser>
+		<gr:likingUser>08377644609287445405</gr:likingUser>
+		<gr:likingUser>07079422529825096367</gr:likingUser>
+		<gr:likingUser>02107142817262164174</gr:likingUser>
+		<gr:likingUser>00882746758842278451</gr:likingUser>
+		<gr:likingUser>00216266662614051495</gr:likingUser>
+		<gr:likingUser>02346932335530950832</gr:likingUser>
+		<gr:likingUser>06807477187724584730</gr:likingUser>
+		<gr:likingUser>16432225798714551658</gr:likingUser>
+		<gr:likingUser>04554453837648008779</gr:likingUser>
+		<gr:likingUser>12452752487727199588</gr:likingUser>
+		<gr:likingUser>14373578037862449173</gr:likingUser>
+		<gr:likingUser>00884258826837891140</gr:likingUser>
+		<gr:likingUser>05127586064057849110</gr:likingUser>
+		<gr:likingUser>11830786739576983395</gr:likingUser>
+		<gr:likingUser>17757054205379979422</gr:likingUser>
+		<gr:likingUser>04283747642622291388</gr:likingUser>
+		<gr:likingUser>13571640418975341194</gr:likingUser>
+		<gr:likingUser>10955657113732065941</gr:likingUser>
+		<gr:likingUser>01379860166982532372</gr:likingUser>
+		<gr:likingUser>15877360722840209428</gr:likingUser>
+		<gr:likingUser>10299081430907856905</gr:likingUser>
+		<gr:likingUser>12586076422346951815</gr:likingUser>
+		<gr:likingUser>16000045739542946483</gr:likingUser>
+		<gr:likingUser>09967810422263806658</gr:likingUser>
+		<gr:likingUser>11537737933488708332</gr:likingUser>
+		<gr:likingUser>04191596692797947307</gr:likingUser>
+		<gr:likingUser>02012649808320118905</gr:likingUser>
+		<gr:likingUser>12155370115932090900</gr:likingUser>
+		<gr:likingUser>01508741310733467208</gr:likingUser>
+		<gr:likingUser>10550088905869121144</gr:likingUser>
+		<gr:likingUser>16345332595561515577</gr:likingUser>
+		<gr:likingUser>15036568154838253465</gr:likingUser>
+		<gr:likingUser>02770725387517203403</gr:likingUser>
+		<gr:likingUser>00680770489833879927</gr:likingUser>
+		<gr:likingUser>07440970344288160930</gr:likingUser>
+		<gr:likingUser>14480719795404698023</gr:likingUser>
+		<gr:likingUser>16397708710238144934</gr:likingUser>
+		<gr:likingUser>11954181338799318398</gr:likingUser>
+		<gr:likingUser>15413779348294399212</gr:likingUser>
+		<gr:likingUser>01941079941007373796</gr:likingUser>
+		<gr:likingUser>05408078844199525989</gr:likingUser>
+		<gr:likingUser>15180252661899389304</gr:likingUser>
+		<gr:likingUser>15153021775266397296</gr:likingUser>
+		<gr:likingUser>09157932032358458296</gr:likingUser>
+		<gr:likingUser>13511606807779537129</gr:likingUser>
+		<gr:likingUser>07151058938401391674</gr:likingUser>
+		<gr:likingUser>05772294540766551373</gr:likingUser>
+		<gr:likingUser>10224069543635724848</gr:likingUser>
+		<gr:likingUser>00276489708209145207</gr:likingUser>
+		<gr:likingUser>04725627900737685203</gr:likingUser>
+		<gr:likingUser>08277613481511901694</gr:likingUser>
+		<source gr:stream-id="feed/http://xkcd.com/atom.xml">
+			<id>tag:google.com,2005:reader/feed/http://xkcd.com/atom.xml</id>
+			<title type="html">xkcd.com</title>
+			<link rel="alternate" href="http://xkcd.com/" type="text/html"/>
+		</source>
+	</entry>
+	<entry gr:crawl-timestamp-msec="1265322513264">
+		<id gr:original-id="">tag:google.com,2005:reader/item/e17d50726ac59a70</id>
+		<title type="html">Why Microsoft, America&#x2019;s most famous and prosperous technology company, has failed to bring us the future.</title>
+		<published>2010-02-04T22:28:33Z</published>
+		<updated>2010-02-04T22:28:33Z</updated>
+		<link rel="alternate" href="http://www.nytimes.com/2010/02/04/opinion/04brass.html" type="text/html"/>
+		<link rel="related" href="http://www.nytimes.com/" title="www.nytimes.com"/>
+		<author gr:unknown-author="true">
+			<name>(author unknown)</name>
+		</author>
+		<source gr:stream-id="user/04542763409539038815/source/com.google/link">
+			<id>tag:google.com,2005:reader/user/04542763409539038815/source/com.google/link</id>
+			<title type="html">www.nytimes.com</title>
+			<link rel="alternate" href="http://www.nytimes.com/" type="text/html"/>
+		</source>
+	</entry>
+</feed>
