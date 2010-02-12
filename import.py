@@ -24,8 +24,12 @@ g.bind('cu', cu)
 g.bind('item',item)
 g.bind('foaf', foaf)
 
-f = open('store_sample.txt')
+#f = open('store_sample.txt','r')
+f = open('/cygdrive/e/store.txt','r')
+reader_item = Literal("google reader item")
+count = 0
 for line in f:
+	
 	subj, pred, obj = json.loads(line)
 	
 	if pred == 'cu:likes':
@@ -43,8 +47,36 @@ for line in f:
 	elif pred == 'dc:title':
 		item = BNode(subj)
 		g.add((item, dc['title'], Literal(obj)))
-		g.add((item, rdf.type, Literal("google reader item")))
+		g.add((item, rdf.type, reader_item))
+	
+	g.commit()
+	if count >= 5000:
+		break
+	if count % 1000 == 0:
+		print count, len(g)
+	count += 1
+	
 
-g.commit()
-print g.serialize(format='n3')
+f.close()
+g.serialize(destination='store.rdf', format='xml')
+#results = g.query("""SELECT ?user ?item
+#			WHERE { ?user cu:likes ?item . } """, initNs={'cu':cu, 'dc':dc})
+			
+#import networkx as nx
+
+
+#ng = nx.Graph()
+#for triple in results:
+#	print triple[0], triple[1].split('/').pop()
+#	ng.add_edge(str(triple[0]), str(triple[1]).split('/').pop())
+	
+#rt = nx.betweenness_centrality(ng)
+#for v in rt:
+#	print v, rt[v]
+	
+#for t in nx.find_cliques(ng):
+#	print t
+
+#print nx.degree(ng)
+#print g.serialize(format='n3')
 #05429296530037195610

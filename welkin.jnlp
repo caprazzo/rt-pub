@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp spec="1.0+" codebase="http://simile.mit.edu/repository/welkin/latest/" href="docs/welkin.jnlp">
+	<information>
+		<title>Welkin 1.1</title>
+		<vendor>The SIMILE Project</vendor>
+		<homepage href="http://simile.mit.edu/welkin/"/>
+		<description>A graphical RDF visualizer</description>
+		<description kind="tooltip">Welkin - A Graphical RDF Visualizer</description>
+		<offline-allowed/>
+	</information>
+	<security>
+		<all-permissions/>
+	</security>
+	<resources>
+		<j2se version="1.4+" href="http://java.sun.com/products/autodl/j2se"/>
+		<jar href="lib/welkin.jar" main="true"/>
+		<jar href="lib/openrdf-model.jar"/>
+		<jar href="lib/openrdf-util.jar"/>
+		<jar href="lib/rio-1.0.4.jar"/>
+	</resources>
+	<application-desc main-class="edu.mit.simile.welkin.Welkin"/>
+</jnlp>
