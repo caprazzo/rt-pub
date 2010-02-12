@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:_3="http://caprazzi.net/cu/2010/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/10912584756652065259">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/90ca9a4a6d41277e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/02435340262827888511">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/90ca9a4a6d41277e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/07465445679317383867">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/90ca9a4a6d41277e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/04956664978595913185">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/90ca9a4a6d41277e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/10500668460322375751">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/90ca9a4a6d41277e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/06507660545043340883">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/296eb657d106148f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/17261903993815635082">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/296eb657d106148f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/16452829551753312301">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/90ca9a4a6d41277e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/16054563658213848027">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/101ce470844bd95c"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/03448072219731837644">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/101ce470844bd95c"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/04563562242929724033">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/90ca9a4a6d41277e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/16467349621721587697">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/101ce470844bd95c"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/09387860338305031705">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/90ca9a4a6d41277e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/16512078904986771582">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/f7c624939f7f3ca7"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/11875933135510638920">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/101ce470844bd95c"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/12202028365986358847">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/90ca9a4a6d41277e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/02155268200103974967">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/4d4068cf6aa16417"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/12990940133197776746">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/90ca9a4a6d41277e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/08665965238195848504">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/296eb657d106148f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/12551940901320783025">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/90ca9a4a6d41277e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/11274550459018719022">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/296eb657d106148f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/06998913749181908523">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/296eb657d106148f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/14796058446667537429">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/90ca9a4a6d41277e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/14846949486137263333">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/90ca9a4a6d41277e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/08193001665337674561">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/296eb657d106148f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/10340066656296547891">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/296eb657d106148f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/09217948157600999813">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/296eb657d106148f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/09401309724516848935">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/101ce470844bd95c"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/09077825778045571871">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/296eb657d106148f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/06748776882020436486">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/101ce470844bd95c"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/03161496866670770263">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/f7c624939f7f3ca7"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/04821176400622682076">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/90ca9a4a6d41277e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/10434923705196586092">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/4d4068cf6aa16417"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/15375026565757444522">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/f7c624939f7f3ca7"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/09538603637053552111">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/f7c624939f7f3ca7"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/01745658806629973361">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/101ce470844bd95c"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/05838517493441221758">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/90ca9a4a6d41277e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/04362504419516471715">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/90ca9a4a6d41277e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/05175660084025852776">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/296eb657d106148f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/07046008745746008069">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/7037672d1e8eda58"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/00227207032985276951">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/101ce470844bd95c"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/03990945554485705677">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/f7c624939f7f3ca7"/>
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/90ca9a4a6d41277e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/03819587814176952132">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/90ca9a4a6d41277e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/07962855187752671812">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/90ca9a4a6d41277e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/09792518071033776949">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/296eb657d106148f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/04596002306734593740">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/90ca9a4a6d41277e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/01004436876879306304">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/296eb657d106148f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/04594503570864549797">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/296eb657d106148f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/13130670333297631206">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/90ca9a4a6d41277e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/08944324330886439245">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/296eb657d106148f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/16957672362960640640">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/90ca9a4a6d41277e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/15254446435453550574">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/90ca9a4a6d41277e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/04733866417344061194">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/101ce470844bd95c"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/09332474913767698412">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/90ca9a4a6d41277e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/03638502589395196964">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/296eb657d106148f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/02328613115930999715">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/101ce470844bd95c"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/16198119497679424264">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/296eb657d106148f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/15670044298443143413">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/90ca9a4a6d41277e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/09913530811447969166">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/296eb657d106148f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/04074918232626617196">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/90ca9a4a6d41277e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/14571958145570304236">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/f7c624939f7f3ca7"/>
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/90ca9a4a6d41277e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/06829903460724628988">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/f7c624939f7f3ca7"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/10706732425910878417">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/90ca9a4a6d41277e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/06531827316391250428">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/7037672d1e8eda58"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/00197248924142635036">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/296eb657d106148f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/11606479815317485703">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/296eb657d106148f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/11092806985208688399">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/90ca9a4a6d41277e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/05817241801175968713">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/90ca9a4a6d41277e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/02521387969137911343">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/4d4068cf6aa16417"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/05657882570644135288">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/296eb657d106148f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/01762559122114133308">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/101ce470844bd95c"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/16550093441915264915">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/296eb657d106148f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/18178426437152620714">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/90ca9a4a6d41277e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/10619085520253232136">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/296eb657d106148f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/00858283058836263510">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/296eb657d106148f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/01434209410193537179">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/101ce470844bd95c"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/04207219008236287170">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/296eb657d106148f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/14578104643103599790">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/296eb657d106148f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/14223653136574405252">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/296eb657d106148f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/17399019104115912402">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/f7c624939f7f3ca7"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/07250652092005488660">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/f7c624939f7f3ca7"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/04891802508643115356">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/296eb657d106148f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/06687501100167962733">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/101ce470844bd95c"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/02296052561209486716">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/90ca9a4a6d41277e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/10061394582986424962">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/296eb657d106148f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/08895079311507296168">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/90ca9a4a6d41277e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/16580601846460311684">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/296eb657d106148f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/05924094331675427105">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/4d4068cf6aa16417"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/10504504955946351748">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/296eb657d106148f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/05711463074527380161">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/101ce470844bd95c"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/17947351573007352251">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/90ca9a4a6d41277e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/06783592476664559866">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/296eb657d106148f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/13145309750056025686">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/101ce470844bd95c"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/14912612871028536984">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/90ca9a4a6d41277e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/00198941447548302116">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/296eb657d106148f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/11953845945909061981">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/e214b4e47cadfc9e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/15626353134863455548">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/296eb657d106148f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/07871283238073091975">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/4d4068cf6aa16417"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/02600000306395616305">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/90ca9a4a6d41277e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/02061244486153476737">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/296eb657d106148f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/11581356320720943583">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/90ca9a4a6d41277e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/02532236804463077917">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/90ca9a4a6d41277e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/02068280166281718425">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/4d4068cf6aa16417"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/03280524078864967709">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/296eb657d106148f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/07344476825648165727">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/296eb657d106148f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/18396123987414455397">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/101ce470844bd95c"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/06470162359077050977">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/90ca9a4a6d41277e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/13108055871573648228">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/296eb657d106148f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/03220502228277592711">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/296eb657d106148f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/12331900159868058604">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/296eb657d106148f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/02776070293975578271">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/90ca9a4a6d41277e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/03711529572495834394">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/296eb657d106148f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/13221769283753463129">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/90ca9a4a6d41277e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/14088346013482627006">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/4d4068cf6aa16417"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/05412568262184193188">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/90ca9a4a6d41277e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/06448103460337742549">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/101ce470844bd95c"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/18445507711127283317">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/7037672d1e8eda58"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/05557066130615923691">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/90ca9a4a6d41277e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/17829371372740171583">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/101ce470844bd95c"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/09318702010703989872">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/296eb657d106148f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/09644712295973787031">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/7037672d1e8eda58"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/06271908303623821325">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/f7c624939f7f3ca7"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/13476866193157595670">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/296eb657d106148f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/01547346114457376122">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/90ca9a4a6d41277e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/16076781959441423965">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/e214b4e47cadfc9e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/04464806535302981085">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/90ca9a4a6d41277e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/04157783137583506636">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/296eb657d106148f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/16847312661820969204">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/90ca9a4a6d41277e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/05353803996462656124">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/296eb657d106148f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/10129841501576580089">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/90ca9a4a6d41277e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/08404658381897375438">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/101ce470844bd95c"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/13041553111722399742">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/296eb657d106148f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/06894108084725024185">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/90ca9a4a6d41277e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/16644554214469119816">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/7037672d1e8eda58"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/06074467598130246781">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/90ca9a4a6d41277e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/06629955579244932573">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/90ca9a4a6d41277e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/18348745099106024680">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/101ce470844bd95c"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/14748742608474655003">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/f7c624939f7f3ca7"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/03712775109755796805">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/296eb657d106148f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/00011165451752668959">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/f7c624939f7f3ca7"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/13965816818182080802">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/90ca9a4a6d41277e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/08230895157492684841">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/7037672d1e8eda58"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/11583297076916372084">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/90ca9a4a6d41277e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/07012732737841580185">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/90ca9a4a6d41277e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/13280686632021407064">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/101ce470844bd95c"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/09512006099746141849">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/296eb657d106148f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/09524223078735546816">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/f7c624939f7f3ca7"/>
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/90ca9a4a6d41277e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/01659551760145706245">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/296eb657d106148f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/11450688948856670918">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/296eb657d106148f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/11357207268128916450">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/4d4068cf6aa16417"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/02117730998430226456">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/101ce470844bd95c"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/12111257573561753435">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/90ca9a4a6d41277e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/05950388173669273760">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/90ca9a4a6d41277e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/12048903629668643156">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/90ca9a4a6d41277e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/04949263758356150114">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/90ca9a4a6d41277e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/17391760468965876360">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/101ce470844bd95c"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/14748723285781131960">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/296eb657d106148f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/05631991399222727591">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/296eb657d106148f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/14373333873069575232">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/101ce470844bd95c"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/07638139419317846807">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/101ce470844bd95c"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/13190214954383710827">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/4d4068cf6aa16417"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/12287178962712179397">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/296eb657d106148f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.google.com/reader/shared/14838592557623315246">
+    <_3:likes rdf:resource="tag:google.com,2005:reader/item/90ca9a4a6d41277e"/>
+  </rdf:Description>
+</rdf:RDF>

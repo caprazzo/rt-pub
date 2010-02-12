@@ -1,5 +1,6 @@
 <?xml version="1.0"?>
-<feed xmlns:idx="urn:atom-extension:indexing" xmlns:gr="http://www.google.com/schemas/reader/atom/" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" idx:index="no" dir="ltr">
+<feed xmlns:idx="urn:atom-extension:indexing"
+	xmlns:gr="http://www.google.com/schemas/reader/atom/" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" idx:index="no" dir="ltr">
 	<!--
 Content-type: Preventing XSRF in IE.
 

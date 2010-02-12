@@ -10,10 +10,10 @@ default_graph_uri = "http://rdflib.net/rdfstore"
 configString = "host=localhost,user=username,password=password,db=rdfstore"
 
 # Get the mysql plugin. You may have to install the python mysql libraries
-store = plugin.get('MySQL', Store)('rdfstore')
+store = plugin.get('SQLite', Store)('rdfstore.ts')
 
 # Open previously created store, or create it if it doesn't exist yet
-rt = store.open(configString,create=False)
+rt = store.open('.',create=True)
 if rt == NO_STORE:
     # There is no underlying MySQL infrastructure, create it
     store.open(configString,create=True)
