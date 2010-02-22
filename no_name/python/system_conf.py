@@ -1,14 +1,6 @@
 from tornado.options import define
-
-# system conf
-define('amqp_host', default='localhost:5672',
-	help="connect to this amqp server", type=str)
-	
-define('query_queue', default='query_queue',
-	help='name of the queue that distributes new queries', type=str)
-	
-define('response_queue', default='response_queue',
-	help='name of the queue that distributes complete answers', type=str)
+from tornado.options import options
+from amqplib import client_0_8 as amqp
 
 # web service conf
 define('web_server_port', default=8888,
@@ -16,3 +8,46 @@ define('web_server_port', default=8888,
 	
 define('web_query_exchange', default='query_exchange',
 	help='name of the exchange where web queries are published')
+	
+# queue conf and setup
+define('amqp_host', default='localhost:5672',
+	help="connect to this amqp server", type=str)
+
+define('query_queue', default='query_queue',
+	help='name of the queue that distributes new queries', type=str)
+
+define('response_queue', default='response_queue',
+	help='name of the queue that distributes complete answers', type=str)
+	
+	
+conn = amqp.Connection(host=options.amqp_host,
+	userid="guest", password="guest",
+	virtual_host="/", insist=False)
+chan = conn.channel()
+
+# web_server ---[initial_query_queue]---> query_expander
+chan.queue_declare(queue='initial_query_queue',
+	durable=True, exclusive=False,  auto_delete=False)
+chan.exchange_declare(exchange='initial_query_exchange',
+	type="fanout", durable=True, auto_delete=False)
+chan.queue_bind(queue='initial_query_queue', 
+	exchange='initial_query_exchange')
+
+# query_expander ---[query_queue]---> recommender
+chan.queue_declare(queue='query_queue',
+	durable=True, exclusive=False,  auto_delete=False)
+chan.exchange_declare(exchange='query_exchange',
+	type="fanout", durable=True, auto_delete=False)
+chan.queue_bind(queue='query_queue',
+	exchange='query_exchange')
+
+# recommender ---[response_queue]---> web_server	
+chan.queue_declare(queue='response_queue',
+	durable=True, exclusive=False,  auto_delete=False)
+chan.exchange_declare(exchange='response_exchange',
+	type="fanout", durable=True, auto_delete=False)
+chan.queue_bind(queue='response_queue',
+	exchange='response_exchange')
+
+chan.close()
+conn.close()

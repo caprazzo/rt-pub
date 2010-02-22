@@ -37,3 +37,10 @@ your answer?
 
 If you enter some text and press enter, you should see
 your answer appear in the browser window
+
+
+Notes:
+------
+
+Example google graph api 'otherme' call:
+curl 'http://socialgraph.apis.google.com/otherme?pretty=1&q=http://www.google.com/profiles/matteo.caprari'
