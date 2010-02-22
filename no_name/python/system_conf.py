@@ -2,6 +2,9 @@ from tornado.options import define
 from tornado.options import options
 from amqplib import client_0_8 as amqp
 
+define('social_graph_api_url', default='http://socialgraph.apis.google.com',
+	help="social graph api endpoint", type=str)
+	
 # web service conf
 define('web_server_port', default=8888,
 	help="run on the given port", type=int)   

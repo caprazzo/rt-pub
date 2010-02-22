@@ -4,6 +4,7 @@ import threading
 import time
 import logging
 log = logging.getLogger(__name__)
+import uuid
 
 def serialize(obj):
 	return json.dumps(obj)
@@ -23,7 +24,7 @@ class MessageService(object):
 		self.conn.close()
 		
 	def send_request(self, request_obj, callback):
-		key = str(time.time())
+		key = str(uuid.uuid4())
 		env = { 'message_id': key,  'body': request_obj }
 		
 		self.response_listener.register_request(key, callback)

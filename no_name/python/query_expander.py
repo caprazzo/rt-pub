@@ -112,10 +112,12 @@ def main():
 			obj = json.loads(message.body)
 			message_id = obj['message_id']
 			profile = obj['body']['web-query']
-			url = 'http://socialgraph.apis.google.com/otherme?q=%s' % profile
+			url = '%s/otherme?q=%s' % (options.social_graph_api_url, profile)
 						
 			def http_recv(response):
+				log.info('response from graph api: %s' % response.body)
 				social_graph = json.loads(response.body)
+				
 				others = social_graph.keys()
 				others.append(profile)
 				amqp_respond(qs,message_id, others)

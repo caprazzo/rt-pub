@@ -31,7 +31,7 @@ class SearchHandler(tornado.web.RequestHandler):
 		log.info('received response [%s]' % response)
 		self.ioloop.remove_timeout(self.timeout)
 		self.write("Received " + response)
-		self.finish()		
+		self.finish()
 			
 	def on_timeout(self):
 		log.warn('timeout')
