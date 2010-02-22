@@ -7,10 +7,15 @@ import time
 from tornado.options import define, options
 from message_service import MessageService
 from response_listener import ResponseListener
+from amqplib import client_0_8 as amqp
 import logging
 log = logging.getLogger(__name__)
 
-
+def open_amqp_conn():
+	return amqp.Connection(host=options.amqp_host,
+		userid="guest", password="guest",
+		virtual_host="/", insist=False)
+		
 class SearchHandler(tornado.web.RequestHandler):
 	
 	def __init__(self, application, request, message_service):
@@ -34,14 +39,10 @@ def main():
 	tornado.options.parse_config_file('system_conf.py')
 	tornado.options.parse_command_line()
 	
-	response_listener = ResponseListener(
-		amqp_host=options.amqp_host,
-		response_queue=options.response_queue)
+	response_listener = ResponseListener(open_amqp_conn, queue='response_queue')
 	
-	message_service = MessageService(
-		amqp_host=options.amqp_host,
-		query_queue=options.query_queue,
-		publish_exchange=options.web_query_exchange,
+	message_service = MessageService(open_amqp_conn,
+		exchange='initial_query_exchange',
 		response_listener=response_listener)
     	
 	application = tornado.web.Application([
@@ -51,7 +52,7 @@ def main():
 	http_server = tornado.httpserver.HTTPServer(application)
 	http_server.listen(options.web_server_port)
 
-	response_listener.start()		
+	response_listener.start()
 	log.info('Starting web server on port %d' % options.web_server_port)			
 	
 	try:		
