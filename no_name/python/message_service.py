@@ -29,7 +29,7 @@ class MessageService(object):
 		self.response_listener.register_request(key, callback)
 		
 		msg = amqp.Message(serialize(env))
-		msg.properties["delivery_mode"] = 2
+		msg.properties["delivery_mode"] = 1
 		
 		log.info('registered and published request [%s]' % env)
 		

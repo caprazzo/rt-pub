@@ -1,142 +1,136 @@
 import tornado
 import tornado.ioloop
+import tornado.httpclient
 from tornado.options import options
+
 import threading
 from amqplib import client_0_8 as amqp
 import simplejson as json
-
-tornado.options.parse_config_file('system_conf.py')
+from system_conf import open_amqp_conn
+#tornado.options.parse_config_file('system_conf.py')
 tornado.options.parse_command_line()
 import logging
 log = logging.getLogger(__name__)
 
-def handle_request(response):
-	if response.error:
-		print "Error:", response.error
-	else:
-		print response.body
-	#tornado.ioloop.IOLoop.instance().stop()
+class QueueSender(threading.Thread):
 	
+	def __init__(self, open_amqp_conn, exchange):
+		log.info('Init queue sender on exchange [%s]' % exchange)
+		threading.Thread.__init__(self)
+		self.open_amqp_conn = open_amqp_conn
+		self.exchange = exchange
+		self.do_stop = False
+		self.messages = []
+		self.flushing = False
+		self.chan = None
+		
+	def run(self):
+		conn = self.open_amqp_conn()
+		self.chan = conn.channel()
+		log.info('Start sender on exchange [%s]' % self.exchange)
+		while not self.do_stop:
+			pass
+		self.chan.close()
+		conn.close()
+	
+	def send(self, obj):
+		self.messages.append(obj)
+		self._flush()
+		
+	def _flush(self):
+		if self.flushing: return
+		self.flushing = True
+		while len(self.messages) > 0:
+			self._send(self.messages.pop())
+		self.flushing = False
+	
+	def _send(self, obj):
+		body = json.dumps(obj)
+		msg = amqp.Message(body)
+		msg.properties["delivery_mode"] = 1
+		log.info('publishing request [%s]' % body)
+		self.chan.basic_publish(msg, exchange=self.exchange)
+		
+	def stop(self):
+		log.info('Stopping queue sender on exchange [%s]' % self.exchange)
+		self.do_stop = True
+		
 class QueueListener(threading.Thread):
 
 	def __init__(self, open_amqp_conn, queue):
-		log.info('Starting response listener')
+		log.info('Init queue listener on queue [%s]' % queue)
 		threading.Thread.__init__(self)
 		self.open_amqp_conn = open_amqp_conn
 		self.queue = queue
 		self.do_stop = False
-		self.requests = {}
-
+		self.chan = None
+		self.callback = None
+		
 	def recv(self, msg):
-		envelope = deserialize(msg.body)
-		key = envelope['response_to_id']
-		log.info('received message with key %s: %s' % (key, envelope))
-		if key in self.requests:
-			log.info('found callback for message %s. dispatching.' % key)
-			callback = self.requests[key]
-			del self.requests[key]
-			callback(msg.body)
+		log.info('Received message [%s]' % msg)
+		print dir(msg)
+		print msg.body
+		self.callback(msg)
+		self.chan.basic_ack(msg.delivery_tag)
+			
+	def onMessage(self, callback):
+		self.callback = callback
 
 	def run(self):
 		conn = self.open_amqp_conn()
-		chan = conn.channel()
+		self.chan = conn.channel()
 		log.info('Start consuming queue %s' % self.queue)	
 		try:
-			chan.basic_consume(queue=self.queue, no_ack=True, callback=self.recv)
+			self.chan.basic_consume(queue=self.queue, no_ack=False, callback=self.recv)
 			while not self.do_stop:
-				chan.wait()
+				self.chan.wait()
 		except Exception, e:
 			log.error('Exception [%s]', str(e))
 		log.info('Stopping')
-		chan.close()
+		self.chan.close()
 		conn.close()
 
-	def register_request(self, key, callback):
-		log.info('registered callback for request [%s]' % key)
-		self.requests[key] = callback
-
 	def stop(self):
+		log.info("Stopping queue listener on [%s]" % self.queue)
 		self.do_stop = True
-
-class Webclient(threading.Thread):
-	
-	def run(self):
-		log.info('starting httplient ioloop')
-		tornado.ioloop.IOLoop.instance().start()
-	
-	def wrap(self, callback):
-		def wrapper(response):
-			log.info('executing callback')
-			callback(response)
-		return wrapper
-	
-	def fetch(self, url, callback):
-		log.info('fetching url [%s]' % url)
-		self.http_client = tornado.httpclient.AsyncHTTPClient()
-		self.http_client.fetch(url, self.wrap(callback))
 		
-	def stop(self):
-		log.info('stopping')
-		tornado.ioloop.IOLoop.instance().stop()
-
-def recv(msg):
-	obj = json.loads(msg.body)
-	log.info('received [%s]' % obj)
-
-def setup_amqp(self):
-	
-def umain():
-	q = QueueListener(get_amqp_conn, 'initial_query_queue')
-	c = WebClient()
-	
-	def amqp_respond(message_id, profiles):
-		env = {
-			'response_to_id': message_id,
-			'body': {
-				'web-query': profiles
-			}
+def amqp_respond(queue_sender, message_id, profiles):
+	env = {
+		'message_id': message_id,
+		'body': {
+			'web-query': profiles
 		}
-		# put it on query_queue
-		
-	def amqp_recv(message):
-		obj = json.loads(message.body)
-		message_id = obj['message_id']
-		profile = obj.body['web-query']
-		url = 'http://socialgraph.apis.google.com/otherme?q=%s' % profile
-		
-		def http_recv(response):
-			social_graph = json.loads(response.body)
-			others = social_graph.keys()
-			others.append[profile]
-			amqp_respond(message_id, others)
-			
-		c.fetch(url, http_recv)
-		
-	q.onMessage(amqp_recv)
-	q.start()
-		
+	}
+	queue_sender.send(env)
 
 def main():
-	log.info('starting main')	
-	web_client = Webclient()
-	web_client.start()
-	
-	conn = amqp.Connection(host=self.amqp_host,
-		userid="guest", password="guest",
-		virtual_host="/", insist=False)
-		
-	chan = conn.channel()
-	try:	
-		chan.basic_consume(queue='initial_query_queue',
-			no_ack=True,
-			callback=recv)
-		
-		while True:
-			chan.wait()
+	ql = QueueListener(open_amqp_conn, 'initial_query_queue')
+	qs = QueueSender(open_amqp_conn, 'query_exchange')
+	try:
+		def amqp_recv(message):
+			log.info('amqp_recv seeing message %s' % message.body)
+			obj = json.loads(message.body)
+			message_id = obj['message_id']
+			profile = obj['body']['web-query']
+			url = 'http://socialgraph.apis.google.com/otherme?q=%s' % profile
+						
+			def http_recv(response):
+				social_graph = json.loads(response.body)
+				others = social_graph.keys()
+				others.append(profile)
+				amqp_respond(qs,message_id, others)
+				
+			http = tornado.httpclient.AsyncHTTPClient()	
+			http.fetch(url, http_recv)			
+			
+		ql.onMessage(amqp_recv)
+		ql.start()
+		qs.start()	
+		tornado.ioloop.IOLoop.instance().start()
 	except:
-		log.error()	
-	conn.stop()
-	chan.stop()
+		qs.stop()
+		ql.stop()
+		tornado.ioloop.IOLoop.instance().stop()
 	
 if __name__ == "__main__":
 	main()

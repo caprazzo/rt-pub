@@ -36,11 +36,12 @@ chan.queue_bind(
 	exchange='stupid_client_exchange')
 	
 def recv(msg):
+	chan.basic_ack(msg.delivery_tag)
 	print 'received message %s' % msg.body
 	obj = json.loads(msg.body)
 	input = raw_input("your answer? ")
 	envelope = {
-		'response_to_id': obj['message_id'],
+		'message_id': obj['message_id'],
 		'body': input
 	}
 	print 'sending %s' % envelope

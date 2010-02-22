@@ -8,35 +8,38 @@ from tornado.options import define, options
 from message_service import MessageService
 from response_listener import ResponseListener
 from amqplib import client_0_8 as amqp
+from system_conf import open_amqp_conn
 import logging
 log = logging.getLogger(__name__)
-
-def open_amqp_conn():
-	return amqp.Connection(host=options.amqp_host,
-		userid="guest", password="guest",
-		virtual_host="/", insist=False)
 		
 class SearchHandler(tornado.web.RequestHandler):
 	
 	def __init__(self, application, request, message_service):
 		tornado.web.RequestHandler.__init__(self,application, request)
 		self.message_service = message_service
+		self.ioloop = tornado.ioloop.IOLoop.instance()
 
 	@tornado.web.asynchronous
 	def get(self):
-		query=self.get_argument('q')
+		query = self.get_argument('q')
 		log.info('received search query [%s]' % query)
-		self.message_service.send_request({'web-query':query},
-			self.async_callback(self.on_response))
+		deadline = time.time() + options.web_query_timeout
+		self.timeout = self.ioloop.add_timeout(deadline, self.on_timeout)
+		self.message_service.send_request({'web-query':query}, self.async_callback(self.on_response))
 
 	def on_response(self, response):
 		log.info('received response [%s]' % response)
+		self.ioloop.remove_timeout(self.timeout)
 		self.write("Received " + response)
+		self.finish()		
+			
+	def on_timeout(self):
+		log.warn('timeout')
+		self.write('timeout')
 		self.finish()
 
 def main():
 	log.info('Web system start')	
-	tornado.options.parse_config_file('system_conf.py')
 	tornado.options.parse_command_line()
 	
 	response_listener = ResponseListener(open_amqp_conn, queue='response_queue')

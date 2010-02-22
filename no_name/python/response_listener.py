@@ -20,7 +20,7 @@ class ResponseListener(threading.Thread):
 
 	def recv(self, msg):
 		envelope = deserialize(msg.body)
-		key = envelope['response_to_id']
+		key = envelope['message_id']
 		log.info('received message with key %s: %s' % (key, envelope))
 		if key in self.requests:
 			log.info('found callback for message %s. dispatching.' % key)
