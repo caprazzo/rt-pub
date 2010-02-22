@@ -1,5 +1,5 @@
 
-MAC OS
+SETUP ON MAC OS
 
 install tornado
 ---------------
@@ -13,7 +13,7 @@ sudo python setup.py install
 install amqp
 ------------
 sudo port install rabbitmq-server
-easy_install -U amqplib
+sudo easy_install -U amqplib
 
 run demo
 --------
