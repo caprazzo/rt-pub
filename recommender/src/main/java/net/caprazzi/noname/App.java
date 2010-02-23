@@ -35,10 +35,10 @@ public class App {
     	// safety: never use a channel in different threads
     	Channel channel = conn.createChannel();
     	
-    	channel.queueDeclare("query-queue");
-    	channel.queueDeclare("response-queue");
-    	channel.exchangeDeclare("response-exchange", "fanout");
-    	channel.queueBind("response-queue", "response-exchange", "ugo");
+    	System.out.println(channel.queueDeclare("query-queue"));
+    	System.out.println(channel.queueDeclare("response-queue"));
+    	System.out.println(channel.exchangeDeclare("response-exchange", "fanout"));
+    	System.out.println(channel.queueBind("response-queue", "response-exchange", "ugo"));
     	
     	boolean noAck = false;
     	QueueingConsumer consumer = new QueueingConsumer(channel);
