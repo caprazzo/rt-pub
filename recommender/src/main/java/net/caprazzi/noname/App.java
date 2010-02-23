@@ -1,49 +1,61 @@
 package net.caprazzi.noname;
 
 import java.io.IOException;
-import java.util.List;
 
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 
 import com.rabbitmq.client.Channel;
+import com.rabbitmq.client.Connection;
 import com.rabbitmq.client.ConnectionFactory;
 import com.rabbitmq.client.ConnectionParameters;
-import com.rabbitmq.client.Connection;
-
-import com.rabbitmq.client.Consumer;
+import com.rabbitmq.client.DefaultConsumer;
 import com.rabbitmq.client.QueueingConsumer;
-import com.rabbitmq.tools.json.JSONReader;
-
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import com.rabbitmq.client.Envelope;
 /**
  * reads query-queue
  * writes response-queue
  */
 public class App {
-	
-    public static void main( String[] args ) throws IOException, JSONException {
-    	
-    	ConnectionParameters params = new ConnectionParameters();
-    	params.setUsername("guest");
-    	params.setPassword("guest");
-    	params.setVirtualHost("/");
-    	params.setRequestedHeartbeat(0);
-    	ConnectionFactory factory = new ConnectionFactory(params);
-    	Connection conn = factory.newConnection("localhost", 5672);
-    	
-    	// safety: never use a channel in different threads
-    	Channel channel = conn.createChannel();
-    	
-    	channel.queueDeclare("query-queue");
-    	channel.queueDeclare("response-queue");
-    	channel.exchangeDeclare("response-exchange", "fanout");
-    	channel.queueBind("response-queue", "response-exchange", "ugo");
-    	
-    	boolean noAck = false;
-    	QueueingConsumer consumer = new QueueingConsumer(channel);
-    	channel.basicConsume("query-queue", noAck, consumer);
-    	System.out.println("ok");
+
+	public static void main( String[] args ) throws IOException, JSONException {
+		Logger logger = LoggerFactory.getLogger(App.class);
+		ConnectionParameters params = new ConnectionParameters();
+		params.setUsername("guest");
+		params.setPassword("guest");
+		params.setVirtualHost("/");
+		params.setRequestedHeartbeat(0);
+		ConnectionFactory factory = new ConnectionFactory(params);
+		Connection conn = factory.newConnection("localhost", 5672);
+
+		// safety: never use a channel in different threads
+		final Channel channel = conn.createChannel();
+
+		channel.queueDeclare("query_queue");
+		channel.queueDeclare("response_queue");
+		channel.exchangeDeclare("response_exchange", "fanout");
+		channel.queueBind("response_queue", "response_exchange", "ugo");
+
+		boolean noAck = false;
+		//QueueingConsumer consumer = new QueueingConsumer(channel);
+		//channel.basicConsume("query-queue", noAck, consumer);
+		logger.info("ok");
+
+
+		
+		int corePoolSize = 2;
+		int maximumPoolSize = 2;
+		int maxQueueSize = 2;
+		QueryResolverService queryResolverService = new QueryResolverService(corePoolSize, maximumPoolSize, maxQueueSize);
+		
+		QueryQueueConsumer consumer = new QueryQueueConsumer(channel);
+		consumer.setQueryResolverService(queryResolverService);
+		channel.basicConsume("query_queue", consumer);
+
+		/*
     	while (true) {
     	    QueueingConsumer.Delivery delivery;
     	    System.out.println("out");
@@ -62,12 +74,13 @@ public class App {
     		String[] profiles = new String[query.length()];
     		System.out.println("received message " + messageId);
     		for (String string : profiles) {
-				System.out.println(profiles);
+				System.out.println(string);
 			}
-    	    
+
     	    channel.basicAck(delivery.getEnvelope().getDeliveryTag(), false);
     	}
-    	
-    	
-    }
+		 */
+
+
+	}
 }

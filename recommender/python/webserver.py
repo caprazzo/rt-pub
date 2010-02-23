@@ -63,7 +63,7 @@ def main():
 	except:
 		response_listener.stop()		
 		message_service.stop()
-		exit()
+		response_listener.join()
     	
 if __name__ == "__main__":
     main()

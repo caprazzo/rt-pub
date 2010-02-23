@@ -4,6 +4,7 @@ import tornado.httpclient
 from tornado.options import options
 
 import threading
+import time
 from amqplib import client_0_8 as amqp
 import simplejson as json
 from system_conf import open_amqp_conn
@@ -29,16 +30,16 @@ class QueueSender(threading.Thread):
 		self.chan = conn.channel()
 		log.info('Start sender on exchange [%s]' % self.exchange)
 		while not self.do_stop:
-			pass
+			if not self.flushing:
+				self._flush()
+			time.sleep(0.001)
 		self.chan.close()
 		conn.close()
 	
 	def send(self, obj):
 		self.messages.append(obj)
-		self._flush()
 		
 	def _flush(self):
-		if self.flushing: return
 		self.flushing = True
 		while len(self.messages) > 0:
 			self._send(self.messages.pop())
@@ -130,8 +131,10 @@ def main():
 		qs.start()	
 		tornado.ioloop.IOLoop.instance().start()
 	except:
-		qs.stop()
+		qs.stop()		
 		ql.stop()
+		qs.join()
+		ql.join()
 		tornado.ioloop.IOLoop.instance().stop()
 	
 if __name__ == "__main__":
