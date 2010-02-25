@@ -5,6 +5,8 @@ import java.io.IOException;
 import java.util.List;
 
 import org.apache.mahout.cf.taste.common.TasteException;
+import org.apache.mahout.cf.taste.impl.common.FastByIDMap;
+import org.apache.mahout.cf.taste.impl.common.FastIDSet;
 import org.apache.mahout.cf.taste.impl.model.GenericBooleanPrefDataModel;
 import org.apache.mahout.cf.taste.impl.model.file.FileDataModel;
 import org.apache.mahout.cf.taste.impl.neighborhood.NearestNUserNeighborhood;
@@ -18,6 +20,14 @@ import org.apache.mahout.cf.taste.similarity.UserSimilarity;
 
 public class BookSimpleRecommender {
 
+	public Recommender buildBooleanRecommender(FastByIDMap<FastIDSet> userData) {
+		GenericBooleanPrefDataModel model = new GenericBooleanPrefDataModel(userData);
+		UserSimilarity similarity = new TanimotoCoefficientSimilarity(model);
+		UserNeighborhood neighborhood = new NearestNUserNeighborhood(10, similarity, model);
+		Recommender recommender = new GenericBooleanPrefUserBasedRecommender(model, neighborhood, similarity);
+		return recommender;
+	}
+	
 	public static void main(String[] args) {
 		DataModel model;
 		try {

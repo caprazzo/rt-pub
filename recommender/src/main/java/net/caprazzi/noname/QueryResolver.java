@@ -12,10 +12,15 @@ public class QueryResolver {
 
 	private UserPrefService userPrefService;
 
-	public void resolve(String messageId, String[] query) {
+	public void resolve(String messageId, String[] profiles) {
 		//1. extract the domain for this profiles
-		getDomain(query);
-		
+		//getDomain(profiles[0]);
+		String query = "SELECT ?other_user ?any_item WHERE {" +
+		    "<http://www.google.com/reader/shared/04542763409539038815> ?rel ?item ." +    
+		    "?other_user ?any_rel ?item" +
+		    "?other_user ?other_rel ?any_item" +
+		"}";
+		query.hashCode();
 		//2. transpose refs and domain to numbers
 		//3. ask recommender
 		//4. put response on the channel
@@ -35,26 +40,17 @@ public class QueryResolver {
 			BufferedReader br = new BufferedReader(new StringReader(response));
 			String data = null;
 			boolean firstLine = true;
-			while ((data = br.readLine()) != null) {
-				//System.out.println("Print the contents from the file :" + data);
-				if (firstLine) {
-					firstLine = false;
-					continue;
-				} else {
-					String[] splittArray = data.split("\\t");
-					String user = splittArray[0];
-					String item = splittArray[1];
-				}
+			// skip header line, exit if empty
+			if (br.readLine() == null) {
+				return;
 			}
-		} catch (MalformedURLException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		} catch (ProtocolException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
+			while ((data = br.readLine()) != null) {
+				String[] splittArray = data.split("\\t");
+				String user = splittArray[0];
+				String item = splittArray[1];
+			}
+		} catch (Exception e) {
+			throw new RuntimeException(e);
 		}
 		
 	}
