@@ -23,7 +23,7 @@ public class BookSimpleRecommender {
 		try {
 			model = new GenericBooleanPrefDataModel(new FileDataModel(new File("/Users/dikappa/Documents/workspace/rt-pub/my_items_cluster/data.txt")));
 			UserSimilarity similarity = new TanimotoCoefficientSimilarity(model);
-			UserNeighborhood neighborhood = new NearestNUserNeighborhood(10, similarity, model);
+			UserNeighborhood neighborhood = new NearestNUserNeighborhood(100, similarity, model);
 			Recommender recommender = new GenericBooleanPrefUserBasedRecommender(model, neighborhood, similarity);
 			List<RecommendedItem> recommendations = recommender.recommend(1768, 3);
 			for (RecommendedItem recommendation: recommendations){
